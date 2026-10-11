@@ -17,7 +17,7 @@
 
 ## 2026-10-11: Speed pass on Restock + October (on copy, not yet live)
 - Duplicated **Restock + October** (`192379322552`) as **Restock + October – speed** (`192484999352`, unpublished).
-  This is the copy to publish with the bikini restock (planned Tue 14 Oct).
+  This is the copy to publish with the bikini restock (planned Tue 13 Oct).
 - `layout/theme.liquid` (same fixes as pass 1, plus Klarna):
   - Removed Rivo `booster-apps-common` include (also loaded polyfill.io). Reviews run on Judge.me (app embed).
   - Removed `nosto-tagging` render.
