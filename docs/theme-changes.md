@@ -35,3 +35,6 @@
 ### Still to do
 - Uninstall Rivo and Nosto apps in Shopify admin.
 - Trim `assets/theme.css` (642 KB). Review duplicate Meta Pixel (hardcoded in layout and possibly via the Facebook channel).
+- **Pop-up is slow to appear** (requested 2026-10-12). First confirm which pop-up: the theme's own `popup` section
+  (rendered in `layout/theme.liquid`) or the Klaviyo sign-up form (Klaviyo app embed is on). Then check its delay/trigger
+  settings, image size, and whether it waits on other scripts to load.
