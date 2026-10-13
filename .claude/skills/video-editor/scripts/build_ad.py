@@ -80,6 +80,22 @@ class Envelope:
             x += 0.01
         return max(min(hi, t + 0.25), t + 0.08)
 
+    def speech_spans(self, a, b, gap=PAUSE, pad=0.1):
+        """Split [a, b] wherever the audio stays quiet for longer than `gap` seconds."""
+        spans, cur, q0 = [], a, None
+        x = a
+        while x < b:
+            if self._q(x):
+                q0 = x if q0 is None else q0
+            else:
+                if q0 is not None and x - q0 > gap and q0 > cur:
+                    spans.append((cur, q0 + pad))
+                    cur = x - pad
+                q0 = None
+            x += 0.01
+        spans.append((cur, b))
+        return [(sa, sb) for sa, sb in spans if sb - sa > 0.15]
+
     def quiet_before(self, t, limit):
         """Last quiet point before t (so the first word's onset isn't clipped)."""
         lo = max(limit + 0.03, t - 0.5, 0)
@@ -193,15 +209,16 @@ def main(spec_path):
             nxt = min([w["start"] for w in allw if w["start"] >= r[-1]["end"] + 0.01] or [r[-1]["end"] + 0.8])
             a = env.quiet_before(r[0]["start"], prev_end)
             bnd = env.quiet_after(r[-1]["end"], nxt)
-            p = f"{b}/seg{i:02d}_{j}.mp4"
-            dur = bnd - a
-            run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", f"{a:.3f}", "-t", f"{dur:.3f}",
-                 "-i", f"{SRC}/IMG_{s['clip']}.MOV", "-vf", vf,
-                 "-af", f"aresample=48000,aformat=channel_layouts=stereo,afade=t=in:d=0.015,afade=t=out:st={dur - 0.03:.3f}:d=0.03",
-                 *X264, "-crf", "12", *AAC, p])
-            parts.append(p)
-            offs.append((a, bnd, t0))
-            t0 += dur
+            for sa, sb in env.speech_spans(a, bnd):  # also drop silences Whisper hid inside long words
+                p = f"{b}/seg{i:02d}_{j}_{len(parts)}.mp4"
+                dur = sb - sa
+                run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", f"{sa:.3f}", "-t", f"{dur:.3f}",
+                     "-i", f"{SRC}/IMG_{s['clip']}.MOV", "-vf", vf,
+                     "-af", f"aresample=48000,aformat=channel_layouts=stereo,afade=t=in:d=0.015,afade=t=out:st={dur - 0.03:.3f}:d=0.03",
+                     *X264, "-crf", "12", *AAC, p])
+                parts.append(p)
+                offs.append((sa, sb, t0))
+                t0 += dur
 
         def remap(t):
             for a, bnd, tl in offs:
