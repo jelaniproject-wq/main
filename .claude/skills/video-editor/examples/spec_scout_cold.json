@@ -1,0 +1,8 @@
+{"name": "scout_cold",
+ "segments": [
+  {"clip": "3805", "start": 299.5, "end": 302.45, "caps": ["THIS IS THE BIKINI", "YOU REACH FOR", "WHEN YOU WANT TO", "FEEL GOOD AT THE BEACH."]},
+  {"clip": "3806", "start": 29.0, "end": 34.0, "zoom": 1.1, "caps": ["SHE'S MY BEST SELLER,", "I'VE SOLD OVER", "A THOUSAND PIECES", "AND TODAY SHE'S", "AVAILABLE IN ALL SIZES."]},
+  {"clip": "3805", "start": 103.9, "end": 107.9, "caps": ["A CHEF'S KISS,", "ESPECIALLY IF YOU'RE", "A GIRL THAT LOVES A TAN."]},
+  {"clip": "3805", "start": 132.3, "end": 135.35, "hflip": true, "caps": ["THEY'RE MADE FROM", "RECYCLED PLASTIC BOTTLES."]}],
+ "highlight": ["BIKINI", "BEACH.", "BEST", "THOUSAND", "ALL", "TAN.", "RECYCLED"],
+ "endcard": ["SCOUT SET", "1,000+ PIECES SOLD", "XS – L  ·  jelani.com.au"]}

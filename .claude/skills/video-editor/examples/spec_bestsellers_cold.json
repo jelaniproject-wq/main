@@ -1,0 +1,9 @@
+{"name": "bestsellers_cold",
+ "segments": [
+  {"clip": "3793", "start": 1.75, "end": 5.1, "caps": ["MOST REQUESTED", "SET IN OUR DMS", "HAS JUST LANDED!"]},
+  {"clip": "3803", "start": 0.0, "end": 4.85, "zoom": 1.08, "caps": ["OVER 1,000 OF THESE", "HAVE SOLD", "AND I'M JUST A", "TINY LITTLE AUSSIE LABEL."]},
+  {"clip": "3808", "start": 85.4, "end": 88.35, "zoom": 1.1, "caps": ["SHE'S LEOPARD PRINT", "AND HIBISCUS", "AND YES, IT WORKS."]},
+  {"clip": "3808", "start": 174.4, "end": 176.0, "caps": ["THIS COLOUR COMBO", "STILL GETS ME."]},
+  {"clip": "3808", "start": 290.1, "end": 294.0, "zoom": 1.08, "caps": ["THE ISLA IS", "POLKA DOTS", "BUT MAKE IT MOODY."]}],
+ "highlight": ["REQUESTED", "LANDED!", "1,000", "AUSSIE", "LEOPARD", "HIBISCUS", "COLOUR", "MOODY."],
+ "endcard": ["BESTSELLERS", "ARE BACK", "jelani.com.au"]}

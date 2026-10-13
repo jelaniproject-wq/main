@@ -159,3 +159,12 @@ Check with `ebur128` that both land within ~1 LU of each other.
 ## Guardrails (from CLAUDE.md)
 - Never post or send anything to customers; deliver files only.
 - No customer personal data in repo files. Never commit video files to git.
+
+## Ad builder (scripts/build_ad.py)
+Run from a work folder containing `../src/IMG_xxxx.MOV` and Whisper JSON in `tx/a<clip>.json`:
+`python3 .claude/skills/video-editor/scripts/build_ad.py spec.json` → `out/<name>_9x16_v1.mp4` + `_4x5_v1.mp4`.
+A spec lists segments (clip, start, end, optional zoom/hflip, hand-phrased `caps`), highlight words
+and a 3-line end card. Examples from the Oct 2026 restock: `examples/spec_*.json`.
+- Front-camera footage is mirrored: set `"hflip": true` on shots where text (tags, labels) must read.
+- Chat attachments cap at 30 MB: deliver 9:16 at CRF 18–20 if the CRF 16 master is larger.
+- Verify on-camera claims against Shopify before captioning them (e.g. "1,000+ sold" = pieces, not sets).

@@ -1,0 +1,13 @@
+{"name": "scout_warm",
+ "segments": [
+  {"clip": "3791", "start": 3.95, "end": 8.0, "zoom": 1.0,
+   "caps": ["IF YOU MISSED OUT", "ON THE SCOUT SET", "LAST TIME,", "DO NOT SCROLL."]},
+  {"clip": "3805", "start": 149.25, "end": 152.95, "zoom": 1.12,
+   "caps": ["YOUR GO-TO BIKINI", "IS FINALLY BACK", "IN STOCK."]},
+  {"clip": "3805", "start": 82.9, "end": 86.2, "zoom": 1.0,
+   "caps": ["EVERY SIZE", "IS IN STOCK", "FROM EXTRA SMALL", "TO LARGE."]},
+  {"clip": "3805", "start": 349.6, "end": 353.35, "zoom": 1.1,
+   "caps": ["THEY DO NOT LAST", "SO GRAB YOURS", "BEFORE THEY'RE BACK", "TO PRE-ORDER."]}],
+ "highlight": ["SCOUT", "SCROLL.", "BACK", "EVERY", "LAST", "PRE-ORDER."],
+ "endcard": ["SCOUT SET", "IS BACK", "XS – L  ·  jelani.com.au"],
+ "endcard_secs": 2.0}
