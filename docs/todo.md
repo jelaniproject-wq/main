@@ -6,6 +6,7 @@ _Last updated 2026-10-14 (AEDT)._
 - [ ] **Pack orders.** 33 paid orders unfulfilled (31 from the restock launch, #4898–#4928).
 - [ ] **Check two old unfulfilled orders:** #3678 (Mar 2025) and #4642 (Jun 2026). Fulfil, refund or archive.
 - [ ] **Meta ads (launched night of 13 Oct):** quick health check day 1, first review day 3, decisions day 7. Don't edit during learning.
+- [ ] **Meta ads billing:** pay Meta from a dedicated ANZ account/card so ad spend stays separate. Set an account spending limit too.
 - [ ] **Reply to Indie Stewart (designer).**
 - [ ] **'HER' graphic design:** review and write up feedback.
 - [ ] **Sit with Icy:** patterns for samples.
