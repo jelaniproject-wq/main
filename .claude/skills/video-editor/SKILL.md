@@ -94,6 +94,22 @@ as small accents in approved colours, never as a replacement for the logo.
 |---|---|---|
 | Reels / TikTok / Shorts | 9:16 vertical | 1080×1920 |
 | YouTube | 16:9 wide | 1920×1080 (or source 4K) |
+
+### Meta ads (Facebook + Instagram paid)
+Deliver **two cuts of every ad** so one creative covers all placements:
+| Cut | Size | Placements |
+|---|---|---|
+| 9:16 | 1080×1920 | Reels, Stories (primary; build this first) |
+| 4:5 | 1080×1350 | Feed (Facebook + Instagram) |
+- **Safe zones (9:16):** keep text, logo and product out of the top ~14 % (270 px) and bottom ~35 %
+  (670 px) where Meta's UI and CTA button sit; also keep ~6 % clear on the sides.
+- **Hook in the first 1–3 s** (product on screen immediately, bold caption). Most people watch
+  sound-off, so **burn in captions by default** for ads.
+- **Length:** 6–15 s sweet spot; 30 s max unless asked. End on a clear CTA card
+  (e.g. "RESTOCKED. Shop now at jelani.com.au").
+- Don't add a fake "Shop Now" button; Meta adds the real CTA button.
+- Name files for Ads Manager: `<product>_<hook>_<9x16|4x5>_v1.mp4`. File limit 4 GB, H.264/AAC MP4.
+
 Always export at the **highest quality**:
 `-c:v libx264 -preset slow -crf 16 -pix_fmt yuv420p -profile:v high -c:a aac -b:a 320k -ar 48000 -movflags +faststart`
 Keep the source frame rate. Never upscale and call it sharper.
