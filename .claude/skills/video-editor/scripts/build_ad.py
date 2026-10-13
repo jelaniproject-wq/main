@@ -86,7 +86,8 @@ class Envelope:
         self.rms = [(sum(x * x for x in a[k:k + hop]) / hop) ** 0.5 for k in range(0, len(a) - hop, hop)]
         srt = sorted(self.rms)
         floor, loud = srt[len(srt) // 5], srt[int(len(srt) * 0.9)]
-        self.thr = floor + 0.12 * (loud - floor)
+        # quiet = near the room-noise floor; soft words ("they're") sit well above it even when far below the loud peaks
+        self.thr = max(floor * 4, floor + 0.05 * (loud - floor))
 
     def _q(self, t):
         k = int(t * 100)
@@ -280,7 +281,7 @@ def main(spec_path):
         for j, r in enumerate(runs):
             prev_end = max([w["end"] for w in allw if w["end"] <= r[0]["start"]] or [0.0])
             nxt = min([w["start"] for w in allw if w["start"] >= r[-1]["end"] + 0.01] or [r[-1]["end"] + 0.8])
-            a = env.quiet_before(r[0]["start"], prev_end)
+            a = s["cut_start"] if (j == 0 and "cut_start" in s) else env.quiet_before(r[0]["start"], prev_end)
             bnd = env.quiet_after(r[-1]["end"], nxt)
             for sa, sb in env.speech_spans(a, bnd):  # also drop silences Whisper hid inside long words
                 p = f"{b}/seg{i:02d}_{j}_{len(parts)}.mp4"
@@ -303,7 +304,7 @@ def main(spec_path):
         if "caps" in s:  # hand-phrased captions: each takes as many words as it has
             groups, k = [], 0
             for c in s["caps"]:
-                n = len(c.split())
+                c, n = (c.rsplit("|", 1)[0], int(c.rsplit("|", 1)[1])) if "|" in c else (c, len(c.split()))
                 g = ws[k:k + n] or ws[-1:]
                 groups.append([{"start": g[0]["start"], "end": g[-1]["end"], "t": c}])
                 k += n
