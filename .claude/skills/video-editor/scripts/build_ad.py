@@ -38,6 +38,28 @@ def all_words(clip):
     return [dict(w) for s in d["segments"] for w in s.get("words", [])]
 
 
+_MODEL = None
+
+
+def window_words(clip, a, b, pad=2.0):
+    """Re-transcribe just [a-pad, b+pad]: short windows give far more accurate word times than a
+    full-clip pass, and expose stumbles/retakes that the long pass merges. Cached in tx/."""
+    global _MODEL
+    a0 = max(0.0, a - pad)
+    cache = f"{TX}/win_{clip}_{a0:.2f}_{b + pad:.2f}.json"
+    if not os.path.exists(cache):
+        import whisper
+        _MODEL = _MODEL or whisper.load_model("small.en")
+        wav = f"{TX}/win_tmp.wav"
+        run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", f"{a0:.3f}", "-t", f"{b + pad - a0:.3f}",
+             "-i", f"a{clip}.wav", wav])
+        r = _MODEL.transcribe(wav, language="en", word_timestamps=True, fp16=False,
+                              condition_on_previous_text=False)
+        json.dump([{"word": w["word"], "start": a0 + w["start"], "end": a0 + w["end"]}
+                   for sg in r["segments"] for w in sg.get("words", [])], open(cache, "w"))
+    return json.load(open(cache))
+
+
 def merge_tokens(ws):
     """Whisper splits "pre -order" / "1 ,000"; glue those back onto the previous word."""
     out = []
@@ -196,7 +218,7 @@ def main(spec_path):
         z = s.get("zoom", 1.0)
         vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
               f"scale=iw*{z}:ih*{z},crop={W}:{H},setsar=1,fps={FPS}" + (",hflip" if s.get("hflip") else ""))
-        allw = all_words(s["clip"])
+        allw = window_words(s["clip"], s["start"], s["end"])
         ws = merge_tokens([w for w in allw if s["start"] - 0.05 <= w["start"] < s["end"]])
         # split into runs wherever the speaker pauses > PAUSE (skill rule 3)
         runs = [[ws[0]]]
