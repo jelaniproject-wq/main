@@ -170,3 +170,13 @@ and a 3-line end card. Examples from the Oct 2026 restock: `examples/spec_*.json
 - Front-camera footage is mirrored: set `"hflip": true` on shots where text (tags, labels) must read.
 - Chat attachments cap at 30 MB: deliver 9:16 at CRF 18–20 if the CRF 16 master is larger.
 - Verify on-camera claims against Shopify before captioning them (e.g. "1,000+ sold" = pieces, not sets).
+
+## Lessons from the Oct 2026 restock edit (do these every time)
+- **Verify by ear:** after rendering, run Whisper on the finished ad and compare it to the captions.
+  It catches clipped first words, leaked fragments, off-topic asides, "um"s and doubled takes.
+  Never deliver before this check passes.
+- Whisper stretches words across pauses; when a cut-in is wrong, set `"cut_start"` explicitly.
+- Caption count trick: `"THE MOST REQUESTED|2"` = show this text over the next 2 spoken words.
+- DM social proof: crop real bubbles with `crop_dm.py` (bubble only, no names/handles/avatars),
+  then `"dm_wall": {"mode": "takeover", ...}` for one moment where they flood the screen and clear.
+- Keep DM crops and any spec that names customers in the scratch work folder, never in the repo.
