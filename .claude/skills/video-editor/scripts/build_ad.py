@@ -120,13 +120,17 @@ class Envelope:
 
     def quiet_before(self, t, limit):
         """Last quiet point before t (so the first word's onset isn't clipped)."""
-        lo = max(limit + 0.03, t - 0.5, 0)
-        x = t - 0.02
+        # Whisper often marks soft onsets ("Your", "Everything", "They're") late, and their first
+        # frames are quieter than speech, so start looking well before t and demand real silence.
+        lo = max(limit + 0.03, t - 0.7, 0)
+        x = t - 0.15
+        soft = self.thr * 0.6
         while x > lo:
-            if all(self._q(x - d / 100) for d in range(6)):
-                return max(x - 0.04, lo)
+            if all(0 <= int((x - d / 100) * 100) < len(self.rms) and self.rms[int((x - d / 100) * 100)] < soft
+                   for d in range(15)):
+                return max(x - 0.05, lo)
             x -= 0.01
-        return max(lo, t - 0.12)
+        return max(lo, t - 0.3)
 
 
 def words_for(clip, start, end):
