@@ -1,6 +1,6 @@
 # JELANI to-do list
 
-_Last updated 2026-10-14 (AEDT)._
+_Last updated 2026-10-14 (AEDT). The master list is the monday.com board "JELANI To-Do"; this file is a backup._
 
 ## This week
 - [ ] **Pack orders.** 33 paid orders unfulfilled (31 from the restock launch, #4898–#4928).

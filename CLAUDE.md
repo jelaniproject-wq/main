@@ -20,6 +20,15 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - Product metafields: `custom.complete_the_look`, `custom.fabric`, `custom.care`. Fill these on every new product.
 - 12-month baseline: 835 orders, $98.9k AUD, AOV $107.53, returning rate 16%, conversion rate ~0.55% (90d)
 
+## Start of every session: catch up on other chats first
+Work happens across several Claude chats, each on its own `claude/*` branch. Before answering, catch up:
+1. `git fetch --all` and check every `origin/claude/*` branch for new or changed files in `docs/`
+   (e.g. `git log --all --oneline -- docs/` and `git show <branch>:docs/<file>`). Bring anything relevant into this branch.
+2. Read `docs/theme-changes.md` (theme work log) and `docs/todo.md`.
+3. Check the **monday.com board "JELANI To-Do"** (id 5031836014). It is the master task list: add new tasks there
+   (groups: Today (max 3) / This week / Waiting on someone / Later / Done), not only in repo files.
+Never tell the user something isn't on the list without checking all three.
+
 ## How to work
 - Use the **Shopify MCP connector** for all store data. Always fetch live data and never answer sales or stock questions from memory.
 - Prefer the built-in Shopify tools. Use `graphql_query` / `graphql_mutation` only when no tool fits (discover schema, then validate, then execute).
