@@ -1,0 +1,6 @@
+# Video files never go in git (video-editor skill rule)
+test-output/
+*.mp4
+*.mov
+*.m4v
+*.wav
