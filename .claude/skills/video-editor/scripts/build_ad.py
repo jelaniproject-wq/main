@@ -209,6 +209,53 @@ def place_caption(video, st, en, tx):
     return min(cands, key=lambda y: max(0, min(y + h, bot) - max(y, top)))
 
 
+def dm_takeover(cat, wall, b):
+    """All DMs flood in fast, overlap to fill the screen, hold, then clear together."""
+    import random
+    from PIL import Image
+    rnd = random.Random(7)
+    t1, t2 = wall["start"], wall["end"]
+    sc, stg, out = wall.get("scale", 0.82), wall.get("stagger", 0.17), 0.28
+    imgs = wall["images"]
+    total = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                                           "-of", "csv=p=0", cat]))
+    # pre-rotate/scale each bubble a touch so the pile feels thrown together
+    prepped, heights = [], []
+    for k, img in enumerate(imgs):
+        im = Image.open(img)
+        im = im.resize((int(im.width * sc), int(im.height * sc)), Image.LANCZOS)
+        im = im.rotate(rnd.uniform(-4, 4), resample=Image.BICUBIC, expand=True)
+        pth = f"{b}/to_{k:02d}.png"
+        im.save(pth)
+        prepped.append((pth, im.width, im.height))
+        heights.append(im.height)
+    # spread top-to-bottom across the whole frame, overlapping
+    span = H - 80
+    step = (span - heights[-1]) / max(1, len(imgs) - 1)
+    pos = []
+    for k, (pth, iw, ih) in enumerate(prepped):
+        x = rnd.randint(-30, 60) if k % 2 == 0 else W - iw - rnd.randint(-30, 60)
+        pos.append((x, int(40 + k * step + rnd.randint(-25, 25))))
+    order = list(range(len(imgs)))
+    rnd.shuffle(order)  # pop in random order so it reads as a flood, not a list
+    ins = []
+    fc = [f"[0:v]split[a][b];[b]boxblur=18:2,eq=brightness=-0.12[bl];"
+          f"[a][bl]overlay=enable='between(t,{t1},{t2})'[v0]"]
+    for n, k in enumerate(order):
+        pth, iw, ih = prepped[k]
+        x, y = pos[k]
+        tk = t1 + 0.1 + n * stg
+        ins += ["-loop", "1", "-t", f"{total:.3f}", "-i", pth]
+        fc.append(f"[{n + 1}:v]format=rgba,fade=t=in:st={tk:.2f}:d=0.12:alpha=1,"
+                  f"fade=t=out:st={t2 - out:.2f}:d={out}:alpha=1[d{n}];"
+                  f"[v{n}][d{n}]overlay={x}:{y}:enable='between(t,{tk:.2f},{t2})'[v{n + 1}]")
+    walled = f"{b}/walled.mp4"
+    run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", cat, *ins,
+         "-filter_complex", ";".join(fc), "-map", f"[v{len(imgs)}]", "-map", "0:a",
+         *X264, "-crf", "12", "-c:a", "copy", walled])
+    return walled
+
+
 def main(spec_path):
     spec = json.load(open(spec_path))
     name = spec["name"]
@@ -314,8 +361,10 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0", "-i", f"{b}/list.txt",
          "-c", "copy", cat])
 
-    wall = spec.get("dm_wall")  # {"start","end","images":[...],"scale","top","caption_y","stagger"}
-    if wall:
+    wall = spec.get("dm_wall")  # {"start","end","images":[...],"scale","top","caption_y","stagger","mode"}
+    if wall and wall.get("mode") == "takeover":
+        cat = dm_takeover(cat, wall, b)
+    elif wall:
         from PIL import Image
         t1, t2 = wall["start"], wall["end"]
         sc, y, stg = wall.get("scale", 0.85), wall.get("top", 430), wall.get("stagger", 0.45)
