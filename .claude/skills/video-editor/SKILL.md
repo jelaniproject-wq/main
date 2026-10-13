@@ -118,7 +118,24 @@ Deliver **two cuts of every ad** so one creative covers all placements:
   Name files with the audience: `<product>_<cold|warm>_<9x16|4x5>_v1.mp4`. Only claim "low stock"
   or "sold out last time" if Shopify data backs it.
 - Don't add a fake "Shop Now" button; Meta adds the real CTA button.
-- Name files for Ads Manager: (see audience naming below). File limit 4 GB, H.264/AAC MP4.
+- Name files for Ads Manager as above (audience in the name). File limit 4 GB, H.264/AAC MP4.
+
+### Personality + engagement (always, especially ads)
+Keep it feeling like JELANI, not a polished corporate ad:
+- **Keep the human moments.** Laughs, candid reactions, a cheeky look to camera, outtakes that are
+  funny. Retake-cutting (Rule 3) removes *mistakes*, not *personality*. When unsure, keep it and ask.
+- **Pace fast.** A new visual every ~1–2 s (cut, punch-in zoom, angle change); no shot lingers
+  without a reason. Use jump cuts on talking bits.
+- **Strongest moment first.** Pull the most eye-catching shot or line to the opening 1–2 s.
+- **Captions with attitude.** Short, punchy, conversational Aussie voice; emphasise 1 key word
+  per line (Rust Brown or Soft Yellow highlight); Reenie Beanie for one cheeky aside
+  ("obsessed", "told you"). Never generic ("High quality swimwear available now").
+- **Brand symbols as playful accents**: a hand-drawn heart, flower or sparkle popping in on a
+  key moment; sparingly, never covering the product or face.
+- **Movement and sound.** Sync cuts to the beat if there's music; add subtle pops/whooshes only if
+  they suit the vibe. Ask before adding music (licensing: use Meta's Sound Collection for ads).
+- **Give options.** For each ad, offer 2–3 different hooks (e.g. try-on reveal, close-up fabric,
+  candid laugh) so the user can A/B test in Meta.
 
 Always export at the **highest quality**:
 `-c:v libx264 -preset slow -crf 16 -pix_fmt yuv420p -profile:v high -c:a aac -b:a 320k -ar 48000 -movflags +faststart`
