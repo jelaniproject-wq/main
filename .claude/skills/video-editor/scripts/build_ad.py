@@ -337,6 +337,7 @@ PlayResY: {H}
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Cap,Inter,92,&H00{CREAM},&H00{CREAM},&H001A2A6E,&H64000000,-1,0,0,0,100,100,-2,0,1,6,3,2,70,70,740,1
+Style: CapBox,Inter,92,&H00{CREAM},&H00{CREAM},&H00{RUST},&H00{RUST},-1,0,0,0,100,100,-2,0,3,16,0,2,70,70,740,1
 Style: Big,Inter,150,&H00{RUST},&H00{RUST},&H00{RUST},&H00000000,-1,0,0,0,100,100,-6,0,1,0,0,5,60,60,0,1
 Style: Mid,Inter,96,&H00{RUST},&H00{RUST},&H00{RUST},&H00000000,-1,0,0,0,100,100,-3,0,1,0,0,5,60,60,0,1
 Style: Small,Inter,52,&H00{RUST},&H00{RUST},&H00{RUST},&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,60,60,0,1
@@ -387,6 +388,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
              *X264, "-crf", "12", "-c:a", "copy", walled])
         cat = walled
 
+    def cap_style(st, en):
+        return "CapBox" if wall and wall.get("mode") == "takeover" and st < wall["end"] and en > wall["start"] else "Cap"
+
     def cap_y(st, en, tx):
         if wall and st < wall["end"] and en > wall["start"]:
             return wall.get("caption_y", SAFE_TOP)
@@ -394,7 +398,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
     ass = f"{b}/captions.ass"
     open(ass, "w").write(hdr + "\n".join(
-        f"Dialogue: 1,{ts(st)},{ts(en)},Cap,,0,0,0,,{{\\an8\\pos({W // 2},{cap_y(st, en, tx)})"
+        f"Dialogue: 1,{ts(st)},{ts(en)},{cap_style(st, en)},,0,0,0,,{{\\an8\\pos({W // 2},{cap_y(st, en, tx)})"
         f"\\fscx85\\fscy85\\t(0,90,\\fscx100\\fscy100)}}{tx}"
         for st, en, tx in events) + "\n")
 
