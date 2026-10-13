@@ -88,6 +88,8 @@ as small accents in approved colours, never as a replacement for the logo.
   text on a Rust Brown box for hooks. On light/cream backgrounds: Rust Brown text.
 - Placement: centred, lower-middle; stay out of the platform UI (bottom ~20 %, right edge) on 9:16.
 - Brand name written `JELANI THE LABEL`; site jelani.com.au. Voice: Australian, relaxed, confident.
+- Her words: calls people **"doll"** (like "darls"), products are "she" ("she never sticks around"),
+  "girlies", "grimy little hands", "gorge", "chef's kiss", "it's giving…". Caption these exactly as said.
 
 ## Rule 6: Format and quality
 | Platform | Aspect | Resolution |

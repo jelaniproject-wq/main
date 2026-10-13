@@ -314,9 +314,38 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-f", "concat", "-safe", "0", "-i", f"{b}/list.txt",
          "-c", "copy", cat])
 
+    wall = spec.get("dm_wall")  # {"start","end","images":[...],"scale","top","caption_y","stagger"}
+    if wall:
+        from PIL import Image
+        t1, t2 = wall["start"], wall["end"]
+        sc, y, stg = wall.get("scale", 0.85), wall.get("top", 430), wall.get("stagger", 0.45)
+        total = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                                               "-of", "csv=p=0", cat]))
+        ins, fc = [], [f"[0:v]split[a][b];[b]boxblur=22:2,eq=brightness=-0.08[bl];"
+                       f"[a][bl]overlay=enable='between(t,{t1},{t2})'[v0]"]
+        for k, img in enumerate(wall["images"]):
+            iw, ih = Image.open(img).size
+            iw, ih = int(iw * sc), int(ih * sc)
+            x = 40 if k % 2 == 0 else W - iw - 40
+            tk = t1 + 0.15 + k * stg
+            ins += ["-loop", "1", "-t", f"{total:.3f}", "-i", img]
+            fc.append(f"[{k + 1}:v]scale={iw}:{ih},format=rgba,fade=t=in:st={tk:.2f}:d=0.18:alpha=1[d{k}];"
+                      f"[v{k}][d{k}]overlay={x}:{y}:enable='between(t,{tk:.2f},{t2})'[v{k + 1}]")
+            y += ih - 12
+        walled = f"{b}/walled.mp4"
+        run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", cat, *ins,
+             "-filter_complex", ";".join(fc), "-map", f"[v{len(wall['images'])}]", "-map", "0:a",
+             *X264, "-crf", "12", "-c:a", "copy", walled])
+        cat = walled
+
+    def cap_y(st, en, tx):
+        if wall and st < wall["end"] and en > wall["start"]:
+            return wall.get("caption_y", SAFE_TOP)
+        return place_caption(cat, st, en, tx)
+
     ass = f"{b}/captions.ass"
     open(ass, "w").write(hdr + "\n".join(
-        f"Dialogue: 1,{ts(st)},{ts(en)},Cap,,0,0,0,,{{\\an8\\pos({W // 2},{place_caption(cat, st, en, tx)})"
+        f"Dialogue: 1,{ts(st)},{ts(en)},Cap,,0,0,0,,{{\\an8\\pos({W // 2},{cap_y(st, en, tx)})"
         f"\\fscx85\\fscy85\\t(0,90,\\fscx100\\fscy100)}}{tx}"
         for st, en, tx in events) + "\n")
 
