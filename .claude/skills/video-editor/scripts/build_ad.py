@@ -30,6 +30,67 @@ def ts(x):
     return f"{int(x // 3600)}:{int(x % 3600 // 60):02d}:{x % 60:05.2f}"
 
 
+PAUSE = 0.5  # cut any pause longer than this (seconds)
+
+
+def all_words(clip):
+    d = json.load(open(f"{TX}/a{clip}.json"))
+    return [dict(w) for s in d["segments"] for w in s.get("words", [])]
+
+
+def merge_tokens(ws):
+    """Whisper splits "pre -order" / "1 ,000"; glue those back onto the previous word."""
+    out = []
+    for w in ws:
+        t = w["word"].strip()
+        if t.startswith(("-", ",")) and out:
+            out[-1]["end"] = w["end"]
+            out[-1]["t"] += t
+        else:
+            w["t"] = t
+            out.append(w)
+    return out
+
+
+class Envelope:
+    """10 ms RMS envelope of a 16 kHz mono wav, used to cut in the quiet between words."""
+
+    def __init__(self, path):
+        import array, wave
+        with wave.open(path) as f:
+            sr = f.getframerate()
+            a = array.array("h", f.readframes(f.getnframes()))
+        hop = sr // 100
+        self.rms = [(sum(x * x for x in a[k:k + hop]) / hop) ** 0.5 for k in range(0, len(a) - hop, hop)]
+        srt = sorted(self.rms)
+        floor, loud = srt[len(srt) // 5], srt[int(len(srt) * 0.9)]
+        self.thr = floor + 0.12 * (loud - floor)
+
+    def _q(self, t):
+        k = int(t * 100)
+        return 0 <= k < len(self.rms) and self.rms[k] < self.thr
+
+    def quiet_after(self, t, limit):
+        """First point after t where 80 ms stays quiet (word tail finished); never past the next word."""
+        hi = min(limit - 0.03, t + 0.7)
+        x = t
+        while x < hi:
+            if all(self._q(x + d / 100) for d in range(8)):
+                return min(x + 0.06, hi)
+            x += 0.01
+        return max(min(hi, t + 0.25), t + 0.08)
+
+    def quiet_before(self, t, limit):
+        """Last quiet point before t (so the first word's onset isn't clipped)."""
+        lo = max(limit + 0.03, t - 0.5, 0)
+        x = t - 0.02
+        while x > lo:
+            if all(self._q(x - d / 100) for d in range(6)):
+                return max(x - 0.04, lo)
+            x -= 0.01
+        return max(lo, t - 0.12)
+
+
 def words_for(clip, start, end):
     d = json.load(open(f"{TX}/a{clip}.json"))
     out = []
@@ -63,6 +124,49 @@ def chunk(words, fix, maxw=3):
     return groups
 
 
+# Caption placement: keep text off the face and inside Meta's 9:16 safe area
+SAFE_TOP, SAFE_BOTTOM = 290, 1250   # Meta UI covers top ~14% and bottom ~35%
+LINE_H, CHAR_W, MAX_W = 112, 50, 940
+
+
+def caption_height(tx):
+    chars = len(re.sub(r"{[^}]*}", "", tx))
+    return LINE_H * max(1, -(-chars * CHAR_W // MAX_W))
+
+
+def faces_at(video, t):
+    import cv2
+    cap = cv2.VideoCapture(video)
+    cap.set(cv2.CAP_PROP_POS_MSEC, t * 1000)
+    ok, frame = cap.read()
+    cap.release()
+    if not ok:
+        return []
+    g = cv2.cvtColor(cv2.resize(frame, (W // 2, H // 2)), cv2.COLOR_BGR2GRAY)
+    det = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
+    found = det.detectMultiScale(g, 1.1, 6, minSize=(50, 50))
+    # pad: forehead/hair above, chin below (Haar boxes are tight)
+    return [(int(y * 2 - h * 0.35), int((y + h) * 2 + h * 0.45)) for (x, y, w, h) in found]
+
+
+def place_caption(video, st, en, tx):
+    """Return caption top y: below the face if it fits, else above, else the least-overlapping spot."""
+    h = caption_height(tx)
+    boxes = [f for t in (st + 0.05, (st + en) / 2, max(st, en - 0.05)) for f in faces_at(video, t)]
+    if not boxes:  # face hidden (e.g. product held up): borrow from the frames around it
+        boxes = [f for t in (st - 1.0, st - 0.5, en + 0.5, en + 1.0) if t >= 0 for f in faces_at(video, t)]
+    default = SAFE_BOTTOM - h - 100
+    if not boxes:
+        return default
+    top, bot = min(b[0] for b in boxes), max(b[1] for b in boxes)
+    if bot + 30 + h <= SAFE_BOTTOM:
+        return max(bot + 30, default if default > bot + 30 else bot + 30)
+    if top - 30 - h >= SAFE_TOP:
+        return top - 30 - h
+    cands = range(SAFE_TOP, SAFE_BOTTOM - h + 1, 10)
+    return min(cands, key=lambda y: max(0, min(y + h, bot) - max(y, top)))
+
+
 def main(spec_path):
     spec = json.load(open(spec_path))
     name = spec["name"]
@@ -73,41 +177,56 @@ def main(spec_path):
 
     parts, events, t0 = [], [], 0.0
     for i, s in enumerate(spec["segments"]):
-        dur = s["end"] - s["start"]
         z = s.get("zoom", 1.0)
         vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
               f"scale=iw*{z}:ih*{z},crop={W}:{H},setsar=1,fps={FPS}" + (",hflip" if s.get("hflip") else ""))
-        p = f"{b}/seg{i:02d}.mp4"
-        run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", str(s["start"]), "-t", f"{dur:.3f}",
-             "-i", f"{SRC}/IMG_{s['clip']}.MOV", "-vf", vf, "-af", "aresample=48000,aformat=channel_layouts=stereo",
-             *X264, "-crf", "12", *AAC, p])
-        parts.append(p)
-        ws = words_for(s["clip"], s["start"], s["end"])
-        if "caps" in s:  # hand-phrased captions: each takes as many words as it has (hyphen parts merged)
-            merged = []
-            for w in ws:
-                if w["word"].strip().startswith(("-", ",")) and merged:
-                    merged[-1]["end"] = w["end"]
-                else:
-                    merged.append(dict(w))
+        allw = all_words(s["clip"])
+        ws = merge_tokens([w for w in allw if s["start"] - 0.05 <= w["start"] < s["end"]])
+        # split into runs wherever the speaker pauses > PAUSE (skill rule 3)
+        runs = [[ws[0]]]
+        for w in ws[1:]:
+            (runs.append([w]) if w["start"] - runs[-1][-1]["end"] > PAUSE else runs[-1].append(w))
+        env = Envelope(f"a{s['clip']}.wav")
+        offs = []  # (src_start, src_end, timeline_start)
+        for j, r in enumerate(runs):
+            prev_end = max([w["end"] for w in allw if w["end"] <= r[0]["start"]] or [0.0])
+            nxt = min([w["start"] for w in allw if w["start"] >= r[-1]["end"] + 0.01] or [r[-1]["end"] + 0.8])
+            a = env.quiet_before(r[0]["start"], prev_end)
+            bnd = env.quiet_after(r[-1]["end"], nxt)
+            p = f"{b}/seg{i:02d}_{j}.mp4"
+            dur = bnd - a
+            run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", f"{a:.3f}", "-t", f"{dur:.3f}",
+                 "-i", f"{SRC}/IMG_{s['clip']}.MOV", "-vf", vf,
+                 "-af", f"aresample=48000,aformat=channel_layouts=stereo,afade=t=in:d=0.015,afade=t=out:st={dur - 0.03:.3f}:d=0.03",
+                 *X264, "-crf", "12", *AAC, p])
+            parts.append(p)
+            offs.append((a, bnd, t0))
+            t0 += dur
+
+        def remap(t):
+            for a, bnd, tl in offs:
+                if a - 0.01 <= t <= bnd + 0.01:
+                    return tl + (t - a)
+            best = min(offs, key=lambda o: min(abs(t - o[0]), abs(t - o[1])))
+            return best[2] + (min(max(t, best[0]), best[1]) - best[0])
+
+        if "caps" in s:  # hand-phrased captions: each takes as many words as it has
             groups, k = [], 0
             for c in s["caps"]:
                 n = len(c.split())
-                g = merged[k:k + n] or merged[-1:]
+                g = ws[k:k + n] or ws[-1:]
                 groups.append([{"start": g[0]["start"], "end": g[-1]["end"], "t": c}])
                 k += n
         else:
             groups = chunk(ws, fix)
         for g in groups:
-            st = max(0, g[0]["start"] - s["start"]) + t0
-            en = min(dur, g[-1]["end"] - s["start"] + 0.12) + t0
+            st, en = remap(g[0]["start"]), remap(g[-1]["end"]) + 0.12
             hl_bare = {re.sub(r"[^A-Z-]", "", h) for h in hl}
             txt = " ".join(
                 (f"{{\\c&H00{YELLOW}&}}{tok}{{\\c&H00{CREAM}&}}"
                  if re.sub(r"[^A-Z-]", "", tok) in hl_bare else tok)
                 for tok in " ".join(w["t"] for w in g).upper().split())
-            events.append((st, en, txt))
-        t0 += dur
+            events.append((st, min(en, t0), txt))
 
     # stretch captions to fill gaps (no flicker), cap at next caption start
     events.sort()
@@ -154,7 +273,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
     ass = f"{b}/captions.ass"
     open(ass, "w").write(hdr + "\n".join(
-        f"Dialogue: 1,{ts(st)},{ts(en)},Cap,,0,0,0,,{{\\fscx85\\fscy85\\t(0,90,\\fscx100\\fscy100)}}{tx}"
+        f"Dialogue: 1,{ts(st)},{ts(en)},Cap,,0,0,0,,{{\\an8\\pos({W // 2},{place_caption(cat, st, en, tx)})"
+        f"\\fscx85\\fscy85\\t(0,90,\\fscx100\\fscy100)}}{tx}"
         for st, en, tx in events) + "\n")
 
     out916 = f"out/{name}_9x16_v1.mp4"
