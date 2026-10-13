@@ -4,3 +4,5 @@ test-output/
 *.mov
 *.m4v
 *.wav
+__pycache__/
+*.pyc
