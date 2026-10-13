@@ -107,8 +107,18 @@ Deliver **two cuts of every ad** so one creative covers all placements:
   sound-off, so **burn in captions by default** for ads.
 - **Length:** 6–15 s sweet spot; 30 s max unless asked. End on a clear CTA card
   (e.g. "RESTOCKED. Shop now at jelani.com.au").
+- **Warm and cold audiences get separate edits** (different hook, captions and end card):
+  | | Cold (never heard of JELANI) | Warm (followers, site visitors, past buyers) |
+  |---|---|---|
+  | Hook | product/benefit first, scroll-stopping visual | "IT'S BACK" / "RESTOCKED", straight to product |
+  | Brand | show `JELANI THE LABEL` early | can assume they know the brand |
+  | Middle | fit, fabric, styling, reviews (Judge.me) as social proof | sizes/colours back, "sold out last time", limited stock |
+  | CTA | "Shop the collection at jelani.com.au" | "Grab yours before it sells out again" |
+  | Length | 10–15 s | 6–10 s |
+  Name files with the audience: `<product>_<cold|warm>_<9x16|4x5>_v1.mp4`. Only claim "low stock"
+  or "sold out last time" if Shopify data backs it.
 - Don't add a fake "Shop Now" button; Meta adds the real CTA button.
-- Name files for Ads Manager: `<product>_<hook>_<9x16|4x5>_v1.mp4`. File limit 4 GB, H.264/AAC MP4.
+- Name files for Ads Manager: (see audience naming below). File limit 4 GB, H.264/AAC MP4.
 
 Always export at the **highest quality**:
 `-c:v libx264 -preset slow -crf 16 -pix_fmt yuv420p -profile:v high -c:a aac -b:a 320k -ar 48000 -movflags +faststart`
