@@ -30,14 +30,18 @@ The back-in-stock form and flow are both **live**. The flow is the best performi
 
 Scout and Darcy demand was mostly met by the restock. Still open: Romi, Darcy M/L/XL, and the draft sustainable FITJ set.
 
-## Meta ads: push spend to Instagram
-- In Meta, Facebook and Instagram are **placements** inside the same ad set. Untick the Facebook placements and Instagram keeps running.
-- Steps:
-  1. Ads Manager → ad set → Placements → Manual. Keep IG Feed, Stories, Reels and Explore. Untick Facebook, Audience Network and Messenger.
-  2. Safer option: duplicate the ad set, make the copy Instagram-only, and run both for 3 days.
-  3. Objective: Sales, optimised for **Purchase** (not Traffic or Link clicks).
-  4. Add a retargeting ad set: site visitors and IG engagers from the last 30 days, excluding purchasers, using Darcy and Scout creative.
-- Evidence (13–14 Oct): Instagram had 173 sessions, a 5.8% conversion rate and $1,577 in sales. Facebook had 145 sessions and 0 add-to-carts.
+## Meta ads (revised 14 Oct: no change until the day-7 review)
+- The first advice ("move spend to Instagram now") was based on only 1 day of Shopify data and made without Meta Ads data. **Withdrawn.**
+- Don't edit live ad sets during the learning phase. Edits reset learning.
+- **Shopify history (last-click referrer, last 12 months):**
+  - Facebook: ~17,300 sessions, ~100 add-to-carts, **1 purchase**. Jun: 9,601 sessions / 0 purchases. Jul: 3,654 / 0. Aug: 2,785 / 1.
+  - Instagram: ~41,000 sessions, ~150 purchases.
+- **Caveat:** Shopify only sees the last click. Meta's own reporting also counts view-through and cross-device sales, so check Meta's numbers before deciding.
+- **At day 7 (Tue 20 Oct):**
+  1. Ads Manager → Breakdown → By delivery → Platform / Placement.
+  2. Compare spend, purchases and cost per purchase for each placement.
+  3. If Facebook or Audience Network show spend with few or no purchases there too, duplicate the ad set as Instagram-only (or exclude Audience Network) rather than editing the live one.
+- Placement changes don't affect ad account quality, which is about policy and payment issues.
 
 ## Email flows (Klaviyo, last 90 days)
 | Flow | Status | Sent | Orders | $ per recipient | Note |
