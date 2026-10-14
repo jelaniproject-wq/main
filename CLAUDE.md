@@ -63,6 +63,17 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - KPIs to track:
 - Weekly report contents:
 
+## Restock: 13 Oct 2026 (live 7pm AEDT)
+- Only these sizes were restocked. Every other size is existing stock, and gaps are deliberate:
+  - **Scout** Top + Bottoms: XS, S, M, L
+  - **Darcy** Top + Bottoms: **Small only**
+  - **Isla** Top + Bottoms: **Small only** (M/L were already in stock)
+  - **Flowers In The Jungle** Top + Bottoms: **XS only**
+- XL in Darcy/Isla tops was a first-run test. No XL planned for Scout or Flowers In The Jungle yet.
+- Broadcast offer: code `RESTOCKED`, free shipping, AU only, 1 use per customer, ends Thu 15 Oct 7pm AEDT.
+- Meta ads: `COLD_RESTOCK_OCT26` (~$50/day, Advantage+) and `WARM_RESTOCK_OCT26` (~$20/day), started 13 Oct 7:30pm. $1,500 total budget.
+- Fit note for copy: true to size, cheeky cuts, adjustable ties so it's easy to size up or down. Size guide on every product page.
+
 ## Known store issues (found 2026-10-08, not yet actioned)
 - Negative stock: *Flowers In The Jungle – Top* (draft), *Cherry On Top – Adjustable Bikini Top*
 - Duplicate product title: *Heavy Weight Black Tee* (x2)
