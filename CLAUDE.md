@@ -72,6 +72,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - XL in Darcy/Isla tops was a first-run test. No XL planned for Scout or Flowers In The Jungle yet.
 - Broadcast offer: code `RESTOCKED`, free shipping, AU only, 1 use per customer, ends Thu 15 Oct 7pm AEDT.
 - Meta ads: `COLD_RESTOCK_OCT26` (~$50/day, Advantage+) and `WARM_RESTOCK_OCT26` (~$20/day), started 13 Oct 7:30pm. $1,500 total budget.
+- $0 orders around the restock are collab/gifting orders created through Claude. They're intentional, so don't flag them.
 - Fit note for copy: true to size, cheeky cuts, adjustable ties so it's easy to size up or down. Size guide on every product page.
 
 ## Known store issues (found 2026-10-08, not yet actioned)
