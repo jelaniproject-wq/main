@@ -20,8 +20,8 @@
 | Scout Top XS / S / M / L | 24 / 44 / 48 / 18 | 11 / 13 / 1 / 2 |
 | Scout Bottoms XS / S / M / L | 23 / 44 / 47 / 35 | 7 / 6 / 2 / 0 |
 | Isla Top / Bottoms Small | 46 / 46 | 7 / 7 (incl. 2 gifted) |
-| Flowers In The Jungle Top S / M / L / XS | **0** / 9 / 13 / 46 | — |
-| Flowers In The Jungle Bottoms S / M / L / XS | **0** / 9 / **0** / 46 | — |
+| Flowers In The Jungle Top S / M / L / XS | **0** / **0** (was 8, corrected, no physical stock) / 13 (unconfirmed) / 46 (unconfirmed) | — |
+| Flowers In The Jungle Bottoms S / M / L / XS | **0** / **0** (was 8, corrected) / **0** / 46 (unconfirmed) | — |
 | Romi | restock on the way (Jelani) | — |
 
 ## Method from now on

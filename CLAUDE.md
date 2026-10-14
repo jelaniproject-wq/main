@@ -90,6 +90,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 
 ## Known store issues (found 2026-10-08, not yet actioned)
 - Negative stock: *Darcy Top* Large −2 / XL −1 (old miscount, needs recount), *Flowers In The Jungle – Top* (draft), *Cherry On Top – Adjustable Bikini Top*
+- Flowers In The Jungle Medium: Shopify showed 8 Top / 8 Bottoms but there's no physical stock. Set to 0 on 14 Oct (Jelani). 3 paid orders are waiting on Medium (#4901, #4915, #4930). Shopify stock for this style may not match the shelf, so confirm with Jelani.
 - Duplicate product title: *Heavy Weight Black Tee* (x2)
 - Duplicate collections `Tops` / `TOPS`. Empty `Coming Soon` collection.
 - Inconsistent tags: `PANT`/`PANTS`, `NEW ARRIVAL`/`new arrivals`, `HOODIE`/`hoodies`
