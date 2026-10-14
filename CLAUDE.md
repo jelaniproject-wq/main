@@ -63,8 +63,28 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - KPIs to track:
 - Weekly report contents:
 
+## Working agreements (from Jelani)
+- **Memory:** anything Claude recommends or Jelani asks for gets saved in this repo (CLAUDE.md for standing rules and facts, `docs/` for plans and reports).
+- **Task tracking:** anything not finished in a conversation becomes an item on the Monday board **JELANI To-Do** (id `5031836014`, workspace "Main workspace").
+  - Columns: Status, Notes, Area (Revenue/Launch/Website/Admin/Content/...), Size (time estimate), Who (You / Claude → You / You + Claude).
+  - Groups: Today (max 3), This week, Waiting on someone, Later, Done. Check for duplicates before adding.
+- Connected tools: Shopify, Klaviyo, Monday.com, GitHub. No Meta Ads connector, so give Meta advice as steps for Jelani.
+
+## Store standards
+- **Inventory:** "Stop selling when out of stock" (DENY) is on for every variant (verified 14 Oct 2026). Keep it on for new products.
+- **Size names:** XS / Small / Medium / Large / Extra large / XXL. The option name is always "Size". Some products use Shopify's linked standard sizes, where XL can only be "Extra large".
+- **Gifting/collab orders** are $0 orders tagged `collab`. Exclude them from sales and launch reporting.
+
+## Email and marketing facts (Klaviyo, Oct 2026)
+- 1,106 email subscribers out of 7,270 profiles. The launch email list is "Newsletter - Subscribed to Email Marketing".
+- Live flows: Welcome (10%), Abandoned Checkout, Browse Abandonment, Back in Stock, Winback (75 days). Thank You and Review flows are in draft.
+- Back in Stock is the best flow ($4.15/recipient). The $10-off welcome beat 10% off. Winback made $0 in 90 days.
+- Instagram converts far better than Facebook (launch: 5.8% vs 0%). Meta ads are running and the user wants spend pushed to IG placements.
+- Launches: Instagram drives the first orders, then the email. The peak is the first hour (7–8pm AEDT).
+
 ## Known store issues (found 2026-10-08, not yet actioned)
-- Negative stock: *Flowers In The Jungle – Top* (draft), *Cherry On Top – Adjustable Bikini Top*
+- Negative stock: *Darcy Top* Large −2 / XL −1 (old miscount, needs recount), *Flowers In The Jungle – Top* (draft), *Cherry On Top – Adjustable Bikini Top*
 - Duplicate product title: *Heavy Weight Black Tee* (x2)
 - Duplicate collections `Tops` / `TOPS`. Empty `Coming Soon` collection.
 - Inconsistent tags: `PANT`/`PANTS`, `NEW ARRIVAL`/`new arrivals`, `HOODIE`/`hoodies`
+- ~~Inconsistent size names~~: fixed 14 Oct 2026
