@@ -4,7 +4,7 @@ Everything here is tracked on the Monday board **JELANI To-Do** (id 5031836014),
 
 ## Done in this session
 - **Stop selling when out of stock:** checked. It's already ON (DENY) for all 247 variants and every active variant tracks inventory. No change needed.
-- **Size names standardised** on 42 products (8 active, 21 draft, 13 archived). The standard is now **XS / Small / Medium / Large / Extra large / XXL**.
+- **Size names standardised** on 34 products (4 active, 21 draft, 9 archived). The standard is now **XS / Small / Medium / Large / Extra large / XXL**.
   - "Extra large" was used instead of "XL" because Darcy Top, Isla Top, Romi Top, both KALANI products and the Bomber use Shopify's linked standard size list, which can't be renamed.
   - Variant IDs, stock, prices and back-in-stock subscriptions are unchanged.
   - Exception: the archived From The Heavens Bundle keeps its two option names ("Terry Short (Size)" / "Terry Shirt (Size)") because a product can't have two options both called "Size".
