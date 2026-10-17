@@ -316,7 +316,8 @@ def main(spec_path):
             txt = " ".join(
                 (f"{{\\c&H00{YELLOW}&}}{tok}{{\\c&H00{CREAM}&}}"
                  if re.sub(r"[^A-Z-]", "", tok) in hl_bare else tok)
-                for tok in " ".join(w["t"] for w in g).upper().split())
+                for tok in (" ".join(w["t"] for w in g) if spec.get("caption_style") == "quiet"
+                            else " ".join(w["t"] for w in g).upper()).split())
             events.append((st, min(en, t0), txt))
 
     # stretch captions to fill gaps (no flicker), cap at next caption start
@@ -342,12 +343,16 @@ Style: CapBox,Inter,92,&H00{CREAM},&H00{CREAM},&H00{RUST},&H00{RUST},-1,0,0,0,10
 Style: Big,Inter,150,&H00{RUST},&H00{RUST},&H00{RUST},&H00000000,-1,0,0,0,100,100,-6,0,1,0,0,5,60,60,0,1
 Style: Mid,Inter,96,&H00{RUST},&H00{RUST},&H00{RUST},&H00000000,-1,0,0,0,100,100,-3,0,1,0,0,5,60,60,0,1
 Style: Small,Inter,52,&H00{RUST},&H00{RUST},&H00{RUST},&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,60,60,0,1
+Style: Quiet,Inter Medium,33,&H00F3D4FE,&H00F3D4FE,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,96,634,532,1
+Style: QuietEnd,Inter Medium,54,&H00{RUST},&H00{RUST},&H00{RUST},&H00000000,0,0,0,0,100,100,4,0,1,0,0,5,60,60,0,1
+Style: QuietUrl,Inter,36,&H00{RUST},&H00{RUST},&H00{RUST},&H00000000,0,0,0,0,100,100,1,0,1,0,0,5,60,60,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 """
-    ys = [820, 980, 1110]
-    styles = ["Big", "Mid", "Small"]
+    quiet = spec.get("caption_style") == "quiet"  # match the user's own understated caption look
+    ys = [930, 1000] if quiet else [820, 980, 1110]
+    styles = ["QuietEnd", "QuietUrl"] if quiet else ["Big", "Mid", "Small"]
     ev = [f"Dialogue: 0,{ts(0.1 * k)},{ts(ec)},{styles[k]},,0,0,0,,{{\\pos({W // 2},{ys[k]})\\fad(150,0)}}{line}"
           for k, line in enumerate(lines[:3])]
     open(ass_ec, "w").write(hdr + "\n".join(ev) + "\n")
@@ -398,7 +403,11 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         return place_caption(cat, st, en, tx)
 
     ass = f"{b}/captions.ass"
-    open(ass, "w").write(hdr + "\n".join(
+    if quiet:  # fixed top-left, no pop, no box: exactly like the user's own captions
+        open(ass, "w").write(hdr + "\n".join(
+            f"Dialogue: 1,{ts(st)},{ts(en)},Quiet,,0,0,0,,{re.sub(r'{[^}]*}', '', tx)}" for st, en, tx in events) + "\n")
+    else:
+      open(ass, "w").write(hdr + "\n".join(
         f"Dialogue: 1,{ts(st)},{ts(en)},{cap_style(st, en)},,0,0,0,,{{\\an8\\pos({W // 2},{cap_y(st, en, tx)})"
         f"\\fscx85\\fscy85\\t(0,90,\\fscx100\\fscy100)}}{tx}"
         for st, en, tx in events) + "\n")
