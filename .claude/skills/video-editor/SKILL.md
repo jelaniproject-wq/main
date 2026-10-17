@@ -122,6 +122,14 @@ Deliver **two cuts of every ad** so one creative covers all placements:
 - Don't add a fake "Shop Now" button; Meta adds the real CTA button.
 - Name files for Ads Manager as above (audience in the name). File limit 4 GB, H.264/AAC MP4.
 
+### Captions: the user's preference (Oct 2026)
+- If the footage already has the user's own captions, **keep theirs and add none**. They find the bold
+  burned-in caption style "loud and salesy". When captions are needed, keep them small and understated.
+- Cut only at sentence breaks so their burned-in captions are never chopped mid-phrase; when cutting to
+  B-roll, carry their caption strip over the B-roll so the words stay on screen.
+- Founder-story ads: no names of the friends who passed and no mention of their deaths in paid ads.
+  "Starting Jelani helped me build a life around my grief" is the approved way to say it.
+
 ### Personality + engagement (always, especially ads)
 Keep it feeling like JELANI, not a polished corporate ad:
 - **Keep the human moments.** Laughs, candid reactions, a cheeky look to camera, outtakes that are
