@@ -38,3 +38,23 @@
 
 ## Still needed from Jelani
 Lead time per supplier, minimum order quantities, unit costs, and incoming Romi and new-style quantities by size.
+
+## Scout restock history (from Shopify daily stock, checked 17 Oct 2026)
+Units added = end of day − start of day + units sold that day. Only adds of 50+ pieces are counted.
+
+| # | Date | Scout Top added | Scout Bottoms added | Gap since last |
+|---|---|---|---|---|
+| Launch | 16 Dec 2024 | 100 | 100 | — |
+| 1 | 7 Apr 2025 | ~90 | ~85 | ~4 months |
+| 2 | 4 Sep 2025 | ~112 | ~56 | ~5 months |
+| 3 | 28 Dec 2025 | ~97 | ~100 | ~4 months |
+| 4 | 3–5 May 2026 | ~122 | ~113 | ~4 months |
+| 5 | 13 Oct 2026 | ~163 | ~162 | ~5 months |
+
+Total received, including launch: Top ~684, Bottoms ~616.
+
+Top was out of stock or nearly out before most restocks:
+- ~5 weeks, Jul–Sep 2025
+- ~8 weeks, mid-Aug to 13 Oct 2026
+
+Smaller top-ups under 50 (probably returns or corrections) are not counted, e.g. Jul 2026 and Bottoms in Dec 2025.
