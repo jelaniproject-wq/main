@@ -112,8 +112,8 @@ class Envelope:
                 q0 = x if q0 is None else q0
             else:
                 if q0 is not None and x - q0 > gap and q0 > cur:
-                    spans.append((cur, q0 + pad))
-                    cur = x - pad
+                    spans.append((cur, q0 + pad + 0.02))
+                    cur = x - 0.25  # lead-in: soft onsets ("h", "sh", a quiet "I") sit below the threshold
                 q0 = None
             x += 0.01
         spans.append((cur, b))
