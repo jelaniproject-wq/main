@@ -43,7 +43,8 @@ Source: email from ZIGGY's founder (9 Oct 2026), the Seller Presentation and the
 
 ## Questions to ask ZIGGY before signing
 - Can we see the Seller Agreement? Check term/exit, exclusivity, liability, image/IP use and who carries chargebacks/fraud.
-- How many founding brands are signed, and what's the launch marketing plan and budget?
+- ~~How many founding brands are signed?~~ Answered: Anna gave Jelani a login and showed the onboarded brands (Oct 2026).
+- What's the launch marketing plan and budget, and how much traffic do they expect?
 - How are customer funds held before payout?
 - Can we choose which products/sizes sync, and does Syncio send Shopify customer notifications?
 - Who gets the customer data, and can ZIGGY customers opt into our marketing?
