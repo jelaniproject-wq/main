@@ -127,6 +127,7 @@ Deliver **two cuts of every ad** so one creative covers all placements:
   burned-in caption style "loud and salesy". When captions are needed, keep them small and understated.
 - Cut only at sentence breaks so their burned-in captions are never chopped mid-phrase; when cutting to
   B-roll, carry their caption strip over the B-roll so the words stay on screen.
+- Don't use "just a girl" phrasing in ads (she feels it diminishes women); "I still work full-time" carries the self-made angle.
 - Founder-story ads: no names of the friends who passed and no mention of their deaths in paid ads.
   "Starting Jelani helped me build a life around my grief" is the approved way to say it.
 
