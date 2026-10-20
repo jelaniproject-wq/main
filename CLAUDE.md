@@ -86,7 +86,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - Live flows: Welcome (10%), Abandoned Checkout, Browse Abandonment, Back in Stock, Winback (75 days). Thank You and Review flows are in draft.
 - Back in Stock is the best flow ($4.15/recipient). The $10-off welcome beat 10% off. Winback made $0 in 90 days.
 - Instagram converts far better than Facebook (launch: 5.8% vs 0%). Meta ads are running and the user wants spend pushed to IG placements.
-- **Brand story Reel (posted 18 Oct 2026)** made the best day after launch: 12 paid orders, $1,800, 3.3% conversion. Instagram visits were +44% and orders came via Instagram (4) and direct (5). The lift faded the next day. Brand story content works, so reuse it as an ad, pin it and reshare it.
+- **18 Oct 2026 (Sunday)** was the best day after launch: 12 paid orders, $1,800, 3.3% conversion. The brand story post went up ~6pm AEDT, but **9 of 12 orders came before 6pm** (traffic built from ~8am). The post lined up with a modest evening bump (6–8pm: ~57 visits, 7 add-to-carts, 2–3 orders). The morning lift's cause is unknown; check Meta ad spend and other posts that day.
 - Launches: Instagram drives the first orders, then the email. The peak is the first hour (7–8pm AEDT).
 
 ## Known store issues (found 2026-10-08, not yet actioned)
