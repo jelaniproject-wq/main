@@ -69,7 +69,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - **Task tracking:** anything not finished in a conversation becomes an item on the Monday board **JELANI To-Do** (id `5031836014`, workspace "Main workspace").
   - Columns: Status, Notes, Area (Revenue/Launch/Website/Admin/Content/...), Size (time estimate), Who (You / Claude → You / You + Claude).
   - Groups: Today (max 3), This week, Waiting on someone, Later, Done. Check for duplicates before adding.
-- Connected tools: Shopify, Klaviyo, Monday.com, GitHub. No Meta Ads connector, so give Meta advice as steps for Jelani.
+- Connected tools: Shopify, Klaviyo, Monday.com, GitHub, Gmail, **Windsor.ai → Meta Ads** (account "Jelani The Label" 430343108989224, connected 20 Oct 2026). Windsor can also write to Meta; never run write actions without explicit approval.
 
 ## Store standards
 - **Inventory:** "Stop selling when out of stock" (DENY) is on for every variant (verified 14 Oct 2026). Keep it on for new products.
@@ -86,7 +86,8 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - 1,106 email subscribers out of 7,270 profiles. The launch email list is "Newsletter - Subscribed to Email Marketing".
 - Live flows: Welcome (10%), Abandoned Checkout, Browse Abandonment, Back in Stock, Winback (75 days). Thank You and Review flows are in draft.
 - Back in Stock is the best flow ($4.15/recipient). The $10-off welcome beat 10% off. Winback made $0 in 90 days.
-- Instagram converts far better than Facebook (launch: 5.8% vs 0%). Meta ads are running and the user wants spend pushed to IG placements.
+- **Meta ads already spend ~97% on Instagram** (13–20 Oct: $406 of $414). Facebook placements only got ~$9. Shopify's "facebook" referrer traffic (0 add-to-carts) is not paid ads, so placement changes won't fix it.
+- Meta 13–20 Oct: $414 spend, 16 purchases, $2,685 (ROAS ~6.5, Meta attribution). COLD_RESTOCK_OCT26 IG: $340 → 13 purchases, $2,249, ~$26/purchase. WARM_RESTOCK_OCT26: $31, 15 add-to-carts, 0 purchases. JTL_MAIN_SALES_AUD: $34 → 2 purchases.
 - **18 Oct 2026 (Sunday)** was the best day after launch: 12 paid orders, $1,800, 3.3% conversion. The brand story post went up ~6pm AEDT, but **9 of 12 orders came before 6pm** (traffic built from ~8am). The post lined up with a modest evening bump (6–8pm: ~57 visits, 7 add-to-carts, 2–3 orders). The morning lift's cause is unknown; check Meta ad spend and other posts that day.
 - Launches: Instagram drives the first orders, then the email. The peak is the first hour (7–8pm AEDT).
 
