@@ -87,7 +87,8 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - Live flows: Welcome (10%), Abandoned Checkout, Browse Abandonment, Back in Stock, Winback (75 days). Thank You and Review flows are in draft.
 - Back in Stock is the best flow ($4.15/recipient). The $10-off welcome beat 10% off. Winback made $0 in 90 days.
 - **Meta ads already spend ~97% on Instagram** (13–20 Oct: $406 of $414). Facebook placements only got ~$9. Shopify's "facebook" referrer traffic (0 add-to-carts) is not paid ads, so placement changes won't fix it.
-- Meta 13–20 Oct: $414 spend, 16 purchases, $2,685 (ROAS ~6.5, Meta attribution). COLD_RESTOCK_OCT26 IG: $340 → 13 purchases, $2,249, ~$26/purchase. WARM_RESTOCK_OCT26: $31, 15 add-to-carts, 0 purchases. JTL_MAIN_SALES_AUD: $34 → 2 purchases.
+- Meta 13–20 Oct: $414 spend, 16 purchases, $2,685 (ROAS ~6.5, Meta attribution). COLD_RESTOCK_OCT26 IG: $340 → 13 purchases, $2,249, ~$26/purchase. WARM_RESTOCK_OCT26 ran only 13–15 Oct: $32, 15 add-to-carts, 0 purchases, then $0 since 16 Oct. **JTL_MAIN_SALES_AUD turned on 20 Oct (Jelani)**: day 1 $35 → 2 purchases, $288.
+- **18 Oct spike explained:** COLD_RESTOCK had its biggest day (spend $69, 136 link clicks, 4 purchases, $732, exactly matching Shopify's 4 Instagram orders). The 6pm brand story post added a smaller evening bump.
 - **18 Oct 2026 (Sunday)** was the best day after launch: 12 paid orders, $1,800, 3.3% conversion. The brand story post went up ~6pm AEDT, but **9 of 12 orders came before 6pm** (traffic built from ~8am). The post lined up with a modest evening bump (6–8pm: ~57 visits, 7 add-to-carts, 2–3 orders). The morning lift's cause is unknown; check Meta ad spend and other posts that day.
 - Launches: Instagram drives the first orders, then the email. The peak is the first hour (7–8pm AEDT).
 
