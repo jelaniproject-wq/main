@@ -18,6 +18,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - Apps seen: Judge.me reviews, Google Shopping feed, Klarna, Sendle (shipping)
 - 9 Markets enabled; one location (Maroubra NSW)
 - Product metafields: `custom.complete_the_look`, `custom.fabric`, `custom.care`. Fill these on every new product.
+- **Complete the look is live:** set on all 28 active products (checked 20 Oct 2026). Every bikini top links to its bottoms and vice versa; loungewear and accessories cross-link. Check what already exists before suggesting features.
 - 12-month baseline: 835 orders, $98.9k AUD, AOV $107.53, returning rate 16%, conversion rate ~0.55% (90d)
 
 ## How to work
