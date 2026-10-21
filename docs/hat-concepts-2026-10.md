@@ -35,12 +35,39 @@ or hand-dyed with a distressed brim. Shapes cut from fabric are appliquéd on wi
 Number of appliqué pieces (letters count individually) · placement count · bleach/dye work · embroidery digitising (Moth) ·
 stud count · our supplied fabric vs his · run size / 1-of-1.
 
-## Questions for the call
-- Price per cap at each level (1 patch / 2–3 / 6+ pieces incl. letters)? Minimum order? Sample cost?
-- Can he use our bikini offcuts and our printed fabrics? What backing does stretch fabric need?
-- Smallest letter he can cut (side text is ~2.5 cm)?
-- Does he do stencil bleaching, airbrush/spray dye, studs, raised embroidery? Can he work from a CAD?
-- Lead time; is the design exclusive to JELANI?
+## Questions for the call (final list, 21 Oct)
+**His process + materials**
+- How do you choose the blank caps (brand, fabric, structured vs unstructured, adjustable sizing)? What base colours can we pick from?
+- Where do you source patch fabrics, and how many colour/pattern options are there? Can we see swatches?
+- Can we supply our own fabric (our printed plaid/check, bikini offcuts)? What works and what doesn't (stretch, thin, shiny)?
+- How much control is there over the bleach (light vs heavy, placement)? How different will each cap look?
+
+**Design input from him**
+- From our concepts, which would stand out most and which would you simplify?
+- What's achievable from your end and what isn't (small letters ~2.5 cm, organic panels, studs, airbrush, raised embroidery, CAD)?
+- What's selling or getting the most reaction for you right now? Any techniques you've wanted to try?
+- Do you do a mockup or sample before production? How many rounds of changes?
+
+**Extras (festival)**
+- UV/glow or neon thread? Reflective fabric? Print under the brim? Hidden pocket? Beaded strap or charm?
+- Can you add our JELANI woven label, a care label and a numbered tag (01/44)?
+
+**Timing**
+- Sample turnaround? Time to make one cap, and how many per week?
+- If we confirm this week, can ~44 (or 100) be ready by mid-November for festival season?
+
+**Price + terms**
+- Price per cap at each level (1 patch / 2–3 / lots of pieces)? What pushes the price up or down?
+- Minimum order? Sample cost (credited back on the order?)? Deposit and payment terms? Shipping to Bondi?
+- What happens with faulty caps or ones that don't match the sample?
+
+**Quality + care**
+- Wash/care instructions (we need these for the product page)? How long do the bleach and patches last?
+
+**Brand + content**
+- Are our designs exclusive to JELANI (not reused in his drops)?
+- Would you like credit or a collab tag? Can we post your process?
+- Can you film or photo the making (bleaching, stitching)? Great for Reels.
 
 ## Festival-season ideas (suggested 21 Oct, not yet decided)
 **On the cap**
