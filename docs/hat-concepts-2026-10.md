@@ -22,7 +22,7 @@ or hand-dyed with a distressed brim. Shapes cut from fabric are appliquéd on wi
 - Combos: maroon + blue (hero), pink + green, pink + blue, red + blue
 
 ## Concepts
-1. **Gingham Star.** Bleached maroon cap. Plaid star patch the same shape as the star on our camo cap. JELANI in cut-out check letters.
+1. **Gingham Star.** Bleached maroon cap. Plaid patch cut in the **JELANI star** shape: a wonky, hand-drawn 5-point star with long uneven points and a rough edge (Jelani has the artwork file). JELANI in cut-out check letters.
 2. **Bikini Offcut.** Bleached pink cap. Maroon heart + sky blue flower cut from bikini offcuts, with maroon swim letters. Needs interfacing on the stretch fabric.
 3. **Crazy 444 You.** Bleached sky blue cap. Cut-out check letters running down the side, plaid JELANI on the front.
 4. **Bleach Flowers.** Maroon cap with stencil-bleached daisies (they come out pink) and plaid JELANI letters.
