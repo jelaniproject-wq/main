@@ -20,7 +20,10 @@ onto them with a visible zig-zag stitch in a contrasting thread.
 1. **Swim offcut cap (hero).** Appliqué made from leftover JELANI swim print fabric so it matches the bikinis.
    This tells a scrap-reuse sustainability story. *Check:* swim lycra stretches, so ask whether he can back it with
    interfacing so it sits flat.
-2. **"2035" postcode cap.** Maroubra's postcode in big appliqué numbers across the front, in his number style but our place.
+2. **"444" angel number cap (Jelani's idea).** Big appliqué "444" across the front, in his number style but our meaning
+   (protection, "you're on the right path"). It's three identical pieces from one template, so it should cost less than
+   mixed letters. Use an open-top 4 so there's no hole to cut out. Options: a small "444" on the back above the strap,
+   and "you're exactly where you need to be" printed under the brim. The number could also name the drop ("444 drop").
 3. **Big "J" monogram.** One large letter, the cheapest tier and a good entry price point.
 4. **Sun and wave side hits.** Two simple beach icons on the side panels, the way he places his stars, plus a small woven label at the front.
 5. **"JELANI" arched wordmark.** The full name across the crown. This is the premium tier because it has the most pieces.
