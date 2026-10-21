@@ -41,3 +41,22 @@ stud count · our supplied fabric vs his · run size / 1-of-1.
 - Smallest letter he can cut (side text is ~2.5 cm)?
 - Does he do stencil bleaching, airbrush/spray dye, studs, raised embroidery? Can he work from a CAD?
 - Lead time; is the design exclusive to JELANI?
+
+## Festival-season ideas (suggested 21 Oct, not yet decided)
+**On the cap**
+- UV-reactive or glow thread for the zig-zag stitching (glows under stage lights / UV tents)
+- Reflective JELANI star patch (3M reflective fabric) that flashes in night photos
+- Hidden print under the brim ("crazy 444 you" or a line of our own), seen in selfies
+- Beaded back strap / JELANI star charm on the strap (kandi bracelet culture); custom name beads as an upsell
+- Hidden zip stash pocket inside the sweatband (cash, card, key)
+- One neon thread colour per cap (neon pink on maroon, etc.)
+
+**How we sell it**
+- Numbered 1-of-1s: 44 caps per drop, stitched "01/44" tag (ties to 444)
+- Festival set: cap + matching bikini cut from the same fabric, bundle price
+- Colourway names that feel like a festival day: Golden Hour, Main Stage, 3am, Sunrise Set (no festival trademarks)
+- Timing: drop early–mid Nov so caps land before the NYE / January–February festivals; consider a pre-order to fund production
+- Waitlist / early access through Klaviyo; launch on Instagram first (peak 7–8pm AEDT), email after
+- Content: flash photos at night, UV-glow reel, gift a few to festival creators (tag the $0 orders `collab`)
+
+**Ask the maker:** UV/glow thread? Reflective fabric? Hidden pocket? Woven numbered tags? Under-brim print?
