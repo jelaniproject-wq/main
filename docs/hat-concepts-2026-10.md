@@ -14,6 +14,8 @@ or hand-dyed with a distressed brim. Shapes cut from fabric are appliquéd on wi
 - **No JELANI on the front panel.** Keep fronts clean; put a small JELANI on the back above the strap (or a small side hit).
 - Number idea = angel number **444** ("Crazy 444 You"), down the **side**, not big on the front.
 - Jelani is based in Bondi, not Maroubra.
+- Loves **contrast stitching** (topstitching, seams, eyelets and zig-zag in a colour that pops).
+- **Only 4 weeks** (from 21 Oct, so caps needed by ~18 Nov).
 
 ## Fabrics (Jelani's prints) and combos
 - Red/blue plaid (hero, covers maroon + blue and red + blue)
@@ -55,7 +57,7 @@ stud count · our supplied fabric vs his · run size / 1-of-1.
 
 **Timing**
 - Sample turnaround? Time to make one cap, and how many per week?
-- If we confirm this week, can ~44 (or 100) be ready by mid-November for festival season?
+- We only have 4 weeks. Can you do samples + production by ~18 Nov? What quantity is realistic in that time?
 
 **Price + terms**
 - Price per cap at each level (1 patch / 2–3 / lots of pieces)? What pushes the price up or down?
@@ -105,3 +107,14 @@ Fallbacks if he can't sew it:
 1. Iron-on stabiliser fused to the back of the swim offcut so it acts like a normal woven fabric for zig-zag appliqué
 2. Cotton/twill dyed or sourced to match the bikini maroon + sky blue (same look, easy to sew, loses the offcut story)
 3. Our swim manufacturer makes finished strap strips / bound shapes, and he only tacks them onto the cap
+
+## 4-week plan (21 Oct → ~18 Nov)
+**Shortlist for this drop (fast, uses his normal skills):** 01 Gingham Star (JELANI star), 03 Crazy 444 You, 04 Bleach Flowers.
+Bikini Offcut / Strap lines only if he can sew stabilised swim fabric. **Moth (CAD + raised embroidery digitising) and Studs → later drop.**
+| Week | Dates | What happens |
+|---|---|---|
+| 1 | 22–28 Oct | Call 22 Oct. Lock 2–3 designs, fabrics and colours by 24 Oct. Get fabric + star artwork to him. Sample made. |
+| 2 | 29 Oct–4 Nov | Approve sample from photos, fix anything, production starts. Open waitlist (Klaviyo), teaser on Instagram. |
+| 3 | 5–11 Nov | Production. Draft product listings (DRAFT) with care info, fabric, complete-the-look. Plan shoot. |
+| 4 | 12–18 Nov | Caps arrive. Shoot (flash/night). Launch on Instagram 7–8pm AEDT, email after. |
+Risks: fabric delivery to him, sample changes eating a week, quantity he can make in ~2 weeks.
