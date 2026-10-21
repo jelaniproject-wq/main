@@ -11,6 +11,7 @@ or hand-dyed with a distressed brim. Shapes cut from fabric are appliquéd on wi
 - **Coloured caps only.** No camo, no black. Bleach splatter on most of them (it's his signature).
 - Stuck-on shapes must be **real shapes** (star, heart, flower, letters), not random scraps.
 - JELANI is spelled in **individual cut-out letters**, not the oval bubble patch.
+- **No JELANI on the front panel.** Keep fronts clean; put a small JELANI on the back above the strap (or a small side hit).
 - Number idea = angel number **444** ("Crazy 444 You"), down the **side**, not big on the front.
 - Jelani is based in Bondi, not Maroubra.
 
@@ -22,10 +23,10 @@ or hand-dyed with a distressed brim. Shapes cut from fabric are appliquéd on wi
 - Combos: maroon + blue (hero), pink + green, pink + blue, red + blue
 
 ## Concepts
-1. **Gingham Star.** Bleached maroon cap. Plaid patch cut in the **JELANI star** shape: a wonky, hand-drawn 5-point star with long uneven points and a rough edge (Jelani has the artwork file). JELANI in cut-out check letters.
-2. **Bikini Offcut.** Bleached pink cap. Maroon heart + sky blue flower cut from bikini offcuts, with maroon swim letters. Needs interfacing on the stretch fabric.
-3. **Crazy 444 You.** Bleached sky blue cap. Cut-out check letters running down the side, plaid JELANI on the front.
-4. **Bleach Flowers.** Maroon cap with stencil-bleached daisies (they come out pink) and plaid JELANI letters.
+1. **Gingham Star.** Bleached maroon cap. Plaid patch cut in the **JELANI star** shape: a wonky, hand-drawn 5-point star with long uneven points and a rough edge (Jelani has the artwork file).
+2. **Bikini Offcut.** Bleached pink cap. Maroon heart + sky blue flower cut from bikini offcuts. Needs interfacing on the stretch fabric.
+3. **Crazy 444 You.** Bleached sky blue cap. Cut-out check letters running down the side.
+4. **Bleach Flowers.** Maroon cap with stencil-bleached daisies (they come out pink).
 5. **Moth Panel (CAD needed).** Red-wine canvas. Washed green organic panels crossing the seams, 2 rose panels with yellow outline, raised embroidery, pink scalloped visor edge.
 6. **Stud Flowers.** Washed denim-blue cap. Silver stud flowers + a vine of small studs. Alt: dotted iris.
 7. **Blob Spots.** Blush cap with airbrushed fuzzy blobs with spots. Can also be a printed fabric patch.
