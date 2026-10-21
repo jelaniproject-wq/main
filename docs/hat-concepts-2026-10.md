@@ -64,6 +64,9 @@ stud count · our supplied fabric vs his · run size / 1-of-1.
 **Quality + care**
 - Wash/care instructions (we need these for the product page)? How long do the bleach and patches last?
 
+**The story**
+- What's the meaning behind your flowing "music in motion" caps? Could we build a JELANI story the same way (not copy his shapes)?
+
 **Brand + content**
 - Are our designs exclusive to JELANI (not reused in his drops)?
 - Would you like credit or a collab tag? Can we post your process?
@@ -87,3 +90,10 @@ stud count · our supplied fabric vs his · run size / 1-of-1.
 - Content: flash photos at night, UV-glow reel, gift a few to festival creators (tag the $0 orders `collab`)
 
 **Ask the maker:** UV/glow thread? Reflective fabric? Hidden pocket? Woven numbered tags? Under-brim print?
+
+## Story ideas (after Fletcher Kiley TikTok, 21 Oct)
+His flowing, splat-like appliqué caps are said to represent the flow and motion of music (from Jelani; video not viewable by Claude).
+Ideas for a JELANI meaning of our own:
+- **Strap lines:** bikini strap/binding offcuts stitched in flowing ribbon lines across the panels = movement on the dance floor
+- **Our song:** a real sound wave from a track that means something to JELANI, cut as one appliqué strip down the side
+- **444 = alignment:** "you're exactly where you need to be", hidden under the brim
