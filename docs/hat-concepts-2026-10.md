@@ -31,6 +31,7 @@ or hand-dyed with a distressed brim. Shapes cut from fabric are appliquéd on wi
 4. **Bleach Flowers.** Maroon cap with stencil-bleached daisies (they come out pink).
 5. **Moth Panel (CAD needed).** Red-wine canvas. Washed green organic panels crossing the seams, 2 rose panels with yellow outline, raised embroidery, pink scalloped visor edge.
 6. **Stud Flowers.** Washed denim-blue cap. Silver stud flowers + a vine of small studs. Alt: dotted iris.
+8. **Dance Symbols (fits 4 weeks).** Bleached sky blue cap with chunky cave-painting style patches for movement, dance, connection and creativity: two dancers holding hands, a leaping figure, linked loops, and the **spiral of nature** (Jelani loves it) ending in the JELANI star. Solid maroon twill or our plaid, hot pink zig-zag. Limbs 1 cm+ wide. Simplest version: one big spiral per side.
 7. **Blob Spots.** Blush cap with airbrushed fuzzy blobs with spots. Can also be a printed fabric patch.
 
 ## What drives the price
