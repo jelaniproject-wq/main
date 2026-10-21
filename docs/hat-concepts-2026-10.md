@@ -40,6 +40,7 @@ stud count · our supplied fabric vs his · run size / 1-of-1.
 - How do you choose the blank caps (brand, fabric, structured vs unstructured, adjustable sizing)? What base colours can we pick from?
 - Where do you source patch fabrics, and how many colour/pattern options are there? Can we see swatches?
 - Can we supply our own fabric (our printed plaid/check, bikini offcuts)? What works and what doesn't (stretch, thin, shiny)?
+- Can your machine sew swim fabric (lycra) at all? If yes, with iron-on stabiliser? If no: cotton dyed to match the bikini colours instead?
 - How much control is there over the bleach (light vs heavy, placement)? How different will each cap look?
 
 **Design input from him**
@@ -97,3 +98,10 @@ Ideas for a JELANI meaning of our own:
 - **Strap lines:** bikini strap/binding offcuts stitched in flowing ribbon lines across the panels = movement on the dance floor
 - **Our song:** a real sound wave from a track that means something to JELANI, cut as one appliqué strip down the side
 - **444 = alignment:** "you're exactly where you need to be", hidden under the brim
+
+## Swim fabric risk (21 Oct)
+Jelani flagged that swim lycra usually needs a more technical machine. Concepts that rely on it (02 Bikini Offcut, Strap lines) are **"ask first"**.
+Fallbacks if he can't sew it:
+1. Iron-on stabiliser fused to the back of the swim offcut so it acts like a normal woven fabric for zig-zag appliqué
+2. Cotton/twill dyed or sourced to match the bikini maroon + sky blue (same look, easy to sew, loses the offcut story)
+3. Our swim manufacturer makes finished strap strips / bound shapes, and he only tacks them onto the cap
