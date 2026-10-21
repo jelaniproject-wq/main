@@ -1,45 +1,42 @@
 # JELANI hat concepts: brief for the maker call (22 Oct 2026)
 
-Reference style: the maker's hand-made patchwork "lids" (Caroline Fifteen). These are dad caps that are
-bleach-splattered or hand-dyed with a distressed brim. Fabric shapes (plaid, leopard, dot print) are appliquéd
-onto them with a visible zig-zag stitch in a contrasting thread.
+Visual concept board (Design canvas): https://claude.ai/artifact/3wPuYKtvN6Fe2vgj79VukU
 
-**Rule:** don't copy his own marks (the "15", the 4-point star, "SPEED"). Our caps use JELANI shapes.
+Reference style: the maker's hand-made patchwork "lids" (Caroline Fifteen). These are dad caps that are bleach-splattered
+or hand-dyed with a distressed brim. Shapes cut from fabric are appliquéd on with a visible zig-zag stitch.
+**Don't copy his own marks** (the "15", his 4-point star, "SPEED").
 
-## What drives the price (ask him to quote against these)
-| Driver | Cheaper | Dearer |
-|---|---|---|
-| Appliqué pieces | 1 big shape | 4–6 letters/numbers (letters with holes like A, 0, 8 take longer) |
-| Placement | Front only | Front + side + back |
-| Base treatment | Plain dyed cap | Hand-dyed + bleach splatter + distressed brim |
-| Fabric | His stock fabric | Our supplied fabric (needs prep/backing) |
-| Extras | None | Woven JELANI label, under-brim print, metal buckle, custom tag |
-| Run | Larger run, one design | Each one 1-of-1 |
+## Direction (from Jelani, 21 Oct)
+- Vibe: **cool, edgy, festival girl**. Not pretty-coastal.
+- **Coloured caps only.** No camo, no black. Bleach splatter on most of them (it's his signature).
+- Stuck-on shapes must be **real shapes** (star, heart, flower, letters), not random scraps.
+- JELANI is spelled in **individual cut-out letters**, not the oval bubble patch.
+- Number idea = angel number **444** ("Crazy 444 You"), down the **side**, not big on the front.
+- Jelani is based in Bondi, not Maroubra.
+
+## Fabrics (Jelani's prints) and combos
+- Red/blue plaid (hero, covers maroon + blue and red + blue)
+- Pink/maroon check
+- Yellow plaid (wildcard)
+- New bikini colours: maroon + sky blue (offcuts)
+- Combos: maroon + blue (hero), pink + green, pink + blue, red + blue
 
 ## Concepts
-1. **Swim offcut cap (hero).** Appliqué made from leftover JELANI swim print fabric so it matches the bikinis.
-   This tells a scrap-reuse sustainability story. *Check:* swim lycra stretches, so ask whether he can back it with
-   interfacing so it sits flat.
-2. **"444" angel number cap (Jelani's idea).** Big appliqué "444" across the front, in his number style but our meaning
-   (protection, "you're on the right path"). It's three identical pieces from one template, so it should cost less than
-   mixed letters. Use an open-top 4 so there's no hole to cut out. Options: a small "444" on the back above the strap,
-   and "you're exactly where you need to be" printed under the brim. The number could also name the drop ("444 drop").
-3. **Big "J" monogram.** One large letter, the cheapest tier and a good entry price point.
-4. **Sun and wave side hits.** Two simple beach icons on the side panels, the way he places his stars, plus a small woven label at the front.
-5. **"JELANI" arched wordmark.** The full name across the crown. This is the premium tier because it has the most pieces.
-6. **Matching-set cap.** Base colour and fabric chosen to match a tracksuit/Goosebumps colourway so it can be sold as a set.
+1. **Gingham Star.** Bleached maroon cap. Plaid star patch the same shape as the star on our camo cap. JELANI in cut-out check letters.
+2. **Bikini Offcut.** Bleached pink cap. Maroon heart + sky blue flower cut from bikini offcuts, with maroon swim letters. Needs interfacing on the stretch fabric.
+3. **Crazy 444 You.** Bleached sky blue cap. Cut-out check letters running down the side, plaid JELANI on the front.
+4. **Bleach Flowers.** Maroon cap with stencil-bleached daisies (they come out pink) and plaid JELANI letters.
+5. **Moth Panel (CAD needed).** Red-wine canvas. Washed green organic panels crossing the seams, 2 rose panels with yellow outline, raised embroidery, pink scalloped visor edge.
+6. **Stud Flowers.** Washed denim-blue cap. Silver stud flowers + a vine of small studs. Alt: dotted iris.
+7. **Blob Spots.** Blush cap with airbrushed fuzzy blobs with spots. Can also be a printed fabric patch.
 
-## Colourway ideas (beachy, not a copy of his bleach look)
-- Salt-wash: lightly sun-faded instead of heavy bleach splatter
-- Washed sand + swim-print appliqué
-- Faded navy + white/cream appliqué
-- Sea-foam + coral appliqué
-- Bleach-splatter version as a limited "1 of 1" run only
+## What drives the price
+Number of appliqué pieces (letters count individually) · placement count · bleach/dye work · embroidery digitising (Moth) ·
+stud count · our supplied fabric vs his · run size / 1-of-1.
 
 ## Questions for the call
-- Price per cap at each tier (1 piece / 2–3 pieces / 4–6 pieces)? MOQ?
-- Can he use fabric we supply? Any prep needed for stretch swim fabric?
-- Sample cost and turnaround; production lead time.
-- Consistent production run vs each one unique?
-- Can he add a JELANI woven label / custom tag?
-- Is the design exclusive to us (won't be resold in his drops)?
+- Price per cap at each level (1 patch / 2–3 / 6+ pieces incl. letters)? Minimum order? Sample cost?
+- Can he use our bikini offcuts and our printed fabrics? What backing does stretch fabric need?
+- Smallest letter he can cut (side text is ~2.5 cm)?
+- Does he do stencil bleaching, airbrush/spray dye, studs, raised embroidery? Can he work from a CAD?
+- Lead time; is the design exclusive to JELANI?
