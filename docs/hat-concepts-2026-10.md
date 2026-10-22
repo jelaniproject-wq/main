@@ -126,3 +126,8 @@ The hero cap should tie the outfit together:
 - **Bikini underneath:** the new maroon + sky blue one. It links everything.
 - **Cap:** sky blue base with red/maroon patches (03 Crazy 444 You or 08 Dance Symbols). Or flip it: maroon cap with sky blue patches so it doesn't match the vest too exactly.
 - **Stitching:** red to pick up the shorts. If yellow shorts: yellow contrast stitching, or the yellow plaid as the patch fabric.
+
+## Dance Symbols: both sides + second colourway (22 Oct)
+- Side A: dancers + leaping figure. Side B: CRAZY 444 YOU in gingham cut-out letters ending in a small spiral of nature.
+- Colourway 1 (hero): maroon cap, sky blue figures + sky blue gingham letters, yellow contrast stitching.
+- Colourway 2 (lots of people suggested it): **dark bottle green** cap, baby pink figures + pink gingham letters, hot pink contrast stitching.
