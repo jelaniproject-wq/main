@@ -133,3 +133,9 @@ The hero cap should tie the outfit together:
 - Colourway 1 (hero): maroon cap, sky blue figures + sky blue gingham letters, pale pink contrast stitching (yellow looked too much like a basketball team).
 - Colourway 2 (revised): faded pink cap, dark green figures + dark green gingham letters, red contrast stitching (Jelani unsure about a dark green cap).
 - Colourway 2 (lots of people suggested it): **dark bottle green** cap, baby pink figures + pink gingham letters, hot pink contrast stitching.
+
+## Dancer construction (22 Oct)
+Two ways to make the dancing figures:
+- **A. Cut-out:** each figure cut from fabric and stitched straight onto the cap. Cleanest look, but thin arms/legs are slow to cut and zig-zag, and can fray or lift.
+- **B. Figure on a patch (recommended for dancers):** figure stitched/appliquéd onto a background patch, then only the simple outer shape is zig-zagged to the cap. Faster, stronger, figures read clearer. Patch idea: an organic pebble shape, like cave art on a stone (ties to the cave-painting style).
+Letters (CRAZY 444 YOU) and the spiral are chunky, so they can stay cut-out. Ask him which method he prefers and what it does to price/time.
