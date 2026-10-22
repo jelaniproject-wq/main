@@ -150,3 +150,7 @@ Big idea: **mix solid patches with stitched line drawings** on the same cap. Ask
 - **Two reaching dancers with sparkles + dots** (chunky, blobby limbs): the strongest Side A option. Thick enough to cut as patches. Sparkles = JELANI stars, dots = small fabric dots or French knots.
 - **Three dancers with spiral heads:** combines dance + spiral of nature. Solid body patches with the spiral stitched in contrast thread on the head.
 - **Copyright:** these are found online (Pinterest / tattoos). Use as references only; get original JELANI artwork drawn, don't trace.
+
+## Mini brief sent to maker (22 Oct, Jelani's own 3-page brief)
+Approach: send a light inspo brief + let him lead on layout and design, rather than the full concept board. Page 1 symbol/dancer inspo, page 2 bikini colours + CRAZY 444 YOU mock, page 3 his own caps with what Jelani loves about each.
+New bikini (launching end of month) is **blue with maroon straps**, so the hat flips it: maroon cap, light blue details, contrast stitch (pink/yellow).
