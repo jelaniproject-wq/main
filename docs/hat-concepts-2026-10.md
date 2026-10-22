@@ -139,3 +139,11 @@ Two ways to make the dancing figures:
 - **A. Cut-out:** each figure cut from fabric and stitched straight onto the cap. Cleanest look, but thin arms/legs are slow to cut and zig-zag, and can fray or lift.
 - **B. Figure on a patch (recommended for dancers):** figure stitched/appliquéd onto a background patch, then only the simple outer shape is zig-zagged to the cap. Faster, stronger, figures read clearer. Patch idea: an organic pebble shape, like cave art on a stone (ties to the cave-painting style).
 Letters (CRAZY 444 YOU) and the spiral are chunky, so they can stay cut-out. Ask him which method he prefers and what it does to price/time.
+
+## More symbol references (22 Oct, from Jelani)
+- **Two connected figures with stars** (one outline, one solid): best "connection" symbol. Solid figure = patch, outline figure = stitched line. Stars = JELANI star.
+- **Spiky "eyes" with spirals inside:** pair them on the back above the strap.
+- **Fine-line leaping dancers:** too thin to cut as patches. Make them as a stitched line drawing (thread drawing / free-motion or chain stitch).
+- **Connected stars on a stem** (red): uses 4-point stars, which is close to his mark. Do it with **JELANI 5-point stars** as a "constellation" running down the side.
+- **Hand-drawn red outline flower:** stitched outline in a thick contrast thread, or as the bleach stencil for Bleach Flowers.
+Big idea: **mix solid patches with stitched line drawings** on the same cap. Ask him if he can thread-draw (free-motion / chain stitch).
