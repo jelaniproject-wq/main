@@ -147,3 +147,6 @@ Letters (CRAZY 444 YOU) and the spiral are chunky, so they can stay cut-out. Ask
 - **Connected stars on a stem** (red): uses 4-point stars, which is close to his mark. Do it with **JELANI 5-point stars** as a "constellation" running down the side.
 - **Hand-drawn red outline flower:** stitched outline in a thick contrast thread, or as the bleach stencil for Bleach Flowers.
 Big idea: **mix solid patches with stitched line drawings** on the same cap. Ask him if he can thread-draw (free-motion / chain stitch).
+- **Two reaching dancers with sparkles + dots** (chunky, blobby limbs): the strongest Side A option. Thick enough to cut as patches. Sparkles = JELANI stars, dots = small fabric dots or French knots.
+- **Three dancers with spiral heads:** combines dance + spiral of nature. Solid body patches with the spiral stitched in contrast thread on the head.
+- **Copyright:** these are found online (Pinterest / tattoos). Use as references only; get original JELANI artwork drawn, don't trace.
