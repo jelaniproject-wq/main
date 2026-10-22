@@ -119,3 +119,10 @@ Bikini Offcut / Strap lines only if he can sew stabilised swim fabric. **Moth (C
 | 3 | 5–11 Nov | Production. Draft product listings (DRAFT) with care info, fabric, complete-the-look. Plan shoot. |
 | 4 | 12–18 Nov | Caps arrive. Shoot (flash/night). Launch on Instagram 7–8pm AEDT, email after. |
 Risks: fabric delivery to him, sample changes eating a week, quantity he can make in ~2 weeks.
+
+## Launch outfit (22 Oct)
+Jelani's planned look: sky blue vintage sleeveless hooded vest + red-stripe mini shorts (or yellow shorts) + biker boots + a JELANI bikini underneath.
+The hero cap should tie the outfit together:
+- **Bikini underneath:** the new maroon + sky blue one. It links everything.
+- **Cap:** sky blue base with red/maroon patches (03 Crazy 444 You or 08 Dance Symbols). Or flip it: maroon cap with sky blue patches so it doesn't match the vest too exactly.
+- **Stitching:** red to pick up the shorts. If yellow shorts: yellow contrast stitching, or the yellow plaid as the patch fabric.
