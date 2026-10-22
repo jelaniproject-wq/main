@@ -154,3 +154,16 @@ Big idea: **mix solid patches with stitched line drawings** on the same cap. Ask
 ## Mini brief sent to maker (22 Oct, Jelani's own 3-page brief)
 Approach: send a light inspo brief + let him lead on layout and design, rather than the full concept board. Page 1 symbol/dancer inspo, page 2 bikini colours + CRAZY 444 YOU mock, page 3 his own caps with what Jelani loves about each.
 New bikini (launching end of month) is **blue with maroon straps**, so the hat flips it: maroon cap, light blue details, contrast stitch (pink/yellow).
+
+## Maker quote + timing (22 Oct)
+Call: **Friday 24 Oct, his window 11am–4pm QLD = 12pm–5pm Sydney (AEDT)**.
+Rough pricing (his standard build, to be tweaked once design is set):
+| Qty | Per cap | Caps total | + setup | Total (ex shipping) | Per cap landed |
+|---|---|---|---|---|---|
+| 15 | $50 | $750 | $150 | $900 | $60 |
+| 30 | $45 | $1,350 | $150 | $1,500 | $50 |
+| 50 | $40 | $2,000 | $150 | $2,150 | $43 |
++ shipping at cost. 50% deposit to lock in, balance before they ship.
+Suggested: 30 caps = 2 colourways × 15 (confirm the price holds when split across colourways).
+**Deadline:** Strawberry Fields is **20 Nov**. Customers need caps before then, so aim for **caps in hand ~10 Nov** (launch ~11–12 Nov, allow 3–5 days shipping). Absolute latest in hand ~13 Nov.
+Ask on call: does the price include blanks + patch fabric? Does it change with 2 colourways, bleach, or more pieces (letters)?
