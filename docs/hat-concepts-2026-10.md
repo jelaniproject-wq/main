@@ -110,7 +110,7 @@ Fallbacks if he can't sew it:
 3. Our swim manufacturer makes finished strap strips / bound shapes, and he only tacks them onto the cap
 
 ## 4-week plan (21 Oct → ~18 Nov)
-**Shortlist for this drop (fast, uses his normal skills):** 01 Gingham Star (JELANI star), 03 Crazy 444 You, 04 Bleach Flowers.
+**Presenting on the call (Jelani, 22 Oct):** **08 Dance Symbols = hero** (maroon cap, sky blue dancer/spiral patches, yellow contrast stitching), plus 03 Crazy 444 You and 04 Bleach Flowers as extra ideas.
 Bikini Offcut / Strap lines only if he can sew stabilised swim fabric. **Moth (CAD + raised embroidery digitising) and Studs → later drop.**
 | Week | Dates | What happens |
 |---|---|---|
