@@ -129,5 +129,6 @@ The hero cap should tie the outfit together:
 
 ## Dance Symbols: both sides + second colourway (22 Oct)
 - Side A: dancers + leaping figure. Side B: CRAZY 444 YOU in gingham cut-out letters ending in a small spiral of nature.
-- Colourway 1 (hero): maroon cap, sky blue figures + sky blue gingham letters, yellow contrast stitching.
+- Colourway 1 (hero): maroon cap, sky blue figures + sky blue gingham letters, pale pink contrast stitching (yellow looked too much like a basketball team).
+- Colourway 2 (revised): faded pink cap, dark green figures + dark green gingham letters, red contrast stitching (Jelani unsure about a dark green cap).
 - Colourway 2 (lots of people suggested it): **dark bottle green** cap, baby pink figures + pink gingham letters, hot pink contrast stitching.
