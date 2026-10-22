@@ -8,7 +8,8 @@ or hand-dyed with a distressed brim. Shapes cut from fabric are appliquéd on wi
 
 ## Direction (from Jelani, 21 Oct)
 - Vibe: **cool, edgy, festival girl**. Not pretty-coastal.
-- **Coloured caps only.** No camo, no black. Bleach splatter on most of them (it's his signature).
+- **Coloured caps only.** No camo, no black.
+- **Bleach: undecided (22 Oct).** Tilly questioned it. Bleach splatter is his signature, so it may make ours look like his. Options: clean cap, light sun-faded wash, or bleach only on a limited 1-of-1 run. Ask him to sample one bleached + one clean.
 - Stuck-on shapes must be **real shapes** (star, heart, flower, letters), not random scraps.
 - JELANI is spelled in **individual cut-out letters**, not the oval bubble patch.
 - **No JELANI on the front panel.** Keep fronts clean; put a small JELANI on the back above the strap (or a small side hit).
