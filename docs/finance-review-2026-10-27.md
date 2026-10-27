@@ -30,24 +30,17 @@ Sources: Shopify (sales, live stock), Windsor.ai (Meta spend), Jelani's finance 
 | mid Nov / mid Dec | Daniel, $4,000 left, before his trip before Christmas | $2,000 + $2,000 | Sheet (amount to confirm) |
 | by 25 Nov | BAS | $1,923 | Jelani |
 | ongoing | Meta at $70/day | ~$2,100/month | Jelani |
-| ongoing | Shopify Capital: see below | $8,827.74 total owing | Shopify screenshot 27 Oct |
+| ongoing | Shopify Capital: **25% of every payout** | balance ~$3,963 per forecast (check actual) | Sheet |
 
 Stock already ordered (Romi top-up, 100 new blue bikinis) is **paid**. Nothing is owed to Icy yet.
 
 Outcome: November commitments total ~$10.3k against ~$8.8k cash now plus November payouts (≥ ~$5.5k after Capital, based on September as a slow month). Projected ~$5k at the end of November. **Inferred, not measured.**
 
-## Shopify Capital (Shopify screenshot, 27 Oct)
-| Loan | Outstanding | Rate | Status |
-|---|---|---|---|
-| Loan 1 (due 30 Sep 2027) | $1,204.94 (92% repaid) | 25% of daily sales | In repayment; $981.89 pending (25–27 Oct), leaving ~$223 |
-| Loan 2 (due 16 Mar 2028) | $7,622.80 ($6,800 received 16 Sep 2026) | 17% (per sheet) | Starts automatically once Loan 1 is repaid, likely early Nov |
-
-The finance sheet's "proposed" Capital is **already taken** (deposited 16 Sep). From early November about 17% of sales goes to Capital instead of 25%.
-
 ## Decisions
 - **Pay Jas ($585, clears her) and Flo ($600) today.**
 - Hats: 30 caps (15 light blue, 15 light pink, + 1 maroon test), $1,500 total. Partly marketing: some will be given away at Strawberry Fields (20 Nov), with the rest sold as a limited run at full price. Caps needed by ~10 Nov. Fletcher hasn't replied yet; follow up 27 Oct.
 - Meta stays at $70/day (matches the sheet's ring-fenced Meta budget of $2,163).
+- Proposed new Shopify Capital ($6,800, $822.80 fee, 17% of payouts): not decided; keep as a backup for a restock.
 
 ## Restock forecast (live stock 27 Oct; sales 20–27 Oct, mostly at ~$143/day Meta, so run-outs are the earliest likely dates)
 | Style / size | Stock (top / bottoms) | Sold per week | Runs out |
@@ -65,7 +58,7 @@ The finance sheet's "proposed" Capital is **already taken** (deposited 16 Sep). 
 
 ## Still open
 - Klarna: business details not yet verified, so payouts may be held. Verify via the Klarna portal, not the email link.
-- Has the ~$982 of pending Capital repayments already come off the $3,852 payout? Check in Shopify → Finance → Payouts.
+- Actual Shopify Capital balance (Shopify → Finance → Capital).
 - Bikini unit costs per style, and supplier lead time and minimum order.
 - Daniel: confirm $4,000 left and the payment dates.
 - Futur MGMT: was October paid?
