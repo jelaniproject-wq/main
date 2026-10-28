@@ -20,7 +20,7 @@ Sources: Shopify sales Nov 2025 – Oct 2026 (Oct to the 28th), Meta spend via W
 | **12 months** | **938** | **$112,228** | **$93,658** | **$18,070** |
 
 - Months with stock (after the Jan, May and Oct restocks) bring in $12–17k. Stockout months bring in $2–8k.
-- Discounts were **$41,128 of $146,575 gross (28%)** over the year.
+- Discounts were $41,128 of $146,575 gross over the year, but **about $31,100 of that is ~150 gifted/collab orders at 100% off** (counted from order-level sales, 28 Oct). Only 12 of those orders carry the `collab` tag. Real customer discounts (welcome code, CELEBRATE, Black Friday etc.) are **about $10k, ~9% of paid sales**, which is normal.
 
 ## What the business makes before overheads (estimate)
 Net sales $93.7k − stock at ~$15/unit × 1,852 units ($27.8k, **assumed**) − payment fees ~3% ($3.4k) − Meta ($18.1k) ≈ **$44k a year, ~$3,700 a month**.
@@ -46,15 +46,15 @@ Not yet included: subscriptions and apps, design and content (Flo, Futur MGMT), 
 ## What moves the needle
 | Lever | Effect (estimate) |
 |---|---|
-| Discounts from 28% to 15% of gross | ~+$1,600/month |
+| Gifting: ~150 free orders a year (~$31k at retail; at cost roughly $4–5k plus postage, **estimate**) | Track which collabs lead to sales; fewer, better-chosen gifts |
 | No stockout months (bestsellers always in stock) | Quiet months closer to $9–12k instead of $2–8k |
 | Every extra $100 collected | ~$40 left after stock, fees and Meta |
-| A $4k/month wage at current margins | needs ~+$10k/month in sales (~$19k/month average), or less with the two levers above |
+| A $4k/month wage at current margins | needs ~+$10k/month in sales (~$19k/month average); ending stockout months is the main way to get there |
 
 ## Needed for a full picture
 1. Landed unit cost per style (incl. freight and duties), minimum order, lead time
 2. Bank statement CSV for the last 3–6 months (to categorise overheads)
 3. Amex balance and interest rate
 4. Capital funding history (amounts and dates of earlier loans)
-5. Postage: what Sendle charges vs what customers pay
+5. Postage: what Australia Post charges vs what customers pay
 6. The monthly wage needed to go full time, and current hours at the other job

@@ -48,7 +48,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - Product description template:
 
 ## Operations (TODO)
-- Fulfilment (who packs/ships, carrier, dispatch times):
+- Fulfilment (who packs/ships, carrier, dispatch times): Jelani packs. Carrier is **Australia Post** (Jelani, 28 Oct 2026); Sendle is installed but not the main carrier.
 - Suppliers / manufacturers & lead times:
 - Returns & exchanges policy:
 - Inventory reorder thresholds:
@@ -56,7 +56,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 ## Marketing & channels (TODO)
 - Channels (Instagram, TikTok, email, wholesale, markets):
 - Launch / drop cadence:
-- Discount policy:
+- Discount policy: discounts are mostly gifted/collab orders (100% off, ~$31k at retail Nov 25–Oct 26, most NOT tagged `collab`) and the welcome code. Real customer discounts ~9% of paid sales. When reporting, exclude $0 orders, not just `collab`-tagged ones.
 - Causes / partnerships (e.g. Black Dog Institute donation product):
 
 ## Goals & reporting (TODO)
