@@ -70,7 +70,7 @@ Not yet included: subscriptions and apps, design and content (Flo, Futur MGMT), 
 Transfers are done every Monday alongside the cash page check. Tracked on Monday: "Open ANZ Tax + Stock accounts".
 
 ## Amex plan (added 28 Oct)
-- Balance **$15,000, at its limit**. Started as business stock (socks, hats, men's shirts ~2–3 years ago) plus some personal spending. Paid from the business account. Interest rate not yet confirmed; ~21% p.a. assumed below.
+- Balance **$15,069.12 of a $15,100 limit** ($30 available, Amex screenshot 28 Oct). Statement 20 Sep–19 Oct: $16,063.12; $2,000 paid; **$1,006 of new charges since 20 Oct**; minimum $142.05 due 2 Nov. Started as business stock (socks, hats, men's shirts ~2–3 years ago) plus some personal spending. Paid from the business account. Interest rate not yet confirmed; ~21% p.a. assumed below.
 - At ~21%, interest is about **$260/month**. A $142 minimum is less than that, so the balance can't come down on minimums. The $5k payment refilled because the card was used again, not because of the payment.
 
 | Monthly payment (21% assumed) | Paid off in | Total interest |
