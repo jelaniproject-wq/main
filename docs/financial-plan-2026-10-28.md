@@ -85,7 +85,18 @@ Steps:
 2. Stop new spending on it: freeze the card in the Amex app, remove it from Apple Pay and saved payments, and move any subscriptions to ANZ.
 3. Call the free **Small Business Debt Helpline (1800 413 828)** or **National Debt Helpline (1800 007 007)**. They can ask Amex for a hardship arrangement or lower rate, and compare a 0% balance transfer or a consolidation loan.
 4. From **Jan 2027** (after Daniel is repaid), put the $2,000/month that went to Daniel towards the Amex. From ~Apr 2027 (Capital done) add more.
-5. Sell old stock (Camo Hats: 90 left, ~2 a week; men's shirts: count and list or sell at a market) and put the proceeds on the Amex.
+5. Sell slow stock and put the proceeds on the Amex. The Camo Hat sells well (106 in 12 months) and is **not** slow stock; the Land Rover hats are all gone. Slow stock in Shopify (28 Oct, Shopify counts, confirm on the shelf):
+
+| Item | In Shopify | Sold last 12 months | Cost each | Tied up at cost |
+|---|---|---|---|---|
+| Heavy Faded Bone Tee | 46 | 0 | $25.50 | ~$1,170 |
+| Heavy Weight Black Tee (2 listings) | 35 | 4 | $25.50 | ~$890 |
+| From The Heavens Terry Shirt (archived) | 32 | 1 | $29.70 | ~$950 |
+| From The Heavens Terry Short (archived) | 28 | 0 | $29.70 | ~$830 |
+| Billie Jersey | 29 | 10 | not set | ? |
+| Pilates Grip Socks | 9 | 8 | $6.80 | ~$60 |
+
+About **$3,900 at cost** is sitting in slow stock.
 
 Debt priority is now: **Daniel (deadline) → Amex (highest interest) → Capital (fixed fee, pays itself).**
 
