@@ -51,7 +51,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - Fulfilment (who packs/ships, carrier, dispatch times): Jelani packs. Carrier is **Australia Post** (Jelani, 28 Oct 2026); Sendle is installed but not the main carrier.
 - Suppliers / manufacturers & lead times:
 - Returns & exchanges policy:
-- Inventory reorder thresholds:
+- Inventory reorder thresholds: reorder a bestseller size when it has **6 weeks of stock left** at its in-stock sales pace (assumes ~4-week lead time + 2-week buffer; adjust once real lead times are known). The cash page's Restock watch shows "Reorder at" and flags sizes under 6 weeks.
 
 ## Marketing & channels (TODO)
 - Channels (Instagram, TikTok, email, wholesale, markets):
