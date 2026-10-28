@@ -44,3 +44,4 @@ Source: ING statement no. 26, uploaded 28 Oct. 699 transactions parsed; money in
 - **Weekly "fun money" cap:** eating out, coffee, bars and Uber Eats from a set weekly amount (e.g. $250/week, ~$1,080/month, vs ~$1,540 now): about **$460/month saved**, which could go to the Amex. Uber rides stay separate.
 - Tasks on Monday: subscription moves (comment on "List every subscription…"), "Enter business costs paid from personal ING into Xero", "Move Claude subscription to ANZ card".
 - Keep health spending (psychology, gym) as is.
+- **Coffee stays** (Jelani: 1–2 good coffees a day is non-negotiable). Budget ~$300/month for it separately from the fun-money cap; savings come from Uber Eats, bars and eating out instead.
