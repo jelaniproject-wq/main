@@ -56,7 +56,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 ## Marketing & channels (TODO)
 - Channels (Instagram, TikTok, email, wholesale, markets):
 - Launch / drop cadence:
-- Discount policy: discounts are mostly gifted/collab orders (100% off, ~$31k at retail Nov 25–Oct 26, most NOT tagged `collab`) and the welcome code. Real customer discounts ~9% of paid sales. When reporting, exclude $0 orders, not just `collab`-tagged ones.
+- Discount policy: discounts are mostly $0 orders (~$31k at retail Nov 25–Oct 26), which are almost all collabs or exchanges; tagging started only in Oct 2026, so older ones aren't tagged. The rest is mainly the welcome code. Real customer discounts ~9% of paid sales. When reporting, exclude $0 orders, not just `collab`-tagged ones.
 - Causes / partnerships (e.g. Black Dog Institute donation product):
 
 ## Goals & reporting (TODO)
@@ -75,7 +75,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 ## Store standards
 - **Inventory:** "Stop selling when out of stock" (DENY) is on for every variant (verified 14 Oct 2026). Keep it on for new products.
 - **Size names:** XS / Small / Medium / Large / Extra large / XXL. The option name is always "Size". Some products use Shopify's linked standard sizes, where XL can only be "Extra large".
-- **Gifting/collab orders** are $0 orders tagged `collab`. Exclude them from sales and launch reporting.
+- **Gifting/collab orders** are $0 orders tagged `collab`; **exchanges** are also $0 orders. Tag new ones `collab` or `exchange`. Before Oct 2026 nothing was tagged, so exclude all $0 orders from sales and launch reporting.
 
 ## Data rules (after errors on 14 Oct 2026)
 - **Stock:** always read live stock from the Shopify product API (`productVariants.inventoryQuantity`). The ShopifyQL `inventory` table lags by about a day, so only use it for history.
