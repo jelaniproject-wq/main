@@ -71,17 +71,19 @@ Transfers are done every Monday alongside the cash page check. Tracked on Monday
 
 ## Amex plan (added 28 Oct)
 - Balance **$15,069.12 of a $15,100 limit** ($30 available, Amex screenshot 28 Oct). Statement 20 Sep–19 Oct: $16,063.12; $2,000 paid; **$1,006 of new charges since 20 Oct**; minimum $142.05 due 2 Nov. Started as business stock (socks, hats, men's shirts ~2–3 years ago) plus some personal spending. Paid from the business account. Interest rate not yet confirmed; ~21% p.a. assumed below.
-- At ~21%, interest is about **$260/month**. A $142 minimum is less than that, so the balance can't come down on minimums. The $5k payment refilled because the card was used again, not because of the payment.
+- Card: **Qantas American Express Ultimate**. Statement 20 Sep–19 Oct 2026: interest **$309.52** (≈24% a year, inferred from the charge), $30 overdue-payment fee, $6 insufficient-funds fee, and a **$400 payment returned by the bank** on 22 Sep. New spending was only $118.94 (18–20 Sep), and the card hasn't been used since 20 Sep (Jelani).
+- The $1,006 of "recent charges" after 19 Oct looks like the same pattern: a **$1,000 payment returned + $6 fee** (inferred from the totals; confirm in Amex transactions).
+- **Interest (~$300/month) is more than the $142.05 minimum**, so on minimums the balance grows by ~$160 a month. Returned payments add fees and can show as missed payments on the credit file.
 
-| Monthly payment (21% assumed) | Paid off in | Total interest |
+| Monthly payment (~24%) | Paid off in | Total interest |
 |---|---|---|
-| $142 (minimum) | never | ~$260/month, ongoing |
-| $1,000 | ~18 months | ~$2,550 |
-| $1,500 | ~11 months | ~$1,630 |
-| $2,000 | ~8 months | ~$1,220 |
+| $142.05 (minimum) | never (grows ~$160/month) | ~$300/month |
+| $1,000 | ~18 months | ~$3,040 |
+| $1,500 | ~11 months | ~$1,920 |
+| $2,000 | ~8 months | ~$1,430 |
 
 Steps:
-1. Confirm the interest rate and minimum on the latest Amex statement.
+1. Stop payments bouncing: only pay Amex when the money is in ANZ (e.g. set the payment for the day after a payout). Check the card's annual fee on page 1 of the statement.
 2. Stop new spending on it: freeze the card in the Amex app, remove it from Apple Pay and saved payments, and move any subscriptions to ANZ.
 3. Call the free **Small Business Debt Helpline (1800 413 828)** or **National Debt Helpline (1800 007 007)**. They can ask Amex for a hardship arrangement or lower rate, and compare a 0% balance transfer or a consolidation loan.
 4. From **Jan 2027** (after Daniel is repaid), put the $2,000/month that went to Daniel towards the Amex. From ~Apr 2027 (Capital done) add more.
