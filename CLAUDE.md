@@ -48,7 +48,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 - Product description template:
 
 ## Operations (TODO)
-- Fulfilment (who packs/ships, carrier, dispatch times): Jelani packs. Carrier is **Australia Post** (Jelani, 28 Oct 2026); Sendle is installed but not the main carrier.
+- Fulfilment (who packs/ships, carrier, dispatch times): Jelani packs. Carrier is **Australia Post**, paid directly (Jelani, 28 Oct 2026); Sendle is installed but not the main carrier.
 - Suppliers / manufacturers & lead times:
 - Returns & exchanges policy:
 - Inventory reorder thresholds: reorder a bestseller size when it has **6 weeks of stock left** at its in-stock sales pace (assumes ~4-week lead time + 2-week buffer; adjust once real lead times are known). The cash page's Restock watch shows "Reorder at" and flags sizes under 6 weeks.
@@ -71,6 +71,10 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
   - Groups: Today (max 3), This week, Waiting on someone, Later, Done. Check for duplicates before adding.
 - **Cash page:** "JELANI Cash" (https://claude.ai/artifact/UXp1hkZC1sEommd49Yvxky) replaces the finance sheet for week-to-week decisions. When Jelani reports a payment, a new bill or a bank balance, update its files (settings, bills, debts, costs) and re-upload them. Sales and stock on it are live from Shopify.
 - Connected tools: Shopify, Klaviyo, Monday.com, GitHub, Gmail, **Windsor.ai → Meta Ads** (account "Jelani The Label" 430343108989224, connected 20 Oct 2026). Windsor can also write to Meta; never run write actions without explicit approval.
+
+## Money facts (bank review, 28 Oct 2026)
+- On the ANZ statement, **"PAYMENT TO SHOPIFY COMMERCE" daily debits are Shopify Capital repayments** (not shipping). Payouts arrive before Capital; Capital is debited separately. See docs/bank-review-apr-sep-2026.md.
+- Apr–Sep 2026: the business left ~$1,700/month after stock, but Capital repayments ran ~$2,960/month.
 
 ## Store standards
 - **Inventory:** "Stop selling when out of stock" (DENY) is on for every variant (verified 14 Oct 2026). Keep it on for new products.
