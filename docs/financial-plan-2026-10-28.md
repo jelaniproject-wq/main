@@ -63,9 +63,9 @@ Not yet included: subscriptions and apps, design and content (Flo, Futur MGMT), 
 | Account | Funded with | Used for | Start |
 |---|---|---|---|
 | Main | All Shopify payouts | Everyday bills | now |
-| Tax | 10% of every payout | BAS and income tax only (check with Ajaka & Co that 10% covers income tax) | after BAS paid 25 Nov |
+| Tax (already open, ANZ …2449, $1,612.97 on 28 Oct) | 10% of every payout | BAS and income tax only (check with Ajaka & Co that 10% covers income tax) | after BAS paid 25 Nov |
 | Stock | 10% of every payout; 25% once Capital is repaid | Restocks only | Black Friday (27 Nov) |
-| Meta | $490 every Monday (scheduled transfer), own debit card | Meta ads only | now |
+| Meta | Proposed change (28 Oct): skip a separate account and set an account spending limit in Meta instead. Meta bills in AUD with no overseas fee on ANZ (424 charges checked) | Meta ads only | to confirm |
 
 Transfers are done every Monday alongside the cash page check. Tracked on Monday: "Open ANZ Tax + Stock accounts".
 
