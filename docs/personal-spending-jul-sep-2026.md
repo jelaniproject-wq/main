@@ -45,3 +45,13 @@ Source: ING statement no. 26, uploaded 28 Oct. 699 transactions parsed; money in
 - Tasks on Monday: subscription moves (comment on "List every subscription…"), "Enter business costs paid from personal ING into Xero", "Move Claude subscription to ANZ card".
 - Keep health spending (psychology, gym) as is.
 - **Coffee stays** (Jelani: 1–2 good coffees a day is non-negotiable). Budget ~$300/month for it separately from the fun-money cap; savings come from Uber Eats, bars and eating out instead.
+
+## Summary agreed 28 Oct
+| What | Per month | Fix |
+|---|---|---|
+| Business top-ups from wage (net) | ~$925 | Business pays its own way; plan gaps on the cash page instead |
+| Going out (eating out ex coffee ~$670 + bars ~$460) | ~$1,130 | Weekly fun-money cap |
+| Uber Eats | ~$186 (bursty, busy weeks) | Plan or budget for launch weeks |
+| Coffee | ~$220 | **Not a problem**: kept, budgeted ~$300 |
+| Groceries | ~$90–110/week | Fine; fewer top-up trips if wanted |
+Lower August pay (~$2,500 less) and the Europe trip also explain the drop in savings from ~$300/week.
