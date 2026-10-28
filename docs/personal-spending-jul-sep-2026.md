@@ -55,3 +55,19 @@ Source: ING statement no. 26, uploaded 28 Oct. 699 transactions parsed; money in
 | Coffee | ~$220 | **Not a problem**: kept, budgeted ~$300 |
 | Groceries | ~$90–110/week | Fine; fewer top-up trips if wanted |
 Lower August pay (~$2,500 less) and the Europe trip also explain the drop in savings from ~$300/week.
+
+## Silly season budget, Nov–Dec 2026 (draft 28 Oct; amounts are guesses for Jelani to adjust)
+| When | Event | Guess |
+|---|---|---|
+| Sat 31 Oct weekend | Group bar crawl + lunch | $0 (leaning no) |
+| ~7–8 Nov | Cousin's engagement party (gift + night) | ~$150 |
+| ~14–15 Nov | Birthday + going-away party (gift + night) | ~$150 |
+| 20 Nov weekend | Strawberry Fields (food, drinks, transport; ticket?) | ~$400 |
+| Dec | Gym Christmas party | ~$60 |
+| Dec | Big group Christmas lunch | ~$120 |
+| Dec | Christmas lunch with two best friends | ~$100 |
+| Dec | Christmas gifts | ~$300 |
+| Nov–Dec | Pop-ups (beach days, NYE, last-minute plans) | ~$300 |
+| **Total** | | **~$1,580** (vs ~$2,260 at the usual going-out rate for 2 months) |
+
+Also coming: bridesmaid costs in 2027 (dress, hens, gift). Start a small monthly amount for it in the new year.
