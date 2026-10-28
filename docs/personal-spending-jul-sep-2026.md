@@ -56,18 +56,22 @@ Source: ING statement no. 26, uploaded 28 Oct. 699 transactions parsed; money in
 | Groceries | ~$90–110/week | Fine; fewer top-up trips if wanted |
 Lower August pay (~$2,500 less) and the Europe trip also explain the drop in savings from ~$300/week.
 
-## Silly season budget, Nov–Dec 2026 (draft 28 Oct; amounts are guesses for Jelani to adjust)
-| When | Event | Guess |
+## Silly season budget, Nov–Dec 2026 (revised 28 Oct)
+From the ING statement, a weekend (Fri–Sun) of going out costs **~$290 typically and $425–590 on a big one** (Aug–Sep 2026). Jelani said the first guesses were too low.
+
+| When | Event | Estimate |
 |---|---|---|
-| Sat 31 Oct weekend | Group bar crawl + lunch | $0 (leaning no) |
-| ~7–8 Nov | Cousin's engagement party (gift + night) | ~$150 |
-| ~14–15 Nov | Birthday + going-away party (gift + night) | ~$150 |
-| 20 Nov weekend | Strawberry Fields (food, drinks, transport; ticket?) | ~$400 |
-| Dec | Gym Christmas party | ~$60 |
-| Dec | Big group Christmas lunch | ~$120 |
-| Dec | Christmas lunch with two best friends | ~$100 |
+| Sat 31 Oct weekend | Group bar crawl + lunch | $0 (skipping) |
+| ~7–8 Nov | Cousin's engagement party (gift + big night) | ~$400 |
+| ~14–15 Nov | Birthday + going-away (gift + big night) | ~$380 |
+| 20 Nov weekend | Strawberry Fields (food, drinks, transport; not ticket) | ~$700 |
+| Dec | Gym Christmas party | ~$150 |
+| Dec | Big group Christmas lunch | ~$200 |
+| Dec | Christmas lunch with two best friends | ~$150 |
 | Dec | Christmas gifts | ~$300 |
-| Nov–Dec | Pop-ups (beach days, NYE, last-minute plans) | ~$300 |
-| **Total** | | **~$1,580** (vs ~$2,260 at the usual going-out rate for 2 months) |
+| Nov–Dec | Pop-ups (beach days, NYE, last-minute plans) | ~$600 |
+| **Total** | | **~$2,880** (~$1,440/month) |
+
+This is more than the usual going-out spend (~$1,130/month), so savings pause until January and the self-care round ($500–800) has to fit too.
 
 Also coming: bridesmaid costs in 2027 (dress, hens, gift). Start a small monthly amount for it in the new year.
