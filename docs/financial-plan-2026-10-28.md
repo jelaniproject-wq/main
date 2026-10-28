@@ -65,7 +65,7 @@ Not yet included: subscriptions and apps, design and content (Flo, Futur MGMT), 
 | Main | All Shopify payouts | Everyday bills | now |
 | Tax (ANZ …2449, renamed from the ads savings account 28 Oct; $1,612.97) | 10% of every payout | BAS and income tax only (check with Ajaka & Co that 10% covers income tax) | after BAS paid 25 Nov |
 | Stock (ANZ Business Online Saver, applied 28 Oct) | 10% of every payout; 25% once Capital is repaid | Restocks only | Black Friday (27 Nov) |
-| Meta | Proposed change (28 Oct): skip a separate account and set an account spending limit in Meta instead. Meta bills in AUD with no overseas fee on ANZ (424 charges checked) | Meta ads only | to confirm |
+| Meta | Paid from Main (decided 28 Oct): no separate account. Set an account spending limit in Meta (~$2,100/month at $70/day). Meta bills in AUD with no overseas fee on ANZ (424 charges checked) | Meta ads only | now |
 
 Transfers are done every Monday alongside the cash page check. Tracked on Monday: "Open ANZ Tax + Stock accounts".
 
