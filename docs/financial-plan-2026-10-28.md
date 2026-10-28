@@ -104,3 +104,9 @@ Debt priority is now: **Daniel (deadline) → Amex (highest interest) → Capita
 
 ## Phone (Optus)
 Covers Jelani's phone and her mum's. Jelani is keeping her mum's line on the business as a way of paying back the $10k her mum put in to start the business. Ask Ajaka & Co how to record it: only the business-use share of Jelani's own phone is a business expense. Mum's line could be recorded as repaying her start-up money.
+
+## Personal money order (agreed direction, 28 Oct)
+Pay rise expected end of Nov (amount unknown). Boss offered to help start a share portfolio and suggested salary sacrifice to super. General order, not personal financial advice:
+1. Amex (~24% interest) first: the pay rise goes here, or to the ING consolidation loan once approved.
+2. Emergency buffer: about one month of expenses (~$5,000) in Savings Maximiser.
+3. Then shares (start small) and salary sacrifice to super. Super is locked until retirement age and lowers take-home pay, which lenders look at, so wait until after any ING loan application.
