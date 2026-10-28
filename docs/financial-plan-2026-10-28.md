@@ -58,3 +58,13 @@ Not yet included: subscriptions and apps, design and content (Flo, Futur MGMT), 
 4. Capital funding history (amounts and dates of earlier loans)
 5. Postage: what Australia Post charges vs what customers pay
 6. The monthly wage needed to go full time, and current hours at the other job
+
+## Bank account setup (agreed 28 Oct)
+| Account | Funded with | Used for | Start |
+|---|---|---|---|
+| Main | All Shopify payouts | Everyday bills | now |
+| Tax | 10% of every payout | BAS and income tax only (check with Ajaka & Co that 10% covers income tax) | after BAS paid 25 Nov |
+| Stock | 10% of every payout; 25% once Capital is repaid | Restocks only | Black Friday (27 Nov) |
+| Meta | $490 every Monday (scheduled transfer), own debit card | Meta ads only | now |
+
+Transfers are done every Monday alongside the cash page check. Tracked on Monday: "Open ANZ Tax + Stock accounts".
