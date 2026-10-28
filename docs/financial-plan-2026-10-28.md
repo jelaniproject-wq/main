@@ -68,3 +68,26 @@ Not yet included: subscriptions and apps, design and content (Flo, Futur MGMT), 
 | Meta | $490 every Monday (scheduled transfer), own debit card | Meta ads only | now |
 
 Transfers are done every Monday alongside the cash page check. Tracked on Monday: "Open ANZ Tax + Stock accounts".
+
+## Amex plan (added 28 Oct)
+- Balance **$15,000, at its limit**. Started as business stock (socks, hats, men's shirts ~2–3 years ago) plus some personal spending. Paid from the business account. Interest rate not yet confirmed; ~21% p.a. assumed below.
+- At ~21%, interest is about **$260/month**. A $142 minimum is less than that, so the balance can't come down on minimums. The $5k payment refilled because the card was used again, not because of the payment.
+
+| Monthly payment (21% assumed) | Paid off in | Total interest |
+|---|---|---|
+| $142 (minimum) | never | ~$260/month, ongoing |
+| $1,000 | ~18 months | ~$2,550 |
+| $1,500 | ~11 months | ~$1,630 |
+| $2,000 | ~8 months | ~$1,220 |
+
+Steps:
+1. Confirm the interest rate and minimum on the latest Amex statement.
+2. Stop new spending on it: freeze the card in the Amex app, remove it from Apple Pay and saved payments, and move any subscriptions to ANZ.
+3. Call the free **Small Business Debt Helpline (1800 413 828)** or **National Debt Helpline (1800 007 007)**. They can ask Amex for a hardship arrangement or lower rate, and compare a 0% balance transfer or a consolidation loan.
+4. From **Jan 2027** (after Daniel is repaid), put the $2,000/month that went to Daniel towards the Amex. From ~Apr 2027 (Capital done) add more.
+5. Sell old stock (Camo Hats: 90 left, ~2 a week; men's shirts: count and list or sell at a market) and put the proceeds on the Amex.
+
+Debt priority is now: **Daniel (deadline) → Amex (highest interest) → Capital (fixed fee, pays itself).**
+
+## Phone (Optus)
+Covers Jelani's phone and her mum's. Jelani is keeping her mum's line on the business as a way of paying back the $10k her mum put in to start the business. Ask Ajaka & Co how to record it: only the business-use share of Jelani's own phone is a business expense. Mum's line could be recorded as repaying her start-up money.
