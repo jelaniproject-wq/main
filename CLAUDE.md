@@ -26,7 +26,7 @@ Work happens across several Claude chats, each on its own `claude/*` branch. Bef
    (e.g. `git log --all --oneline -- docs/` and `git show <branch>:docs/<file>`). Bring anything relevant into this branch.
 2. Read `docs/theme-changes.md` (theme work log) and `docs/todo.md`.
 3. Check the **monday.com board "JELANI To-Do"** (id 5031836014). It is the master task list: add new tasks there
-   (groups: Today (max 3) / This week / Waiting on someone / Later / Done), not only in repo files.
+   (one group per project, most urgent at the top, plus ✅ Done; set the **Priority** column High / Medium / Low on every task), not only in repo files.
 Never tell the user something isn't on the list without checking all three.
 
 ## How to work
