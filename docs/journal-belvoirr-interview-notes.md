@@ -1,5 +1,7 @@
 # Journal series: Belvoirr (photographer) interview notes
 
+**Series context:** a profile series on the creatives behind JELANI. Belvoirr is the first subject, so this piece also introduces the series.
+
 Interview answers received 7 Sep 2026. Covers Wren's shoot (Marseille villa) and Ava's shoot (grandmother's house near Bordeaux).
 Still to come: Wren's and Ava's own answers, and photos (photographer sending via Instagram).
 
@@ -41,6 +43,7 @@ Alternative (feeling-focused):
 
 ## Agreed structure (revised 1 Nov 2026: the series is a profile of her, not of JELANI)
 JELANI appears as one chapter of her story, not the centre of it.
+0. Short series intro (1-2 lines): what the series is and why it starts with her
 1. Who she is: how Belvoirr began (Q1 highlighted lines)
 2. What drives her: feeling a brand's personality, "creating that world" (Q3)
 3. On set: vocal, genuine, making people feel confident (Q5)
