@@ -1,6 +1,15 @@
 # Journal series: Belvoirr (photographer) interview notes
 
-**Series context:** a profile series on the creatives behind JELANI. Belvoirr is the first subject, so this piece also introduces the series.
+**Series context:** "A study in ease, instinct and being." A JELANI story about women in spaces where they naturally feel most themselves, not necessarily posed or overtly "swim". Home, adventure, travelling, making something, moving, wandering: whatever their version of ease is. Belvoirr is the first subject, so this piece also introduces the series.
+
+### Her answers mapped to the series theme
+- **Ease:** Belvoirr "came about pretty naturally"; directing "has always come quite easily to me"; helping people relax in front of the camera (Q1, Q5)
+- **Instinct:** "I'll just have an idea in my head and go with it… I try not to overthink" (Q4, previously marked to trim, now key); seeing a place and instantly imagining the shoot; "what felt right and what didn't" (Q1)
+- **Being / her spaces:** wandering Paris all day; Moma's house near Bordeaux; the Marseille villa; the birthday dinner on the water
+
+### Gap: the core series question
+We don't yet have her answer to "where do you feel most yourself?" Ask:
+> Where do you feel most at ease, most yourself? What does ease look like for you?
 
 Interview answers received 7 Sep 2026. Covers Wren's shoot (Marseille villa) and Ava's shoot (grandmother's house near Bordeaux).
 Still to come: Wren's and Ava's own answers, and photos (photographer sending via Instagram).
