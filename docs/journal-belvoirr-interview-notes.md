@@ -39,10 +39,12 @@ Alternative (feeling-focused):
 - **Stand-out bits:** Paris favourite shoot ("inspiration is literally everywhere"), mosquito story, locations (Marseille villa, Moma's house near Bordeaux), nostalgia line.
 - **Instagram post song:** "Ouda" (check artist spelling in Instagram's music library before posting).
 
-## Agreed structure (Claude + team highlights)
-1. Intro: who Belvoirr is (Q1 highlighted lines only)
-2. Her approach: brand personality and "creating that world" (Q3), then the new JELANI follow-up question
+## Agreed structure (revised 1 Nov 2026: the series is a profile of her, not of JELANI)
+JELANI appears as one chapter of her story, not the centre of it.
+1. Who she is: how Belvoirr began (Q1 highlighted lines)
+2. What drives her: feeling a brand's personality, "creating that world" (Q3)
 3. On set: vocal, genuine, making people feel confident (Q5)
-4. Paris and her French roots
-5. The JELANI shoots: Marseille villa + mosquitoes, Moma's house + nostalgia
-6. Close: keeping it simple so the girls and product stay the focus (Q11, not highlighted, but recommend adding)
+4. Inspiration and roots: French heritage, Paris, location scouting
+5. Her time shooting for JELANI: the follow-up question on what JELANI evokes for her, then Marseille villa + mosquitoes and Moma's house + nostalgia
+6. Close on something personal: the Marseille 25th birthday dinner and "Ouda"
+Q11 (keeping product the focus) is optional; it reads as brand copy in a profile, so only use it inside section 5 if it fits.
