@@ -33,3 +33,16 @@ Optional add-on: Is there a direction you'd love to take JELANI that you haven't
 
 Alternative (feeling-focused):
 > When you think about JELANI creatively, what feeling does the brand evoke for you, and how do you translate that feeling into a shoot?
+
+## Team highlights (Tilly, 1 Nov 2026)
+- **Top 3 questions:** Q1 (how Belvoirr began), Q3 (feeling a brand's personality, "creating that world"), Q5 (behind the lens, making people feel confident, vocal but genuine).
+- **Stand-out bits:** Paris favourite shoot ("inspiration is literally everywhere"), mosquito story, locations (Marseille villa, Moma's house near Bordeaux), nostalgia line.
+- **Instagram post song:** "Ouda" (check artist spelling in Instagram's music library before posting).
+
+## Agreed structure (Claude + team highlights)
+1. Intro: who Belvoirr is (Q1 highlighted lines only)
+2. Her approach: brand personality and "creating that world" (Q3), then the new JELANI follow-up question
+3. On set: vocal, genuine, making people feel confident (Q5)
+4. Paris and her French roots
+5. The JELANI shoots: Marseille villa + mosquitoes, Moma's house + nostalgia
+6. Close: keeping it simple so the girls and product stay the focus (Q11, not highlighted, but recommend adding)
