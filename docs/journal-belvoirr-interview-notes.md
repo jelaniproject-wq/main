@@ -30,3 +30,6 @@ Based on her answer that she loves when you can "look at a brand and immediately
 > You've now shot three campaigns for JELANI, and each one has felt earthy and grounded in nature. When you look at JELANI as a brand, what world do you see it living in, and why do you keep coming back to nature to bring it to life?
 
 Optional add-on: Is there a direction you'd love to take JELANI that you haven't shot yet?
+
+Alternative (feeling-focused):
+> When you think about JELANI creatively, what feeling does the brand evoke for you, and how do you translate that feeling into a shoot?
