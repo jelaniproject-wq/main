@@ -60,3 +60,7 @@ JELANI appears as one chapter of her story, not the centre of it.
 5. Her time shooting for JELANI: the follow-up question on what JELANI evokes for her, then Marseille villa + mosquitoes and Moma's house + nostalgia
 6. Close on something personal: the Marseille 25th birthday dinner and "Ouda"
 Q11 (keeping product the focus) is optional; it reads as brand copy in a profile, so only use it inside section 5 if it fits.
+
+## Designer brief (sent 1 Nov 2026)
+Final questions sent to her: where she feels most at ease; what feeling JELANI evokes after three nature-led shoots; a vision for JELANI she hasn't shot yet; Belvoirr/Belvoir spelling.
+Designer brief order: series intro → Ease → Instinct → Being → JELANI shoots → close on "Ouda" birthday dinner. Hero quote: "I love when you can look at a brand and immediately feel its personality." Slots held for the 3 new answers.
