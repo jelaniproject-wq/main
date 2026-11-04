@@ -49,7 +49,7 @@ If you're happy with it, I'll save it to CLAUDE.md.
 **Rules applied to Jas's copy**
 | Interview rule | What changed |
 |---|---|
-| Founder speaks as **"I"** | Emails are written by you ("the Camo Hat is on me", "thank you for being here") |
+| Founder speaks as **"I"** | Emails are written by you ("I want you to have first pick", "thank you for being here") |
 | "Angels" only now and then, for community thank-yous | Kept as the programme name **Angel Access** (it *is* a thank-you). In copy, used once: "Last call, angels". Jas had it in ~8 places |
 | Words we use | *our most loved, limited run, made with care, small things, side quests, slowly, gently* |
 | Never: must-have, luxe, guilt-free, bikini body, babe, girls | None used. Also dropped the shouty lines: "DO NOT MISS THIS", "before your size sells out", "biggest sale of the year" |
