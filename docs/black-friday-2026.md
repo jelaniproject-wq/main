@@ -11,16 +11,17 @@ a timeline and owners, and rewrites the copy against the founder interview (Bran
 | # | Decision | Jas's doc | Recommendation |
 |---|---|---|---|
 | 1 | Dates and VIP length | Early access 24h before | **Make VIP longer: ~36 hours.** **Angel Access Wed 25 Nov, 7pm AEDT** (our launches peak 7–8pm). **Public sale Fri 27 Nov, 7am.** **Ends Mon 30 Nov (Cyber Monday), 11:59pm.** See "Why a longer VIP" below. |
-| 2 | Early sign-up incentive | Blank ("??") | **Reward signing up early, not just signing up.** Join by **Sun 22 Nov** → Angel Access + a **free Camo Hat on orders over $150** during VIP (86 in stock, a gift that shows off the brand). After 22 Nov, sign-ups still get Angel Access but no gift. That gives every hype post a real, honest deadline. Alternative if you'd rather not give stock away: a draw for a $500 Jelani wardrobe (check promo T&Cs for a draw). |
+| 2 | Early sign-up incentive | Blank ("??") | **DECIDED 4 Nov: a $500 Jelani wardrobe draw.** Join the list by **Sun 22 Nov** to go in the draw (existing subscribers are entered automatically). This is the only advertised offer, so there's one clear message. Draw Mon 23 Nov, winner announced on IG Tue 24 Nov, the night before Angel Access. T&Cs in section 9. |
+| 2b | Camo Hat | — | **DECIDED 4 Nov: quiet surprise, never advertised.** The first 20 Angel Access orders over $150 get a Camo Hat slipped in with a handwritten note. Moves some slower stock, keeps the festival hats separate, and gives people something to post. Ops in section 9. |
 | 3 | What counts as "new bikinis"? | "Excluding new bikinis" | Name the exact styles. Darcy, Isla and the Camo Hat are still tagged `NEW ARRIVAL` (from Nov 2025), but they're core styles. Make a short list of excluded products and put it in the FAQ. |
 | 4 | Discount tiers | "Up to 40%" | Under Australian Consumer Law, "up to 40%" needs a fair share of products at 40%, not just one or two. Decide the tiers (e.g. 40% swim, 30% lounge, 20% accessories). |
-| 5 | Mechanics | Code for early access; public undecided | Early access: **unique Klaviyo codes** so they can't be shared on coupon sites. Public sale: **automatic discount**, so there's no friction at checkout. The free hat is an automatic gift-with-purchase. |
+| 5 | Mechanics | Code for early access; public undecided | Early access: **unique Klaviyo codes** so they can't be shared on coupon sites. Public sale: **automatic discount**, so there's no friction at checkout. |
 | 6 | Stacking | FAQ asks it | No stacking. Block the $10 welcome code from combining with the sale discount, or pause the welcome offer from 25–30 Nov. |
 | 7 | "One day special offer?" | Open question | Skip it. Six days, six emails and one offer is plenty for a list of ~1,100, and it fits the "not too urgent" tone. |
 | 8 | Claims | "Biggest sale of the year", "almost everything", "bikinis no one else will have" | Drop "biggest sale of the year" unless it's provably true. Keep "almost everything" only if it is. "No one else will have" becomes the interview line: *not everyone has it, but the right people recognise it.* Only say "recycled" about products that actually are. |
 | 9 | SMS | "plus SMS if you collect it" | Klaviyo SMS isn't set up. Email only this year. |
 | 10 | Hero products | Not set | Choose by **live stock**. Today: Scout Top/Bottoms are deep in every size, Camo Hat has 86. Darcy (M sold out), Isla Top (M/L/XL sold out) and Flowers In The Jungle (S/M at 0) have gaps, so don't lead with them unless a restock lands. |
-| 11 | Hype page reference | P.E Nation sign-up page | Layout in order: full-width hero → sign-up line → form → FAQs. Add a **countdown to Angel Access** and the **"join by 22 Nov" hat line**. I couldn't open pe-nation.com from here (network block), so this follows Jas's description. |
+| 11 | Hype page reference | P.E Nation sign-up page | Layout in order: full-width hero → sign-up line → form → FAQs. Add a **countdown to Angel Access** and the **"join by 22 Nov, win a $500 wardrobe" line**. I couldn't open pe-nation.com from here (network block), so this follows Jas's description. |
 
 ### Why a longer VIP (36h instead of 24h)
 - **Signing up is worth more.** "A day and a half before everyone" is a stronger reason to join than "a few hours".
@@ -107,11 +108,13 @@ the live theme before briefing.**
 ### Phase 1: Hype / list building (live Mon 16 Nov)
 | ID | Asset | Format / sizes | Due | Owner |
 |---|---|---|---|---|
-| H1 | **Hype page**: hero + countdown, sign-up line, hat incentive, form, FAQs | Desktop + mobile, form above the fold on mobile | Thu 12 Nov | |
+| H1 | **Hype page**: hero + countdown, sign-up line, $500 draw, form, FAQs | Desktop + mobile, form above the fold on mobile | Thu 12 Nov | |
 | H2 | Klaviyo sign-up pop-up, Angel Access version (replaces the welcome pop-up 16–25 Nov) | Desktop + mobile | Thu 12 Nov | |
 | H3 | Homepage banner: Hype | Desktop + mobile | Thu 12 Nov | |
 | H4 | Meta ads: sign-up (drive to hype page) | 1 static + 1 short video, each 4:5 (1080×1350) + 9:16 (1080×1920) | Thu 12 Nov | |
-| H5 | "Join by 22 Nov, the hat's on me" graphic | 4:5, 9:16, web strip | Thu 12 Nov | |
+| H5 | "$500 Jelani wardrobe draw, join by 22 Nov" graphic (show a styled flat-lay of ~$500 of pieces) | 4:5, 9:16, web strip | Thu 12 Nov | |
+| H8 | Winner announcement story (first name only) | 9:16 | Fri 20 Nov (template) | |
+| H9 | Handwritten-style note card for the 20 surprise hats (print at home is fine) | A6 or business-card size | Fri 20 Nov | |
 | H6 | IG teaser feed post + 3 story frames (countdown sticker, link to hype page) | 4:5 post, 9:16 stories | Fri 13 Nov | |
 | H7 | Email 0: teaser to the existing list | 600px email, header at 1200px wide | Fri 13 Nov | |
 
@@ -142,8 +145,10 @@ the live theme before briefing.**
 
 ### Not a design job (Claude drafts, you approve)
 - Announcement bar text (3 versions)
-- Discounts: unique VIP codes, public automatic discount, hat gift-with-purchase (needs your explicit yes)
-- Klaviyo: "joined by 22 Nov" segment, 6 campaigns as drafts, pop-up swap, welcome-offer pause
+- Discounts: unique VIP codes, public automatic discount (needs your explicit yes)
+- Klaviyo: draw-entrants segment (subscribed on or before 22 Nov), 6 campaigns as drafts, pop-up swap, welcome-offer pause
+- Draw: random pick from the segment on 23 Nov, plus a winner email draft for you to send
+- Hat list: the first 20 Angel Access orders over $150, pulled from Shopify on Thu 26 Nov (order numbers only, nothing saved to the repo)
 - Sale tagging: tag products `sale` so the SALE collection fills itself (preview table first)
 - Hype page FAQ answers and Meta ad copy (below)
 
@@ -153,9 +158,9 @@ the live theme before briefing.**
 
 | Who | Takes | Why |
 |---|---|---|
-| **Designer 1 (web)** | A1, H1, H2, H3, H5, S1, S2, L1 | One person owns the key visual and every website surface, so it stays consistent |
+| **Designer 1 (web)** | A1, H1, H2, H3, H5, H8, S1, S2, L1 | One person owns the key visual and every website surface, so it stays consistent |
 | **Designer 2 (email + ads)** | H4, H7, S3–S7, L2, L3 | Same templates reused across 6 sends and the ad sets. Fast once the first is done |
-| **Jelani** | A2, H6, S8–S10, L4 | Organic IG and video need to sound and look like you. Instagram drives our first orders and ~97% of Meta spend |
+| **Jelani** | A2, H6, H9, S8–S10, L4, writing the 20 hat notes | Organic IG and video need to sound and look like you. Instagram drives our first orders and ~97% of Meta spend |
 | **Claude → Jelani** | All copy, the "not a design job" list, ad copy variants, a scheduling checklist | Short drafts, quick to approve. Nothing goes live without a yes |
 
 ---
@@ -167,18 +172,18 @@ the live theme before briefing.**
 |---|---|---|
 | Hero | ANGEL ACCESS / OUR BIGGEST SALE OF THE YEAR IS COMING | **ANGEL ACCESS** / First pick at Black Friday, for the ones who've been here. + countdown |
 | Sign-up | Join the list for first access… the best styles will go fast. | Join the list and shop up to 40% off our most loved pieces a day and a half before everyone else. Everything is made in limited runs, so first pick matters. |
-| Incentive | ?? | **Join by Sunday 22 November and the Camo Hat is on me with any Angel Access order over $150.** |
+| Incentive | ?? | **Join by Sunday 22 November and you're in the draw to win a $500 Jelani wardrobe, chosen by you.** |
 | Button | GET EARLY ACCESS | **JOIN THE LIST** |
 | FAQ: When does it start? | | Angel Access opens Wednesday 25 November at 7pm AEDT. Everyone else can shop from Friday 27 November at 7am. It all closes Monday 30 November at midnight. |
 | FAQ: What's included? | | Up to 40% off almost everything. The newest swim ([names]) stays full price. |
 | FAQ: How do I get in? | | Join the list on this page. Your code arrives by email just before the doors open. |
-| FAQ: How does the free hat work? | | Join by 11:59pm Sunday 22 November. Spend $150 or more during Angel Access and the Camo Hat is added to your order, while stocks last. |
+| FAQ: How does the draw work? | | Join the list by 11:59pm AEDT Sunday 22 November and you're in. Already on the list? You're already entered. No purchase needed. I'll draw one winner on Monday 23 November and announce them on Instagram the next day. [Full T&Cs] |
 | FAQ: Can I use another code? | | Not this time. Sale prices can't be combined with other codes. |
 
 ### Homepage banners
 | Version | Headline | Subline | Button |
 |---|---|---|---|
-| Hype | ANGEL ACCESS | First pick at Black Friday. Join by Sunday 22 November for a free Camo Hat. | JOIN THE LIST |
+| Hype | ANGEL ACCESS | First pick at Black Friday, and a chance to win a $500 Jelani wardrobe. Join by Sunday 22 November. | JOIN THE LIST |
 | Sale live | UP TO 40% OFF | Our most loved pieces, made for the summer side quests. | SHOP THE SALE |
 | Last call | CLOSING TONIGHT | Up to 40% off until midnight. The newest swim stays full price. | SHOP NOW |
 
@@ -186,7 +191,7 @@ the live theme before briefing.**
 - **Subject:** Angel Access is coming
 - **Preview:** First pick at Black Friday, a day and a half early.
 - **Headline:** ANGEL ACCESS
-- **Body:** Before Black Friday opens to everyone, I want you to have first pick. Angel Access opens Wednesday 25 November at 7pm, with up to 40% off our most loved pieces. You're already on the list, so there's nothing to do. Your code arrives just before the doors open. And a small thank-you: spend $150 during Angel Access and the Camo Hat is on me.
+- **Body:** Before Black Friday opens to everyone, I want you to have first pick. Angel Access opens Wednesday 25 November at 7pm, with up to 40% off our most loved pieces. You're already on the list, so there's nothing to do. Your code arrives just before the doors open. And a small thank-you: you're also in the draw to win a $500 Jelani wardrobe, chosen by you. I'll draw the winner on Monday 23 November. Know someone who'd love it? Send them [hype page link], they have until Sunday.
 
 ### Email 1: Angel Access open, Wed 25 Nov 7pm, newsletter list
 | | Jas | Jelani version |
@@ -195,13 +200,13 @@ the live theme before briefing.**
 | Alt subject | You're first in line, angel | **You're in. First pick is yours** |
 | Preview | Shop up to 40% off before everyone else. Limited stock so get in quick | Up to 40% off our most loved pieces, before everyone else. |
 | Headline | YOU'RE IN, ANGEL | **YOU'RE IN** |
-| Body | Our Black Friday sale is open early… Use code [CODE] at checkout. | Angel Access is open. For the next day and a half, you get first pick at up to 40% off: Scout in its warm, earthy stripe, the Camo Hat with its cherries and 444, and [lounge hero]. These are limited runs, so some sizes won't make it to Friday. Your code is **[CODE]**. Spend $150 and the Camo Hat is on me. The newest swim stays full price. Thank you for being here. |
+| Body | Our Black Friday sale is open early… Use code [CODE] at checkout. | Angel Access is open. For the next day and a half, you get first pick at up to 40% off: Scout in its warm, earthy stripe, the Camo Hat with its cherries and 444, and [lounge hero]. These are limited runs, so some sizes won't make it to Friday. Your code is **[CODE]**. The newest swim stays full price. Thank you for being here. |
 
 ### Email 1b: VIP reminder, Thu 26 Nov 7pm, VIPs who haven't bought
 - **Subject:** Angel Access closes in the morning
 - **Preview:** First pick until 7am, then it opens to everyone.
 - **Headline:** STILL FIRST PICK
-- **Body:** A gentle reminder that Angel Access closes at 7am tomorrow. Up to 40% off with your code **[CODE]**, and the Camo Hat free on orders over $150. After that, it opens to everyone.
+- **Body:** A gentle reminder that Angel Access closes at 7am tomorrow. Up to 40% off with your code **[CODE]**. After that, it opens to everyone.
 
 ### Email 2: Launch, Fri 27 Nov 7am, full list minus VIP buyers
 | | Jas | Jelani version |
@@ -233,7 +238,7 @@ the live theme before briefing.**
 ### Meta ad copy (ads can be bolder)
 | Set | Primary text | Headline |
 |---|---|---|
-| Sign-up (H4) | Angel Access: first pick at Black Friday, a day and a half early. Join by 22 November and the Camo Hat is on me. | Join the list |
+| Sign-up (H4) | Win a $500 Jelani wardrobe. Join the list by 22 November to go in the draw, and get first pick at Black Friday, a day and a half early. | Join the list |
 | Cold (S6) | Swim crafted from high-quality recycled materials, now up to 40% off. Not everyone has it. The right people recognise it. | UP TO 40% OFF |
 | Warm (S7) | Still thinking about it? Our most loved pieces are up to 40% off until Monday. | Our most loved, up to 40% off |
 | Last call (L3) | Black Friday closes tonight. Up to 40% off our most loved pieces. | Closing tonight |
@@ -249,10 +254,11 @@ the live theme before briefing.**
 | Thu 12 Nov | Hype page, pop-up, hype banner, hat graphic, sign-up ads delivered |
 | **Mon 16 Nov** | Hype page + pop-up live. Sign-up ads on. IG teaser |
 | Fri 20 Nov | All sale-phase assets delivered. Email 0 sends |
-| Sun 22 Nov | Free-hat sign-up deadline: IG stories + last push on sign-up ads |
-| Mon 23 Nov | Everything built and tested (codes, automatic discount, gift-with-purchase, collections, emails as drafts) |
+| Sun 22 Nov | Draw entries close 11:59pm: "last day to enter" IG stories + last push on sign-up ads |
+| Mon 23 Nov | Draw at 12pm, winner emailed. Everything built and tested (codes, automatic discount, collections, emails as drafts) |
+| Tue 24 Nov | Winner announced on IG stories (first name only, with their OK) |
 | **Wed 25 Nov 7pm** | Angel Access opens + email 1 |
-| Thu 26 Nov 7pm | Email 1b to VIPs who haven't bought |
+| Thu 26 Nov | Pull the first 20 VIP orders over $150 for surprise hats. Email 1b at 7pm to VIPs who haven't bought |
 | **Fri 27 Nov 7am** | Public sale + email 2. Banners swap. Cold ads on |
 | Sun 29 Nov 7pm | Email 3 |
 | **Mon 30 Nov** | Last-call banner + bar. Email 4 at 7pm. Sale closes 11:59pm |
@@ -260,3 +266,39 @@ the live theme before briefing.**
 
 No Black Friday campaign was found in Klaviyo for 2025, so there's no last-year baseline. Use the 12-month numbers
 (AOV $107.53, ~0.55% conversion) and the Oct restock launch (2.9–3.7% conversion) as the reference.
+
+---
+
+## 9. Draw T&Cs and surprise-hat ops
+
+### Draft terms: $500 Jelani wardrobe draw
+*Plain-English draft. Fill in the [brackets]. A $500 prize generally doesn't need a state permit, but check quickly
+before launch (ACT and SA have their own rules).*
+
+1. **Promoter:** JELANI THE LABEL, [ABN], Maroubra NSW. Contact: info@jelani.com.au.
+2. **Entry period:** 12:00am AEDT Monday 16 November 2026 to 11:59pm AEDT Sunday 22 November 2026.
+3. **Who can enter:** Australian residents aged 18 or over. The promoter's family and anyone helping run the
+   promotion can't enter.
+4. **How to enter:** subscribe to the JELANI THE LABEL email list during the entry period, via jelani.com.au. Anyone
+   already subscribed at the start of the entry period is entered automatically. One entry per person. No purchase
+   necessary.
+5. **Prize:** one winner gets $500 (RRP) of JELANI THE LABEL products of their choice, delivered free within
+   Australia. Subject to stock availability. The prize can't be exchanged for cash, and any unused value is forfeited.
+6. **Draw:** one winner drawn at random from all valid entries at 12:00pm AEDT on Monday 23 November 2026 in
+   Maroubra NSW.
+7. **Winner notification:** the winner is emailed by Tuesday 24 November 2026 and must reply within 7 days to claim.
+   Otherwise the prize is redrawn on Wednesday 2 December 2026 at 12:00pm AEDT.
+8. **Publication:** with their consent, the winner's first name and state are shared on @jelani Instagram stories.
+9. **Privacy:** entrant details are used under the JELANI THE LABEL privacy policy [link]. Entrants can unsubscribe
+   at any time, and this doesn't affect an entry already made.
+10. **General:** the promoter may change or cancel the promotion if something outside its control affects it,
+    subject to any state rules.
+
+### Surprise Camo Hats (never advertised)
+- **Who:** the first 20 paid Angel Access orders with a subtotal over $150 (Wed 25 Nov 7pm – Fri 27 Nov 7am). Leave out `collab` orders.
+- **When:** I pull the list of order numbers on Thursday 26 Nov and again at close. Nothing is saved to the repo.
+- **Packing:** slip a hat and a short handwritten note in, e.g. *"A small thing, made with care. Thank you for being
+  here. x [your name]"*
+- **Stock:** take the 20 hats out of Shopify stock (86 → 66) before VIP opens, so the sale can't oversell the hats
+  left. Inventory change, so it needs your yes.
+- **If there are fewer than 20 qualifying orders:** keep the leftover hats for the sale. No need to change anything.
