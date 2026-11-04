@@ -14,8 +14,8 @@ a timeline and owners, and rewrites the copy against the founder interview (Bran
 | 2 | Early sign-up incentive | Blank ("??") | **DECIDED 4 Nov: a $500 Jelani wardrobe draw.** Join the list by **Sun 22 Nov** to go in the draw (existing subscribers are entered automatically). This is the only advertised offer, so there's one clear message. Draw Mon 23 Nov, winner announced on IG Tue 24 Nov, the night before Angel Access. T&Cs in section 9. |
 | 2b | Camo Hat | — | **DECIDED 4 Nov: quiet surprise, never advertised.** The first 20 Angel Access orders over $150 get a Camo Hat slipped in with a handwritten note. Moves some slower stock, keeps the festival hats separate, and gives people something to post. Ops in section 9. |
 | 3 | What counts as "new bikinis"? | "Excluding new bikinis" | Name the exact styles. Darcy, Isla and the Camo Hat are still tagged `NEW ARRIVAL` (from Nov 2025), but they're core styles. Make a short list of excluded products and put it in the FAQ. |
-| 4 | Discount tiers | "Up to 40%" | **DECIDED 4 Nov: 40% on all tracksuits + older bikinis coming back out of drafts; 30% on everything else in the sale.** More products at 40% than at 30%, so "up to 40%" is fair under Australian Consumer Law. To do: list the older bikinis (publishing them needs your yes). |
-| 5 | Mechanics | Code for early access; public undecided | **Public sale: two automatic discounts** (40% on a "BF 40" collection, 30% on a "BF 30" collection). Native, free, and no code at checkout. **VIP: a normal Shopify code can only give one % across the products it covers**, so a single tiered code needs a discount app built on Shopify Functions (one code, 40% on one collection, 30% on another). Fallback with no app: two codes in the VIP email (e.g. ANGEL40 / ANGEL30), which works but is clunkier. Recommendation: the app, if one fits your plan and budget. I'll check options before anything is installed. |
+| 4 | Discount tiers | "Up to 40%" | **DECIDED 4 Nov.** **Angel Access: a flat 40% off everything in the sale.** **Public sale: up to 40%**, with 40% on all tracksuits + archive swim (older bikinis coming back out of drafts) and 30% on everything else. More products at 40% than at 30%, so "up to 40%" is fair under Australian Consumer Law. Rough cost of the flat VIP 40%: an extra ~$150–250 in margin if VIP sells like the Oct restock (estimate, not measured). To do: list the archive bikinis (publishing them needs your yes), and check no low-margin item can't go to 40%. |
+| 5 | Mechanics | Code for early access; public undecided | **DECIDED 4 Nov.** **Angel Access: one standard Shopify code at 40%** on the sale collection, sent as Klaviyo one-per-person codes so they can't be shared. No app needed. **Public sale: two automatic discounts** (40% on a "BF 40" collection, 30% on a "BF 30" collection). Built into Shopify, free, no code at checkout. |
 | 6 | Stacking | FAQ asks it | No stacking. Block the $10 welcome code from combining with the sale discount, or pause the welcome offer from 25–30 Nov. |
 | 7 | "One day special offer?" | Open question | Skip it. Six days, six emails and one offer is plenty for a list of ~1,100, and it fits the "not too urgent" tone. |
 | 8 | Claims | "Biggest sale of the year", "almost everything", "bikinis no one else will have" | Drop "biggest sale of the year" unless it's provably true. Keep "almost everything" only if it is. "No one else will have" becomes the interview line: *not everyone has it, but the right people recognise it.* Only say "recycled" about products that actually are. |
@@ -63,15 +63,15 @@ If you're happy with it, I'll save it to CLAUDE.md.
 
 | Use for | Jas's version | Jelani version |
 |---|---|---|
-| Master lockup | UP TO 40% OFF | **UP TO 40% OFF** (unchanged) |
+| Master lockup | UP TO 40% OFF | Public: **UP TO 40% OFF** (unchanged) · VIP: **40% OFF EVERYTHING** |
 | Longer headline (ads) | UP TO 40% OFF ALMOST EVERYTHING | **UP TO 40% OFF ALMOST EVERYTHING** (only if true) |
 | Fine print line | …New arrivals excluded | **Up to 40% off our most loved pieces. The newest swim stays full price.** |
-| Announcement bar | UP TO 40% OFF. SHOP NOW | Hype: **ANGEL ACCESS OPENS WED 25 NOV · JOIN THE LIST** · Live: **BLACK FRIDAY · UP TO 40% OFF · SHOP NOW** · Last day: **BLACK FRIDAY CLOSES TONIGHT** |
+| Announcement bar | UP TO 40% OFF. SHOP NOW | Hype: **ANGEL ACCESS: 40% OFF EVERYTHING, FIRST · JOIN THE LIST** · Live: **BLACK FRIDAY · UP TO 40% OFF · SHOP NOW** · Last day: **BLACK FRIDAY CLOSES TONIGHT** |
 
 ### Campaign angles
 | Angle | Use for | Jas's options | Jelani version |
 |---|---|---|---|
-| Angel Access | Hype page, VIP | ANGEL ACCESS / ON THE LIST, FIRST IN LINE / YOUR NAME'S ON THE LIST / SHOP BEFORE EVERYONE ELSE / BIGGEST SALE OF THE YEAR | **ANGEL ACCESS** · First pick, for the ones who've been here · Your name's on the list · A thank-you, before everyone else |
+| Angel Access | Hype page, VIP | ANGEL ACCESS / ON THE LIST, FIRST IN LINE / YOUR NAME'S ON THE LIST / SHOP BEFORE EVERYONE ELSE / BIGGEST SALE OF THE YEAR | **ANGEL ACCESS** · 40% off everything, a day and a half early · First pick, for the ones who've been here · Your name's on the list · A thank-you, before everyone else |
 | Gift yourself → **A small thing for you** | Launch | GIFT YOURSELF THIS BLACK FRIDAY / LIMITED STOCK / BIKINI'S NO ONE ELSE WILL HAVE | **A SMALL THING FOR YOU** · Something for you, something for someone you love · Not everyone has it. The right people recognise it. |
 | Summer ready → **Summer side quests** | Launch, favourites | YOUR SUMMER WARDROBE STARTS HERE / STOCK UP FOR SUMMER / SUMMER SORTED / SUN'S OUT, SALE'S ON | **MADE FOR THE SIDE QUESTS** · For open-water mornings and long lunches · *Sun's out, sale's on* (keep, but TikTok and ads only, where witty works) |
 | Limited stock → **Limited run** | VIP, favourites | ONCE IT'S GONE, IT'S GONE / LIMITED STOCK, ANGEL / BEFORE YOUR SIZE SELLS OUT | **LIMITED RUN** · Our most loved, in limited numbers · Made in small runs, with care |
@@ -102,7 +102,7 @@ the live theme before briefing.**
 ### Foundation (do first, everything else uses it)
 | ID | Asset | Format / sizes | Due | Owner |
 |---|---|---|---|---|
-| A1 | **Key visual + type lockups**: "UP TO 40% OFF" and "ANGEL ACCESS", burgundy-black palette, type treatment | Lockups as PNG/SVG, light and dark versions | **Mon 9 Nov** | |
+| A1 | **Key visual + type lockups**: "UP TO 40% OFF", "ANGEL ACCESS" and "40% OFF EVERYTHING", burgundy-black palette, type treatment | Lockups as PNG/SVG, light and dark versions | **Mon 9 Nov** | |
 | A2 | Photo selection: 8–12 lifestyle images of in-stock hero products (Scout, Camo Hat, lounge) per the visual brief, mixing film, iPhone and campaign shots | Existing shoots, cropped 4:5 and 9:16. Gaps = a quick iPhone shoot | Mon 9 Nov | |
 
 ### Phase 1: Hype / list building (live Mon 16 Nov)
@@ -145,7 +145,7 @@ the live theme before briefing.**
 
 ### Not a design job (Claude drafts, you approve)
 - Announcement bar text (3 versions)
-- Discounts: unique VIP codes, public automatic discount (needs your explicit yes)
+- Discounts: VIP 40% code (Klaviyo one-per-person codes), two public automatic discounts at 40% / 30%, and the BF 40 / BF 30 collections (needs your explicit yes)
 - Klaviyo: draw-entrants segment (subscribed on or before 22 Nov), 6 campaigns as drafts, pop-up swap, welcome-offer pause
 - Draw: random pick from the segment on 23 Nov, plus a winner email draft for you to send
 - Hat list: the first 20 Angel Access orders over $150, pulled from Shopify on Thu 26 Nov (order numbers only, nothing saved to the repo)
@@ -171,11 +171,11 @@ the live theme before briefing.**
 | Section | Jas | Jelani version |
 |---|---|---|
 | Hero | ANGEL ACCESS / OUR BIGGEST SALE OF THE YEAR IS COMING | **ANGEL ACCESS** / First pick at Black Friday, for the ones who've been here. + countdown |
-| Sign-up | Join the list for first access… the best styles will go fast. | Join the list and shop up to 40% off our most loved pieces a day and a half before everyone else. Everything is made in limited runs, so first pick matters. |
+| Sign-up | Join the list for first access… the best styles will go fast. | Join the list for **40% off everything**, a day and a half before everyone else. Everything is made in limited runs, so first pick matters. |
 | Incentive | ?? | **Join by Sunday 22 November and you're in the draw to win a $500 Jelani wardrobe, chosen by you.** |
 | Button | GET EARLY ACCESS | **JOIN THE LIST** |
 | FAQ: When does it start? | | Angel Access opens Wednesday 25 November at 7pm AEDT. Everyone else can shop from Friday 27 November at 7am. It all closes Monday 30 November at midnight. |
-| FAQ: What's included? | | Up to 40% off almost everything. The newest swim ([names]) stays full price. |
+| FAQ: What's included? | | Angel Access: 40% off everything in the sale. Public sale: up to 40% off. The newest swim ([names]) stays full price. |
 | FAQ: How do I get in? | | Join the list on this page. Your code arrives by email just before the doors open. |
 | FAQ: How does the draw work? | | Join the list by 11:59pm AEDT Sunday 22 November and you're in. Already on the list? You're already entered. No purchase needed. I'll draw one winner on Monday 23 November and announce them on Instagram the next day. [Full T&Cs] |
 | FAQ: Can I use another code? | | Not this time. Sale prices can't be combined with other codes. |
@@ -183,30 +183,30 @@ the live theme before briefing.**
 ### Homepage banners
 | Version | Headline | Subline | Button |
 |---|---|---|---|
-| Hype | ANGEL ACCESS | First pick at Black Friday, and a chance to win a $500 Jelani wardrobe. Join by Sunday 22 November. | JOIN THE LIST |
+| Hype | ANGEL ACCESS | Join by Sunday 22 November for 40% off everything, a day and a half early, and a chance to win a $500 Jelani wardrobe. | JOIN THE LIST |
 | Sale live | UP TO 40% OFF | Our most loved pieces, made for the summer side quests. | SHOP THE SALE |
 | Last call | CLOSING TONIGHT | Up to 40% off until midnight. The newest swim stays full price. | SHOP NOW |
 
 ### Email 0: Teaser, Fri 20 Nov, newsletter list
 - **Subject:** Angel Access is coming
-- **Preview:** First pick at Black Friday, a day and a half early.
+- **Preview:** 40% off everything, a day and a half before everyone else.
 - **Headline:** ANGEL ACCESS
-- **Body:** Before Black Friday opens to everyone, I want you to have first pick. Angel Access opens Wednesday 25 November at 7pm, with up to 40% off our most loved pieces. You're already on the list, so there's nothing to do. Your code arrives just before the doors open. And a small thank-you: you're also in the draw to win a $500 Jelani wardrobe, chosen by you. I'll draw the winner on Monday 23 November. Know someone who'd love it? Send them [hype page link], they have until Sunday.
+- **Body:** Before Black Friday opens to everyone, I want you to have first pick. Angel Access opens Wednesday 25 November at 7pm, with 40% off everything in the sale. Everyone else gets up to 40% from Friday. You're already on the list, so there's nothing to do. Your code arrives just before the doors open. And a small thank-you: you're also in the draw to win a $500 Jelani wardrobe, chosen by you. I'll draw the winner on Monday 23 November. Know someone who'd love it? Send them [hype page link], they have until Sunday.
 
 ### Email 1: Angel Access open, Wed 25 Nov 7pm, newsletter list
 | | Jas | Jelani version |
 |---|---|---|
 | Subject | ANGEL ACCESS IS OPEN | **Angel Access is open** |
 | Alt subject | You're first in line, angel | **You're in. First pick is yours** |
-| Preview | Shop up to 40% off before everyone else. Limited stock so get in quick | Up to 40% off our most loved pieces, before everyone else. |
+| Preview | Shop up to 40% off before everyone else. Limited stock so get in quick | 40% off everything, before everyone else. |
 | Headline | YOU'RE IN, ANGEL | **YOU'RE IN** |
-| Body | Our Black Friday sale is open early… Use code [CODE] at checkout. | Angel Access is open. For the next day and a half, you get first pick at up to 40% off: Scout in its warm, earthy stripe, the Camo Hat with its cherries and 444, and [lounge hero]. These are limited runs, so some sizes won't make it to Friday. Your code is **[CODE]**. The newest swim stays full price. Thank you for being here. |
+| Body | Our Black Friday sale is open early… Use code [CODE] at checkout. | Angel Access is open. For the next day and a half, you get first pick at 40% off everything in the sale: Scout in its warm, earthy stripe, the Camo Hat with its cherries and 444, and [lounge hero]. These are limited runs, so some sizes won't make it to Friday. Your code is **[CODE]**. The newest swim stays full price. Thank you for being here. |
 
 ### Email 1b: VIP reminder, Thu 26 Nov 7pm, VIPs who haven't bought
 - **Subject:** Angel Access closes in the morning
 - **Preview:** First pick until 7am, then it opens to everyone.
 - **Headline:** STILL FIRST PICK
-- **Body:** A gentle reminder that Angel Access closes at 7am tomorrow. Up to 40% off with your code **[CODE]**. After that, it opens to everyone.
+- **Body:** A gentle reminder that Angel Access closes at 7am tomorrow. 40% off everything with your code **[CODE]**. After that, it opens to everyone, at up to 40%.
 
 ### Email 2: Launch, Fri 27 Nov 7am, full list minus VIP buyers
 | | Jas | Jelani version |
@@ -238,7 +238,7 @@ the live theme before briefing.**
 ### Meta ad copy (ads can be bolder)
 | Set | Primary text | Headline |
 |---|---|---|
-| Sign-up (H4) | Win a $500 Jelani wardrobe. Join the list by 22 November to go in the draw, and get first pick at Black Friday, a day and a half early. | Join the list |
+| Sign-up (H4) | 40% off everything, a day and a half before Black Friday opens. Join the list by 22 November, and you're also in the draw to win a $500 Jelani wardrobe. | Join the list |
 | Cold (S6) | Swim crafted from high-quality recycled materials, now up to 40% off. Not everyone has it. The right people recognise it. | UP TO 40% OFF |
 | Warm (S7) | Still thinking about it? Our most loved pieces are up to 40% off until Monday. | Our most loved, up to 40% off |
 | Last call (L3) | Black Friday closes tonight. Up to 40% off our most loved pieces. | Closing tonight |
