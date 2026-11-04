@@ -1,14 +1,15 @@
 <title>Jelani Black Friday 2026</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;1,6..96,400&family=Manrope:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;1,6..96,400&family=Manrope:wght@400;500;700&family=Courier+Prime&display=swap">
 <style>
-/* Layout: one calm scrolling brief. Key facts up top, sticky section nav, then who / when / copy / rules. */
+/* Layout: a tabbed team brief. Shared header with key dates, then one tab per person/job: overview, designer, website, emails, Meta ads, my to-do. */
 :root{
   --bg:#f4efe8; --surface:#fbf8f3; --fg:#2b2228; --muted:#7a6b72; --line:#e4d9d6;
   --accent:#6e3a5e; --accent-soft:#f0dde3; --ok:#4f6a3a; --ok-soft:#e5ead9; --warn:#9a5a2c; --warn-soft:#f6e3d3;
   --display:"Bodoni Moda", "Didot", Georgia, serif;
   --body:"Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"Courier Prime", "Courier New", ui-monospace, monospace;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
   --bg:#1d181b; --surface:#262024; --fg:#efe7e4; --muted:#b2a3a8; --line:#3a3036;
@@ -17,414 +18,501 @@
   --bg:#1d181b; --surface:#262024; --fg:#efe7e4; --muted:#b2a3a8; --line:#3a3036;
   --accent:#d9a9c6; --accent-soft:#3b2934; --ok:#b4cc94; --ok-soft:#28301f; --warn:#e8b48a; --warn-soft:#3a2a1e; color-scheme:dark}
 *{box-sizing:border-box}
+html{scroll-behavior:smooth}
 body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.55;
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
 .wrap{max-width:980px;margin:0 auto;padding-block:28px 64px}
 h1,h2,h3{font-family:var(--display);font-weight:500;text-wrap:balance;margin:0;line-height:1.15}
-h1{font-size:clamp(2.2rem,6vw,3.4rem)}
+h1{font-size:clamp(2.1rem,6vw,3.2rem)}
 h1 em{font-style:italic;font-weight:400;color:var(--accent)}
-h2{font-size:1.75rem;margin-bottom:6px}
-h3{font-size:1.15rem}
+h2{font-size:1.65rem}
+h3{font-size:1.15rem;margin-top:28px;margin-bottom:10px}
 p{margin:0}
 .eyebrow{font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);font-weight:700}
-.lede{color:var(--muted);max-width:62ch;margin-top:10px}
+.lede{color:var(--muted);max-width:62ch;margin-top:8px}
 a{color:var(--accent)}
-a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
-
-/* key facts */
-.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-top:24px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+.launch{margin-top:20px;font-family:var(--display);font-size:1.25rem}
+.launch span{color:var(--muted);font-family:var(--body);font-size:.92rem}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-top:18px}
 .fact{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:grid;gap:4px;align-content:start}
-.fact .when{font-size:.78rem;color:var(--muted);font-weight:700;letter-spacing:.04em;font-variant-numeric:tabular-nums}
-.fact .big{font-family:var(--display);font-size:1.35rem;line-height:1.2}
+.fact .when{font-family:var(--mono);font-size:.8rem;color:var(--muted)}
+.fact .big{font-family:var(--display);font-size:1.3rem;line-height:1.2}
 .fact .how{font-size:.85rem;color:var(--muted)}
 .fact.vip{background:var(--accent);border-color:var(--accent);color:var(--bg)}
-.fact.vip .when,.fact.vip .how{color:var(--bg);opacity:.85}
-
-/* nav */
-nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);margin-top:28px;border-bottom:1px solid var(--line);overflow-x:auto}
-nav ul{display:flex;gap:4px;list-style:none;margin:0;padding:10px 0;white-space:nowrap}
-nav a{display:block;padding:6px 12px;border-radius:999px;text-decoration:none;color:var(--fg);font-weight:500;font-size:.9rem}
-nav a:hover{background:var(--accent-soft)}
-
-section{padding-top:40px;scroll-margin-top:60px}
-.sec-head{display:grid;gap:4px;margin-bottom:18px}
-.sec-head p{color:var(--muted);max-width:62ch}
-
-/* lists & tables */
-.oneminute{display:grid;gap:10px;margin:0;padding:0;list-style:none;max-width:70ch}
-.oneminute li{display:grid;grid-template-columns:110px 1fr;gap:14px;padding:10px 0;border-bottom:1px solid var(--line)}
-.oneminute b{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.fact.vip .when,.fact.vip .how{color:var(--bg);opacity:.88}
+.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);margin-top:26px;border-bottom:1px solid var(--line);overflow-x:auto}
+.tabs ul{display:flex;gap:4px;list-style:none;margin:0;padding:10px 0;white-space:nowrap}
+.tabs a{display:grid;padding:6px 14px;border-radius:999px;text-decoration:none;color:var(--fg);font-weight:500;font-size:.9rem;line-height:1.25}
+.tabs a small{font-size:.7rem;color:var(--muted);font-weight:500}
+.tabs a:hover{background:var(--accent-soft)}
+.tabs a[aria-current="page"]{background:var(--fg);color:var(--bg)}
+.tabs a[aria-current="page"] small{color:var(--bg);opacity:.75}
+.panel{padding-top:28px}
+.panel-head{display:grid;gap:6px;margin-bottom:6px}
+.panel-head p{color:var(--muted);max-width:66ch}
+.owner{font-size:.8rem;font-weight:700;color:var(--accent);background:var(--accent-soft);padding:3px 10px;border-radius:999px;width:max-content}
+.list{list-style:none;margin:0;padding:0;display:grid;max-width:74ch}
+.list li{display:grid;grid-template-columns:120px 1fr;gap:14px;padding:10px 0;border-bottom:1px solid var(--line)}
+.list b{font-size:.76rem;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.list.tl .d{font-family:var(--mono);font-size:.85rem}
+.list.tl li.key .d,.list.tl li.key .w{color:var(--accent);font-weight:700}
 .tablebox{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
 table{border-collapse:collapse;width:100%;font-size:.9rem}
 th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
-th{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:700;background:var(--surface)}
+th{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:700}
 tr:last-child td{border-bottom:0}
-td.id{font-variant-numeric:tabular-nums;color:var(--muted);font-weight:700;white-space:nowrap}
-td.due{white-space:nowrap;font-variant-numeric:tabular-nums}
+td.n{font-family:var(--mono);color:var(--muted);white-space:nowrap}
+td.due{white-space:nowrap;font-family:var(--mono);font-size:.85rem}
 .pill{display:inline-block;font-size:.72rem;font-weight:700;padding:2px 9px;border-radius:999px;white-space:nowrap}
-.p-d1{background:var(--accent-soft);color:var(--accent)}
-.p-d2{background:var(--warn-soft);color:var(--warn)}
-.p-j{background:var(--ok-soft);color:var(--ok)}
-.p-c{background:var(--line);color:var(--fg)}
-.todo{display:grid;gap:8px;margin:14px 0 0;padding:0;list-style:none}
-.todo li{display:grid;grid-template-columns:auto 1fr;gap:10px;align-items:start;background:var(--warn-soft);border-radius:8px;padding:10px 12px}
-.todo li span:first-child{font-weight:700;color:var(--warn)}
-
-/* filter */
-.filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
-.filters button{font:inherit;font-size:.85rem;font-weight:500;padding:6px 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
-.filters button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
-.phase-row td{background:var(--bg);font-family:var(--display);font-size:1rem;padding-top:14px}
-.claude-list{margin:14px 0 0;padding-left:18px;color:var(--fg);display:grid;gap:4px;max-width:70ch}
-
-/* timeline */
-.tl{list-style:none;margin:0;padding:0;display:grid;gap:0;max-width:720px}
-.tl li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:12px 0;border-bottom:1px solid var(--line)}
-.tl .d{font-weight:700;font-variant-numeric:tabular-nums;font-size:.9rem}
-.tl li.key .d{color:var(--accent)}
-.tl li.key .w{font-weight:700}
-
-/* copy */
+.p1{background:var(--accent-soft);color:var(--accent)} .p2{background:var(--warn-soft);color:var(--warn)} .p3{background:var(--line);color:var(--fg)}
+.tier40{background:var(--accent-soft);color:var(--accent)} .tier30{background:var(--ok-soft);color:var(--ok)}
+.checks{list-style:none;margin:0;padding:0;display:grid;gap:6px;max-width:76ch}
+.checks li label{display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:start;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;cursor:pointer}
+.checks input{margin-top:4px;width:16px;height:16px;accent-color:var(--accent)}
+.checks .due{font-family:var(--mono);font-size:.8rem;color:var(--muted);white-space:nowrap}
+.checks .sub{display:block;font-size:.85rem;color:var(--muted)}
+.checks li:has(input:checked) label{opacity:.55}
+.checks li:has(input:checked) .t{text-decoration:line-through}
+.sheet{font-family:var(--mono);background:var(--surface);border:1px dashed var(--muted);border-radius:6px;padding:14px 16px;font-size:.88rem;white-space:pre-wrap;overflow-x:auto}
+.hint{font-size:.85rem;color:var(--muted)}
 details{border:1px solid var(--line);border-radius:10px;background:var(--surface);margin-bottom:10px}
-summary{cursor:pointer;padding:14px 16px;display:flex;justify-content:space-between;gap:12px;align-items:baseline;list-style:none}
+summary{cursor:pointer;padding:13px 16px;display:flex;gap:12px;align-items:baseline;list-style:none}
 summary::-webkit-details-marker{display:none}
 summary .t{font-weight:700}
-summary .m{font-size:.8rem;color:var(--muted);white-space:nowrap}
+summary .m{font-size:.8rem;color:var(--muted);white-space:nowrap;margin-left:auto}
 summary::after{content:"+";font-family:var(--display);font-size:1.3rem;color:var(--accent);line-height:1}
 details[open] summary::after{content:"–"}
-.copy{padding:0 16px 16px;display:grid;gap:10px}
-.line{display:grid;grid-template-columns:110px 1fr auto;gap:12px;align-items:start;padding-top:10px;border-top:1px solid var(--line)}
+.copy{padding:0 16px 16px;display:grid;gap:8px}
+.line{display:grid;grid-template-columns:120px 1fr auto;gap:12px;align-items:start;padding-top:10px;border-top:1px solid var(--line)}
 .line .k{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:700;padding-top:3px}
 .line .v{min-width:0}
 .cp{font:inherit;font-size:.75rem;border:1px solid var(--line);background:transparent;color:var(--muted);border-radius:6px;padding:3px 8px;cursor:pointer}
 .cp.done{color:var(--ok);border-color:var(--ok)}
-
-/* rules */
 .cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
-.box{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:8px;align-content:start}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:grid;gap:8px;align-content:start;min-width:0}
+.box h4{margin:0;font-family:var(--display);font-weight:500;font-size:1.05rem}
 .box ul{margin:0;padding-left:18px;display:grid;gap:4px}
-.box.never{border-color:var(--accent)}
 .words{display:flex;flex-wrap:wrap;gap:6px}
 .words span{font-size:.8rem;background:var(--accent-soft);color:var(--accent);padding:2px 9px;border-radius:999px}
 .words.no span{background:transparent;border:1px solid var(--line);color:var(--muted);text-decoration:line-through}
-ol.tcs{margin:0;padding:0 16px 16px 34px;display:grid;gap:6px;font-size:.9rem}
+.note{background:var(--warn-soft);color:var(--fg);border-radius:8px;padding:10px 14px;font-size:.88rem;max-width:76ch;margin-top:14px}
 .foot{margin-top:48px;color:var(--muted);font-size:.8rem}
-
 @media (max-width:560px){
-  .oneminute li,.tl li{grid-template-columns:1fr;gap:2px}
+  .list li{grid-template-columns:1fr;gap:2px}
   .line{grid-template-columns:1fr auto}
   .line .k{grid-column:1 / -1}
 }
-@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
-html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 </style>
 
 <div class="wrap">
   <header>
     <p class="eyebrow">JELANI THE LABEL · Black Friday 2026 · team brief</p>
     <h1>Black Friday, <em>gently.</em></h1>
-    <p class="lede">Everything the team needs on one page: the offer, who's making what and by when, and the final copy. Built from Jas's first draft and Jelani's brand interview. Updated 4 Nov 2026.</p>
-
-    <p style="margin-top:22px;font-family:var(--display);font-size:1.3rem">Launch: <b>Wednesday 25 November, 7pm AEDT</b> <span style="color:var(--muted);font-family:var(--body);font-size:.95rem">(First Pick, email list only). Public launch Friday 27 November, 7am. Hype page live Monday 16 November.</span></p>
+    <p class="lede">One page for everyone. Open your tab to see what you're making, by when, and the exact wording to use.</p>
+    <p class="launch">Launch: <b>Wednesday 25 November, 7pm AEDT</b> <span>Early Hours, email list only. Public sale Friday 27 November, 7am. Sign-up page live Monday 16 November.</span></p>
     <div class="facts" aria-label="Key dates and offers">
-      <div class="fact"><span class="when">16 – 22 NOV</span><span class="big">Join the list</span><span class="how">Everyone who joins by Sun 22 Nov goes in the draw for a <b>$500 Jelani wardrobe</b></span></div>
-      <div class="fact vip"><span class="when">WED 25 NOV · 7PM AEDT</span><span class="big">First Pick</span><span class="how"><b>40% off everything</b> in the sale, for the email list only. One code. 36 hours.</span></div>
-      <div class="fact"><span class="when">FRI 27 NOV · 7AM</span><span class="big">Public sale</span><span class="how"><b>Up to 40% off</b>. Applied automatically, no code.</span></div>
-      <div class="fact"><span class="when">MON 30 NOV · 11:59PM</span><span class="big">Last call</span><span class="how">Sale closes. Site back to normal Tue 1 Dec.</span></div>
+      <div class="fact"><span class="when">16.11 – 22.11</span><span class="big">Join the list</span><span class="how">Sign up by Sun 22 Nov to go in the draw for a <b>$500 Jelani wardrobe</b></span></div>
+      <div class="fact vip"><span class="when">WED 25.11 · 7PM</span><span class="big">Early Hours</span><span class="how"><b>40% off everything.</b> Email list only, one code, 36 hours.</span></div>
+      <div class="fact"><span class="when">FRI 27.11 · 7AM</span><span class="big">Public sale</span><span class="how"><b>Up to 40% off everything</b>, applied automatically</span></div>
+      <div class="fact"><span class="when">MON 30.11 · 11:59PM</span><span class="big">Last call</span><span class="how">Sale closes. Site back to normal Tue 1 Dec.</span></div>
     </div>
   </header>
 
-  <nav aria-label="Sections"><ul>
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#who">Who's making what</a></li>
-    <li><a href="#timeline">Timeline</a></li>
-    <li><a href="#copy">Copy</a></li>
-    <li><a href="#voice">Voice &amp; visuals</a></li>
-    <li><a href="#details">Draw &amp; hats</a></li>
+  <nav class="tabs" aria-label="Tabs"><ul>
+    <li><a href="#overview">Overview<small>everyone</small></a></li>
+    <li><a href="#designer">Designer<small>Icy + designer</small></a></li>
+    <li><a href="#web">Website<small>Jas</small></a></li>
+    <li><a href="#edm">Emails<small>design + Jas build</small></a></li>
+    <li><a href="#meta">Meta ads<small>Jelani</small></a></li>
+    <li><a href="#todo">My to-do<small>Jelani</small></a></li>
   </ul></nav>
 
-  <section id="overview">
-    <div class="sec-head"><h2>The campaign in one minute</h2></div>
-    <ul class="oneminute">
-      <li><b>Offer</b><span>First Pick: 40% off everything in the sale. Public: 40% on tracksuits, lounge, accessories and archive swim; 30% on current bikinis and the Camo Hat. The newest swim stays full price.</span></li>
-      <li><b>Hook</b><span>Join the list early for first pick at 40% off, plus a chance to win a $500 Jelani wardrobe.</span></li>
-      <li><b>Surprise</b><span>The first 20 First Pick orders over $150 get a Camo Hat and a handwritten note. Never advertised.</span></li>
-      <li><b>Tone</b><span>Generous, not urgent. A thank-you to the people who've been here. One urgent moment only: the last call.</span></li>
-      <li><b>Look</b><span>A page from Jelani's scrapbook: soft paper, film grain, handwriting, taped-in photos and a First Pick ticket stub. No black, no shouty SALE type.</span></li>
-      <li><b>Channels</b><span>Hype page, homepage, 6 emails, Instagram (feed, stories, reel), Meta ads. No SMS this year.</span></li>
+  <!-- OVERVIEW -->
+  <section class="panel" id="overview" data-tab>
+    <div class="panel-head"><h2>Overview</h2><p>The campaign in one minute, who's doing what, and the key dates.</p></div>
+    <ul class="list">
+      <li><b>Offer</b><span><b>Early Hours (VIP):</b> 40% off everything. <b>Public:</b> up to 40% off everything (see the table below).</span></li>
+      <li><b>Sign-up hook</b><span>Join the list by Sun 22 Nov for Early Hours, and go in the draw to win a $500 Jelani wardrobe.</span></li>
+      <li><b>Surprise</b><span>The first 20 Early Hours orders over $150 get a Camo Hat and a handwritten note. Never advertised.</span></li>
+      <li><b>Tone</b><span>Generous, not urgent. Written by Jelani, in first person. "Angels" used once, in the last call.</span></li>
+      <li><b>Look</b><span>A page from Jelani's scrapbook: paper, film grain, handwriting, taped-in photos, a Early Hours ticket stub. No black.</span></li>
     </ul>
 
-    <h3 style="margin-top:28px">Still to decide</h3>
-    <ul class="todo">
-      <li><span>Jelani</span><span>Which bikinis are excluded as "newest swim"? Darcy, Isla and the Camo Hat are still tagged New Arrival.</span></li>
-      <li><span>Jelani</span><span>Which older bikinis come out of drafts for archive swim at 40%?</span></li>
-      <li><span>Jelani</span><span>Any low-margin items that can't go to 40%?</span></li>
-      <li><span>Jelani</span><span>Add the ABN to the draw T&amp;Cs, and do a quick check of state rules.</span></li>
-      <li><span>Designers</span><span>Confirm homepage banner sizes against the live theme before starting.</span></li>
+    <h3>Discounts</h3>
+    <div class="tablebox"><table>
+      <thead><tr><th>Products</th><th>Early Hours · 25–27 Nov</th><th>Public · 27–30 Nov</th></tr></thead>
+      <tbody>
+        <tr><td>Tracksuits, lounge, tees, accessories, archive swim</td><td><span class="pill tier40">40%</span></td><td><span class="pill tier40">40%</span></td></tr>
+        <tr><td>Restocked bikinis (Scout, Isla, Darcy, Flowers In The Jungle…), Camo Hat</td><td><span class="pill tier40">40%</span></td><td><span class="pill tier30">30%</span></td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Who's doing what</h3>
+    <div class="tablebox"><table>
+      <thead><tr><th>Who</th><th>Looks after</th><th>Tab</th></tr></thead>
+      <tbody>
+        <tr><td><b>Icy</b> + designer</td><td>Key visual, sign-up page design, banners, email designs, draw graphic</td><td><a href="#designer">Designer</a> · <a href="#edm">Emails</a></td></tr>
+        <tr><td><b>Jas</b></td><td>Building the website changes, discounts and collections. Building and scheduling the 6 emails from the designs</td><td><a href="#web">Website</a> · <a href="#edm">Emails</a></td></tr>
+        <tr><td><b>Jelani</b></td><td>Meta ads, Instagram, photo picks, approvals, the draw, packing the surprise hats</td><td><a href="#meta">Meta ads</a> · <a href="#todo">My to-do</a></td></tr>
+        <tr><td><b>Claude</b></td><td>All copy, ad copy variants, drafts and checklists. Nothing goes live without Jelani's yes</td><td>—</td></tr>
+      </tbody>
+    </table></div>
+
+    <h3>Timeline</h3>
+    <ul class="list tl">
+      <li><span class="d">Fri 06.11</span><span class="w">Open decisions locked. Icy, designer and Jas briefed</span></li>
+      <li><span class="d">Mon 09.11</span><span class="w">Key visual and photo picks approved</span></li>
+      <li><span class="d">Thu 12.11</span><span class="w">Sign-up page design, pop-up, hype banner, draw graphic delivered</span></li>
+      <li class="key"><span class="d">Mon 16.11</span><span class="w">Sign-up page + pop-up live. Sign-up ads on. Instagram teaser</span></li>
+      <li><span class="d">Fri 20.11</span><span class="w">All sale creative delivered. Teaser email sends</span></li>
+      <li class="key"><span class="d">Sun 22.11</span><span class="w">Draw entries close, 11:59pm</span></li>
+      <li><span class="d">Mon 23.11</span><span class="w">Winner drawn at 12pm. Everything built and tested</span></li>
+      <li><span class="d">Tue 24.11</span><span class="w">Winner announced on Instagram stories</span></li>
+      <li class="key"><span class="d">Wed 25.11</span><span class="w">7pm: Early Hours open + email</span></li>
+      <li><span class="d">Thu 26.11</span><span class="w">7pm: reminder to VIPs who haven't bought</span></li>
+      <li class="key"><span class="d">Fri 27.11</span><span class="w">7am: public sale + launch email. Banners swap, sale ads on</span></li>
+      <li><span class="d">Sun 29.11</span><span class="w">7pm: "Our most loved" email</span></li>
+      <li class="key"><span class="d">Mon 30.11</span><span class="w">Last-call banner, 7pm email. Closes 11:59pm</span></li>
+      <li><span class="d">Tue 01.12</span><span class="w">Discounts off, site back to normal, results review</span></li>
     </ul>
-  </section>
 
-  <section id="who">
-    <div class="sec-head">
-      <h2>Who's making what</h2>
-      <p>Sorted from highest to lowest priority. If time runs short, cut from the bottom up. Tap a name to see just their list. "Designer 1" and "Designer 2" are placeholders, so swap in names when you brief.</p>
-    </div>
-    <div class="filters" role="group" aria-label="Filter by person">
-      <button type="button" data-f="all" aria-pressed="true">Everyone</button>
-      <button type="button" data-f="d1" aria-pressed="false">Designer 1 · web</button>
-      <button type="button" data-f="d2" aria-pressed="false">Designer 2 · email &amp; ads</button>
-      <button type="button" data-f="j" aria-pressed="false">Jelani · Instagram &amp; photos</button>
-    </div>
-    <div class="tablebox">
-      <table>
-        <thead><tr><th>#</th><th>ID</th><th>Asset</th><th>Sizes</th><th>Due</th><th>Who</th></tr></thead>
-        <tbody id="assets"></tbody>
-      </table>
-    </div>
-    <h3 style="margin-top:24px">Claude drafts, Jelani approves</h3>
-    <ul class="claude-list">
-      <li>All copy below, plus ad copy variants</li>
-      <li>Discounts: the 40% First Pick code and the two public automatic discounts (40% / 30%)</li>
-      <li>Klaviyo: draw-entrant segment, 6 email drafts, pop-up swap, pausing the welcome offer</li>
-      <li>Tagging sale products so the SALE collection fills itself (preview first)</li>
-      <li>Drawing the winner on 23 Nov, and the list of the first 20 hat orders on 26 Nov</li>
-    </ul>
-  </section>
-
-  <section id="timeline">
-    <div class="sec-head"><h2>Timeline</h2><p>Bold dates are when something goes live.</p></div>
-    <ul class="tl">
-      <li><span class="d">Fri 6 Nov</span><span class="w">Open decisions locked. Designers briefed</span></li>
-      <li><span class="d">Mon 9 Nov</span><span class="w">Key visual and photo picks approved</span></li>
-      <li><span class="d">Thu 12 Nov</span><span class="w">Hype page, pop-up, hype banner, draw graphic and sign-up ads delivered</span></li>
-      <li class="key"><span class="d">Mon 16 Nov</span><span class="w">Hype page and pop-up live, sign-up ads on, Instagram teaser</span></li>
-      <li><span class="d">Fri 20 Nov</span><span class="w">All sale assets delivered. Teaser email sends</span></li>
-      <li class="key"><span class="d">Sun 22 Nov</span><span class="w">Draw entries close at 11:59pm. "Last day to enter" stories</span></li>
-      <li><span class="d">Mon 23 Nov</span><span class="w">Winner drawn at 12pm. Everything built and tested</span></li>
-      <li><span class="d">Tue 24 Nov</span><span class="w">Winner announced on Instagram stories</span></li>
-      <li class="key"><span class="d">Wed 25 Nov</span><span class="w">7pm: First Pick opens + email 1</span></li>
-      <li><span class="d">Thu 26 Nov</span><span class="w">Pull the hat list. 7pm: reminder email to VIPs who haven't bought</span></li>
-      <li class="key"><span class="d">Fri 27 Nov</span><span class="w">7am: public sale + email 2. Banners swap, cold ads on</span></li>
-      <li><span class="d">Sun 29 Nov</span><span class="w">7pm: "Our most loved" email</span></li>
-      <li class="key"><span class="d">Mon 30 Nov</span><span class="w">Last-call banner. 7pm: last-call email. Closes 11:59pm</span></li>
-      <li><span class="d">Tue 1 Dec</span><span class="w">Discounts off, site back to normal, results report</span></li>
-    </ul>
-  </section>
-
-  <section id="copy">
-    <div class="sec-head"><h2>Copy</h2><p>Final wording, written in Jelani's voice. Tap a block to open it, then use Copy to paste straight into Figma, Klaviyo or Meta. Words in [brackets] still need filling in.</p></div>
-    <div id="copyblocks"></div>
-  </section>
-
-  <section id="voice">
-    <div class="sec-head"><h2>Voice &amp; visuals</h2><p>From Jelani's brand interview. Read this before you write or design anything.</p></div>
+    <h3>How Jelani sounds</h3>
     <div class="cols">
-      <div class="box">
-        <h3>How it sounds</h3>
-        <ul>
-          <li>Jelani speaks as <b>"I"</b>. It's a founder-run brand.</li>
-          <li>A thoughtful journal entry meets intelligent editorial. Short, but a little dreamy.</li>
-          <li>Facts stated plainly: what's on, how much, until when.</li>
-          <li>Scarcity only when it's true: limited run, limited numbers.</li>
-          <li>Ads can be bold. The site and organic posts stay understated. No emojis on the website.</li>
-          <li>"Angels" only once: the last-call email. The VIP window is called First Pick.</li>
-        </ul>
-      </div>
-      <div class="box">
-        <h3>Words we use</h3>
-        <div class="words"><span>our most loved</span><span>limited run</span><span>made with care</span><span>small things</span><span>side quests</span><span>gently</span><span>slowly</span><span>first pick</span><span>ease</span><span>curious</span></div>
-        <h3 style="margin-top:8px">Never</h3>
+      <div class="box"><h4>Do</h4><ul>
+        <li>Write as "I". It's a founder-run brand.</li>
+        <li>A thoughtful journal entry meets editorial. Short, a little dreamy.</li>
+        <li>State facts plainly: what's on, how much, until when.</li>
+        <li>Scarcity only when it's true: limited run, limited numbers.</li>
+        <li>Ads can be bold. The site and organic posts stay understated. No emojis on the website.</li>
+      </ul></div>
+      <div class="box"><h4>Words we use</h4>
+        <div class="words"><span>our most loved</span><span>limited run</span><span>made with care</span><span>small things</span><span>side quests</span><span>gently</span><span>first pick</span><span>ease</span></div>
+        <h4 style="margin-top:6px">Never</h4>
         <div class="words no"><span>must-have</span><span>luxe</span><span>guilt-free</span><span>bikini body</span><span>babe</span><span>girls</span><span>DO NOT MISS THIS</span><span>biggest sale ever</span></div>
       </div>
-      <div class="box">
-        <h3>How it looks</h3>
-        <ul>
-          <li>A page from her scrapbook: grainy, motion-blurred film, taped-in prints, vellum overlays, star stickers, a ticket stub.</li><li>Three type voices: handwriting for the name and notes, typewriter for the facts (dates, %, code), a small editorial serif for headlines.</li><li>Pieces in her life, not on a beach: windswept grass, flowers up close, real rooms, candid laughter.</li>
-          <li>Candid over perfect. Mix campaign shots, grainy film and iPhone snaps.</li>
-          <li>Break up product shots with text frames and close-ups (the 444 embroidery, print details).</li>
-          <li>Soft paper off-white, dusty pink, plum, moss and apricot. One hand-drawn accent line in acid yellow or red. No black.</li>
-          <li>Signature ideas: the First Pick ticket stub (ADMIT ONE · WED 25.11 · 7PM), a typewriter data-sheet of the offer, the $500 wardrobe as a scrapbook spread, "Black Friday, gently" as a ring-bound zine.</li>
-        </ul>
-      </div>
-      <div class="box never">
-        <h3>Hard rules</h3>
-        <ul>
-          <li>Never mention the founding story or any cause in sale content.</li>
-          <li>Say "recycled" only about products that are. Use "crafted from high-quality recycled materials".</li>
-          <li>Product names in Title Case: Scout, Isla, Darcy, Camo Hat.</li>
-          <li>Lead with in-stock styles (Scout, Camo Hat) unless a restock lands.</li>
-        </ul>
-      </div>
+      <div class="box"><h4>Hard rules</h4><ul>
+        <li>Never mention the founding story or any cause in sale content.</li>
+        <li>Say "recycled" only about products that are.</li>
+        <li>Product names in Title Case: Scout, Isla, Darcy, Camo Hat.</li>
+        <li>Lead with in-stock styles (Scout, Camo Hat).</li>
+      </ul></div>
     </div>
   </section>
 
-  <section id="details">
-    <div class="sec-head"><h2>Draw &amp; surprise hats</h2></div>
+  <!-- DESIGNER -->
+  <section class="panel" id="designer" data-tab hidden>
+    <div class="panel-head"><span class="owner">Icy + designer</span><h2>Designer</h2><p>Everything to design, highest priority first. If time runs short, cut from the bottom. Meta ad creatives are on Jelani's tab, but they reuse the key visual from here.</p></div>
+    <div class="cols">
+      <div class="box"><h4>The idea</h4><p>Black Friday as a page from Jelani's scrapbook. Analog, layered and handmade, like a ring-bound zine. It should feel like someone made it slowly. No black backgrounds, no blocky SALE type.</p></div>
+      <div class="box"><h4>Colour</h4><p>Soft paper off-white base. Dusty pink, plum, moss green and apricot in faded film tones. One hand-drawn accent line in acid yellow or red. Leopard print is fine as a texture.</p></div>
+      <div class="box"><h4>Type, three voices</h4><ul><li><b>Handwriting:</b> the Early Hours name, notes and scribbles</li><li><b>Typewriter:</b> the facts (dates, %, code)</li><li><b>Editorial serif:</b> headlines, used sparingly</li></ul></div>
+      <div class="box"><h4>Texture &amp; photos</h4><ul><li>Vellum overlays, tape, paperclips, ring binding, star stickers, a ticket stub, hand-drawn outlines</li><li>Grainy, motion-blurred film. Prints taped onto paper</li><li>No girl-in-a-bikini-on-the-beach</li></ul></div>
+    </div>
+
+    <h3>Signature pieces</h3>
+    <div class="cols">
+      <div class="box"><h4>Early Hours ticket stub</h4><div class="sheet">ADMIT ONE
+EARLY HOURS
+WED 25.11 · 7PM
+40% OFF EVERYTHING</div><p class="hint">Use on the sign-up page hero, sign-up ads and the Early Hours email header.</p></div>
+      <div class="box"><h4>Typewriter fact sheet</h4><div class="sheet">OFFER ....... 40% OFF EVERYTHING
+OPENS ....... WED 25.11, 7PM
+CLOSES ...... FRI 27.11, 7AM
+CODE ........ [CODE]</div><p class="hint">Use in emails, on the sign-up page and in stories.</p></div>
+    </div>
+
+    <h3>To design</h3>
+    <div class="tablebox"><table>
+      <thead><tr><th>#</th><th>What</th><th>Sizes</th><th>Due</th><th>Priority</th></tr></thead>
+      <tbody>
+        <tr><td class="n">1</td><td><b>Key visual:</b> ticket stub, type lockups (EARLY HOURS, UP TO 40% OFF, 40% OFF EVERYTHING), palette, paper textures. Everything else is built from this</td><td>PNG/SVG, light + dark</td><td class="due">Mon 09.11</td><td><span class="pill p1">Must</span></td></tr>
+        <tr><td class="n">2</td><td><b>Sign-up page</b> (Icy): hero + countdown, sign-up line, $500 draw, email form, FAQs. Form above the fold on mobile</td><td>Desktop + mobile</td><td class="due">Thu 12.11</td><td><span class="pill p1">Must</span></td></tr>
+        <tr><td class="n">3</td><td>Early Hours sign-up pop-up</td><td>Desktop + mobile</td><td class="due">Thu 12.11</td><td><span class="pill p1">Must</span></td></tr>
+        <tr><td class="n">4</td><td>$500 wardrobe draw graphic: pieces as a scrapbook spread with handwritten price tags</td><td>4:5, 9:16, web strip</td><td class="due">Thu 12.11</td><td><span class="pill p1">Must</span></td></tr>
+        <tr><td class="n">5</td><td>Homepage banner: Hype</td><td>Desktop + mobile</td><td class="due">Thu 12.11</td><td><span class="pill p1">Must</span></td></tr>
+        <tr><td class="n">6</td><td><b>Email designs</b>: one template + 6 email layouts (see the Emails tab). Handed to Jas to build, in whatever format she prefers</td><td>600px wide, images at 1200px</td><td class="due">Template 13.11 · rest 20.11</td><td><span class="pill p1">Must</span></td></tr>
+        <tr><td class="n">7</td><td>Homepage banner: Sale live</td><td>Desktop + mobile</td><td class="due">Fri 20.11</td><td><span class="pill p1">Must</span></td></tr>
+        <tr><td class="n">8</td><td>Homepage banner: Last call</td><td>Desktop + mobile</td><td class="due">Fri 20.11</td><td><span class="pill p2">Should</span></td></tr>
+        <tr><td class="n">9</td><td>SALE collection banner</td><td>Desktop + mobile</td><td class="due">Fri 20.11</td><td><span class="pill p2">Should</span></td></tr>
+        <tr><td class="n">10</td><td>Winner announcement story template</td><td>9:16</td><td class="due">Fri 20.11</td><td><span class="pill p3">Nice</span></td></tr>
+        <tr><td class="n">11</td><td>Note card for the 20 surprise hats</td><td>A6</td><td class="due">Fri 20.11</td><td><span class="pill p3">Nice</span></td></tr>
+      </tbody>
+    </table></div>
+    <p class="note">Check the homepage banner sizes against the live theme with Jas before starting. Paper texture packs are usually paid, so check the licence covers commercial use, or scan your own paper.</p>
+
+    <h3>Wording to use in designs</h3>
+    <div data-copy="designer"></div>
+  </section>
+
+  <!-- WEB -->
+  <section class="panel" id="web" data-tab hidden>
+    <div class="panel-head"><span class="owner">Jas</span><h2>Website</h2><p>Every change on jelani.com.au, in date order. Tick items off as you go. Anything touching discounts, prices or publishing products gets Jelani's yes first.</p></div>
+
+    <h3>Build by Mon 16 Nov (sign-up phase)</h3>
+    <ul class="checks">
+      <li><label><input type="checkbox" id="w1"><span class="t">Build the sign-up page from Icy's design<span class="sub">Email form → Klaviyo newsletter list. Countdown to Wed 25 Nov, 7pm AEDT. FAQs. Link to the draw T&amp;Cs.</span></span><span class="due">16.11</span></label></li>
+      <li><label><input type="checkbox" id="w2"><span class="t">Add a draw T&amp;Cs page<span class="sub">Text is on the My to-do tab.</span></span><span class="due">16.11</span></label></li>
+      <li><label><input type="checkbox" id="w3"><span class="t">Swap the Klaviyo pop-up to the Early Hours version<span class="sub">Live 16–25 Nov, then switch back.</span></span><span class="due">16.11</span></label></li>
+      <li><label><input type="checkbox" id="w4"><span class="t">Homepage banner + announcement bar → Hype version</span><span class="due">16.11</span></label></li>
+    </ul>
+
+    <h3>Set up and test by Mon 23 Nov (sale phase)</h3>
+    <ul class="checks">
+      <li><label><input type="checkbox" id="w5"><span class="t">Create the BF 40 collection<span class="sub">Tracksuits, lounge, tees, accessories (but not the Camo Hat) and archive swim. Use a manual collection or a bf40 tag, because the Camo Hat has the Accessory tag.</span></span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="w6"><span class="t">Create the BF 30 collection<span class="sub">Restocked bikinis + Camo Hat.</span></span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="w7"><span class="t">Bring archive swim out of drafts and tag sale products<span class="sub">List and yes from Jelani first. Keep "stop selling when out of stock" on.</span></span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="w8"><span class="t">Early Hours discount: 40% on everything<span class="sub">Wed 25 Nov 7pm → Fri 27 Nov 7am. One-per-person codes generated through Klaviyo (see Emails tab).</span></span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="w9"><span class="t">Public automatic discounts: 40% on BF 40, 30% on BF 30<span class="sub">Scheduled Fri 27 Nov 7am → Mon 30 Nov 11:59pm. No code.</span></span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="w10"><span class="t">Stop the welcome code stacking with the sale<span class="sub">Set it so it can't combine, or pause the welcome offer 25–30 Nov.</span></span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="w11"><span class="t">SALE collection banner in place</span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="w12"><span class="t">Test checkout for both phases<span class="sub">One code order and one automatic order. Check the Camo Hat and restocked bikinis land at 30% in the public sale.</span></span><span class="due">23.11</span></label></li>
+    </ul>
+
+    <h3>On the day</h3>
+    <ul class="checks">
+      <li><label><input type="checkbox" id="w13"><span class="t">Banner + bar → Sale live</span><span class="due">Fri 27.11 7am</span></label></li>
+      <li><label><input type="checkbox" id="w14"><span class="t">Banner + bar → Last call</span><span class="due">Mon 30.11 am</span></label></li>
+      <li><label><input type="checkbox" id="w15"><span class="t">Everything back to normal<span class="sub">Discounts off, banners and bar back, pop-up back to the welcome version, welcome offer back on.</span></span><span class="due">Tue 01.12</span></label></li>
+    </ul>
+
+    <h3>Website wording</h3>
+    <div data-copy="web"></div>
+  </section>
+
+  <!-- EDM -->
+  <section class="panel" id="edm" data-tab hidden>
+    <div class="panel-head"><span class="owner">Designer designs · Jas builds</span><h2>Emails</h2><p>6 sends. The designer designs them, Jas builds and schedules them in Klaviyo. All times AEDT.</p></div>
+    <div class="tablebox"><table>
+      <thead><tr><th>#</th><th>Email</th><th>Sends</th><th>Audience</th><th>Code</th><th>Design due</th></tr></thead>
+      <tbody>
+        <tr><td class="n">0</td><td><b>Teaser:</b> Early Hours are coming</td><td class="due">Fri 20.11</td><td>Newsletter list</td><td>—</td><td class="due">13.11</td></tr>
+        <tr><td class="n">1</td><td><b>Early Hours are open</b></td><td class="due">Wed 25.11 7pm</td><td>Newsletter list</td><td>Unique 40% code</td><td class="due">20.11</td></tr>
+        <tr><td class="n">1b</td><td><b>Reminder:</b> Early Hours close in the morning</td><td class="due">Thu 26.11 7pm</td><td>VIPs who haven't bought</td><td>Same code</td><td class="due">20.11</td></tr>
+        <tr><td class="n">2</td><td><b>Launch:</b> Black Friday is open</td><td class="due">Fri 27.11 7am</td><td>Full list minus VIP buyers</td><td>None (automatic)</td><td class="due">20.11</td></tr>
+        <tr><td class="n">3</td><td><b>Our most loved</b></td><td class="due">Sun 29.11 7pm</td><td>Full list minus sale buyers</td><td>None</td><td class="due">20.11</td></tr>
+        <tr><td class="n">4</td><td><b>Last call</b></td><td class="due">Mon 30.11 7pm</td><td>Full list minus sale buyers</td><td>None</td><td class="due">20.11</td></tr>
+      </tbody>
+    </table></div>
+
+    <div class="cols" style="margin-top:16px">
+      <div class="box"><h4>Designer</h4><ul>
+        <li>One template: header, typewriter fact-sheet block, product grid, footer</li>
+        <li>6 layouts using the wording below</li>
+        <li>600px wide, images exported at 1200px</li>
+        <li>Handover format: <b>to confirm with Jas</b> (e.g. Figma frames + exported images, or built straight into a Klaviyo template)</li>
+      </ul></div>
+      <div class="box"><h4>Jas</h4><ul>
+        <li>Build the 6 sends in Klaviyo from the designs</li>
+        <li>Set up the codes, segments and tracking (checklist below)</li>
+        <li>Send tests to Jelani for a yes, then schedule</li>
+      </ul></div>
+    </div>
+
+    <h3>Build checklist (Jas)</h3>
+    <ul class="checks">
+      <li><label><input type="checkbox" id="e1"><span class="t">Unique coupon codes in Klaviyo, linked to the Shopify Early Hours discount (40%)</span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="e2"><span class="t">Segment: draw entrants<span class="sub">Subscribed on or before Sun 22 Nov 11:59pm. Claude draws the winner from it on Mon 23 Nov.</span></span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="e3"><span class="t">Segments: VIP buyers (25–27 Nov) and sale buyers (25–30 Nov), for exclusions</span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="e4"><span class="t">Pause the welcome flow's discount 25–30 Nov (or make sure it can't stack)</span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="e5"><span class="t">Turn on UTM tracking for all 6 sends<span class="sub">The October restock email showed 0 attributed orders, most likely a tracking gap.</span></span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="e6"><span class="t">Build all 6, send tests to Jelani, then schedule</span><span class="due">23.11</span></label></li>
+    </ul>
+
+    <h3>Email wording</h3>
+    <div data-copy="edm"></div>
+  </section>
+
+  <!-- META -->
+  <section class="panel" id="meta" data-tab hidden>
+    <div class="panel-head"><span class="owner">Jelani</span><h2>Meta ads</h2><p>Four ad sets. Instagram already gets ~97% of spend, so design for Instagram feed (4:5) and stories/reels (9:16). Reuse the key visual and ticket stub from the Designer tab.</p></div>
+    <div class="tablebox"><table>
+      <thead><tr><th>Ad set</th><th>Runs</th><th>Who sees it</th><th>Goal</th><th>Creative</th><th>Due</th></tr></thead>
+      <tbody>
+        <tr><td><b>Sign-up</b></td><td class="due">16–22.11</td><td>Followers and site visitors who aren't subscribers, plus cold</td><td>Sign-ups on the sign-up page</td><td>1 static (ticket stub + draw) + 1 short video</td><td class="due">Thu 12.11</td></tr>
+        <tr><td><b>Sale: cold</b></td><td class="due">27–30.11</td><td>New audiences (like Oct's COLD_RESTOCK, our best set at ~$26 per purchase)</td><td>Purchases</td><td>2–3 lifestyle statics + 1 video</td><td class="due">Fri 20.11</td></tr>
+        <tr><td><b>Sale: warm</b></td><td class="due">27–30.11</td><td>Site visitors, add-to-carts, engagers</td><td>Purchases</td><td>2 product-led statics or a catalogue ad</td><td class="due">Fri 20.11</td></tr>
+        <tr><td><b>Last call</b></td><td class="due">30.11</td><td>Warm audience</td><td>Purchases</td><td>1 static: "Closing tonight"</td><td class="due">Fri 20.11</td></tr>
+      </tbody>
+    </table></div>
+    <p class="note">Every creative needs both sizes: 4:5 (1080×1350) and 9:16 (1080×1920). Lead with in-stock pieces (Scout, Camo Hat, lounge). A handwritten "40%" over a grainy photo is the one place to be bold. Pause the sign-up ads at 11:59pm Sun 22 Nov. Claude can set the ads up in Meta with your yes.</p>
+
+    <h3>Creative checklist</h3>
+    <ul class="checks">
+      <li><label><input type="checkbox" id="m1"><span class="t">Sign-up static (4:5 + 9:16)</span><span class="due">12.11</span></label></li>
+      <li><label><input type="checkbox" id="m2"><span class="t">Sign-up video, 6–15s (9:16)</span><span class="due">12.11</span></label></li>
+      <li><label><input type="checkbox" id="m3"><span class="t">Cold sale statics × 2–3 (4:5 + 9:16)</span><span class="due">20.11</span></label></li>
+      <li><label><input type="checkbox" id="m4"><span class="t">Cold sale video (9:16)<span class="sub">Could be a cut of the "side quests" reel.</span></span><span class="due">20.11</span></label></li>
+      <li><label><input type="checkbox" id="m5"><span class="t">Warm product statics × 2, or set up a catalogue ad</span><span class="due">20.11</span></label></li>
+      <li><label><input type="checkbox" id="m6"><span class="t">Last-call static (4:5 + 9:16)</span><span class="due">20.11</span></label></li>
+    </ul>
+
+    <h3>Ad copy</h3>
+    <div data-copy="meta"></div>
+  </section>
+
+  <!-- TODO -->
+  <section class="panel" id="todo" data-tab hidden>
+    <div class="panel-head"><span class="owner">Jelani</span><h2>My to-do</h2><p>Your list, in date order. Ticks are saved in this browser only.</p></div>
+
+    <h3>This week · by Fri 6 Nov</h3>
+    <ul class="checks">
+      <li><label><input type="checkbox" id="t1"><span class="t">Send Jas the thank-you + website and email list. Ask how she wants the email designs handed over</span><span class="due">05.11</span></label></li>
+      <li><label><input type="checkbox" id="t2"><span class="t">Tell Jas the VIP name is Early Hours</span><span class="due">06.11</span></label></li>
+      <li><label><input type="checkbox" id="t3"><span class="t">Meet Icy: confirm the sign-up page, and which other designs (emails, banners) she'll take</span><span class="due">06.11</span></label></li>
+      <li><label><input type="checkbox" id="t6"><span class="t">List the archive swim coming out of drafts</span><span class="due">06.11</span></label></li>
+      <li><label><input type="checkbox" id="t7"><span class="t">Check that no low-margin item can't go to 40%</span><span class="due">06.11</span></label></li>
+      <li><label><input type="checkbox" id="t8"><span class="t">Add the ABN to the draw T&amp;Cs, and do a quick check of state rules</span><span class="due">06.11</span></label></li>
+    </ul>
+
+    <h3>Next week · 9–13 Nov</h3>
+    <ul class="checks">
+      <li><label><input type="checkbox" id="t9"><span class="t">Pick 8–12 photos (grainy film, in-stock pieces)</span><span class="due">09.11</span></label></li>
+      <li><label><input type="checkbox" id="t10"><span class="t">Approve the key visual</span><span class="due">09.11</span></label></li>
+      <li><label><input type="checkbox" id="t11"><span class="t">Make the sign-up Meta ads</span><span class="due">12.11</span></label></li>
+      <li><label><input type="checkbox" id="t12"><span class="t">Instagram teaser post + 3 stories with countdown</span><span class="due">13.11</span></label></li>
+    </ul>
+
+    <h3>16–22 Nov · sign-ups open</h3>
+    <ul class="checks">
+      <li><label><input type="checkbox" id="t13"><span class="t">Check the sign-up page, then turn on the sign-up ads</span><span class="due">16.11</span></label></li>
+      <li><label><input type="checkbox" id="t14"><span class="t">Make the sale Meta ads (cold, warm, last call)</span><span class="due">20.11</span></label></li>
+      <li><label><input type="checkbox" id="t15"><span class="t">Instagram: "Black Friday, gently" carousel, story templates, the "side quests" reel</span><span class="due">20.11</span></label></li>
+      <li><label><input type="checkbox" id="t16"><span class="t">Approve the email tests from Jas</span><span class="due">20.11</span></label></li>
+      <li><label><input type="checkbox" id="t17"><span class="t">"Last day to enter" stories. Pause sign-up ads at 11:59pm</span><span class="due">22.11</span></label></li>
+    </ul>
+
+    <h3>23 Nov – 1 Dec · sale</h3>
+    <ul class="checks">
+      <li><label><input type="checkbox" id="t18"><span class="t">Draw the winner (Claude picks at random) and email them</span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="t19"><span class="t">Say yes to the discounts, collections and taking 20 hats out of stock (86 → 66)</span><span class="due">23.11</span></label></li>
+      <li><label><input type="checkbox" id="t20"><span class="t">Announce the winner on stories (first name, with their OK)</span><span class="due">24.11</span></label></li>
+      <li><label><input type="checkbox" id="t21"><span class="t">Write 20 hat notes. Pack hats into the first 20 Early Hours orders over $150</span><span class="due">25–27.11</span></label></li>
+      <li><label><input type="checkbox" id="t22"><span class="t">Turn on sale ads (cold + warm)</span><span class="due">27.11 7am</span></label></li>
+      <li><label><input type="checkbox" id="t23"><span class="t">"Closing tonight" stories + last-call ad</span><span class="due">30.11</span></label></li>
+      <li><label><input type="checkbox" id="t24"><span class="t">Results review with Claude (gifting orders excluded)</span><span class="due">01.12</span></label></li>
+    </ul>
+
+    <h3>Draw T&amp;Cs (draft)</h3>
     <details>
-      <summary><span class="t">$500 Jelani wardrobe draw: terms (draft)</span><span class="m">10 points</span></summary>
-      <ol class="tcs">
-        <li><b>Promoter:</b> JELANI THE LABEL, [ABN], Maroubra NSW. Contact: info@jelani.com.au.</li>
-        <li><b>Entry period:</b> 12:00am AEDT Mon 16 Nov 2026 to 11:59pm AEDT Sun 22 Nov 2026.</li>
-        <li><b>Who can enter:</b> Australian residents aged 18 or over. The promoter's family and anyone helping run the promotion can't enter.</li>
-        <li><b>How to enter:</b> subscribe to the JELANI THE LABEL email list during the entry period via jelani.com.au. Existing subscribers are entered automatically. One entry per person. No purchase necessary.</li>
-        <li><b>Prize:</b> one winner gets $500 (RRP) of JELANI THE LABEL products of their choice, delivered free within Australia. Subject to stock. Not exchangeable for cash, and unused value is forfeited.</li>
-        <li><b>Draw:</b> random draw at 12:00pm AEDT Mon 23 Nov 2026, Maroubra NSW.</li>
-        <li><b>Notification:</b> winner emailed by Tue 24 Nov 2026 and must reply within 7 days, or the prize is redrawn at 12:00pm AEDT Wed 2 Dec 2026.</li>
-        <li><b>Publication:</b> with consent, the winner's first name and state are shared on Instagram stories.</li>
-        <li><b>Privacy:</b> details are used under the JELANI THE LABEL privacy policy [link]. Unsubscribing doesn't affect an entry already made.</li>
-        <li><b>General:</b> the promoter may change or cancel the promotion if something outside its control affects it, subject to state rules.</li>
-      </ol>
-    </details>
-    <details>
-      <summary><span class="t">Surprise Camo Hats: how it works</span><span class="m">never advertised</span></summary>
-      <div class="copy">
-        <div class="line"><span class="k">Who</span><span class="v">The first 20 paid First Pick orders over $150 (Wed 25 Nov 7pm – Fri 27 Nov 7am). Gifting orders don't count.</span><span></span></div>
-        <div class="line"><span class="k">Note</span><span class="v">"A small thing, made with care. Thank you for being here. x [your name]"</span><button class="cp" type="button">Copy</button></div>
-        <div class="line"><span class="k">Stock</span><span class="v">Take 20 hats out of Shopify stock before VIP opens (86 → 66), so the sale can't oversell.</span><span></span></div>
-        <div class="line"><span class="k">If fewer</span><span class="v">Leftover hats go back into the sale. Nothing else changes.</span><span></span></div>
-      </div>
+      <summary><span class="t">$500 Jelani wardrobe draw: terms</span><span class="m">for Jas to put on the site</span></summary>
+      <div class="copy"><div class="line"><span class="k">Terms</span><span class="v">1. Promoter: JELANI THE LABEL, [ABN], Bondi NSW. Contact: info@jelani.com.au. 2. Entry period: 12:00am AEDT Monday 16 November 2026 to 11:59pm AEDT Sunday 22 November 2026. 3. Open to Australian residents aged 18 or over. The promoter's family and anyone helping run the promotion can't enter. 4. Enter by subscribing to the JELANI THE LABEL email list during the entry period via jelani.com.au. Existing subscribers are entered automatically. One entry per person. No purchase necessary. 5. Prize: one winner receives $500 (RRP) of JELANI THE LABEL products of their choice, delivered free within Australia, subject to stock. Not exchangeable for cash, and unused value is forfeited. 6. One winner drawn at random at 12:00pm AEDT Monday 23 November 2026 in Bondi NSW. 7. The winner is emailed by Tuesday 24 November 2026 and must reply within 7 days, or the prize is redrawn at 12:00pm AEDT Wednesday 2 December 2026. 8. With consent, the winner's first name and state are shared on Instagram. 9. Entrant details are used under the JELANI THE LABEL privacy policy [link]. Unsubscribing doesn't affect an entry already made. 10. The promoter may change or cancel the promotion if something outside its control affects it, subject to state rules.</span><button class="cp" type="button">Copy</button></div></div>
     </details>
   </section>
 
-  <p class="foot">The full working notes live in the JELANI repo at docs/black-friday-2026.md.</p>
+  <p class="foot">Full working notes are in the JELANI repo at docs/black-friday-2026.md. Updated 4 Nov 2026.</p>
 </div>
 
 <script>
-const ASSETS = [
-  ["Priority 1 · Must have. Without these, there's no launch"],
-  ["A1","Key visual and type lockups: UP TO 40% OFF, FIRST PICK, 40% OFF EVERYTHING. Scrapbook/zine treatment, paper palette, ticket stub. Everything else is built from this","PNG/SVG, light + dark","Mon 9 Nov","d1"],
-  ["A2","Photo picks: 8–12 lifestyle shots of in-stock pieces (Scout, Camo Hat, lounge)","Crop 4:5 + 9:16","Mon 9 Nov","j"],
-  ["H1","Hype page: hero + countdown, sign-up line, $500 draw, form, FAQs","Desktop + mobile","Thu 12 Nov","d1"],
-  ["H2","First Pick sign-up pop-up","Desktop + mobile","Thu 12 Nov","d1"],
-  ["H4","Meta ads: sign-up (1 static + 1 short video). Drives list growth","4:5 + 9:16","Thu 12 Nov","d2"],
-  ["H5","$500 wardrobe draw graphic (styled flat-lay). Reused in ads, stories, hype page","4:5, 9:16, web strip","Thu 12 Nov","d1"],
-  ["S3","Emails 1 + 1b: First Pick open + reminder. The biggest sales moment","600px, header 1200px","Fri 20 Nov","d2"],
-  ["S4","Email 2: Launch","600px, header 1200px","Fri 20 Nov","d2"],
-  ["S6","Meta ads: cold, lifestyle-led (2–3 statics + 1 video). Cold Instagram ads were our best performer in Oct","4:5 + 9:16","Fri 20 Nov","d2"],
-  ["H3","Homepage banner: Hype","Desktop + mobile","Thu 12 Nov","d1"],
-  ["S1","Homepage banner: Sale live","Desktop + mobile","Fri 20 Nov","d1"],
-  ["H6","Instagram teaser post + 3 story frames with countdown","4:5, 9:16","Fri 13 Nov","j"],
-  ["S8","Instagram feed: \"Black Friday, gently\" carousel, VIP open, sale live","3 × 4:5","Fri 20 Nov","j"],
-  ["Priority 2 · Should have. Adds sales, but the launch works without them"],
-  ["L2","Email 4: Last call","600px, header 1200px","Fri 20 Nov","d2"],
-  ["H7","Email 0: teaser","600px, header 1200px","Fri 13 Nov","d2"],
-  ["S9","Instagram stories: VIP, sale live, most loved, size updates","~8 × 9:16","Fri 20 Nov","j"],
-  ["S7","Meta ads: warm retargeting, product-led","4:5 + 9:16","Fri 20 Nov","d2"],
-  ["L1","Homepage banner: Last call","Desktop + mobile","Fri 20 Nov","d1"],
-  ["L4","\"Closing tonight\" stories with countdown","3 × 9:16","Fri 20 Nov","j"],
-  ["S5","Email 3: Our most loved","600px, header 1200px","Fri 20 Nov","d2"],
-  ["S2","SALE collection banner","Desktop + mobile","Fri 20 Nov","d1"],
-  ["L3","Meta ads: last call, warm","4:5 + 9:16","Fri 20 Nov","d2"],
-  ["Priority 3 · Nice to have. Drop these first if time runs short"],
-  ["S10","Reel / TikTok: a \"side quests\" day in Jelani","9:16, 15–30s","Fri 20 Nov","j"],
-  ["H8","Winner announcement story template","9:16","Fri 20 Nov","d1"],
-  ["H9","Note card for the 20 surprise hats","A6","Fri 20 Nov","j"]
-];
-const WHO = {d1:["Designer 1","p-d1"],d2:["Designer 2","p-d2"],j:["Jelani","p-j"]};
-
+const COPY = {
+  designer:[
+    {t:"Sign-up page",m:"Icy",open:true,lines:[
+      ["Hero","EARLY HOURS"],
+      ["Subline","Black Friday opens to you first, for the ones who've been here."],
+      ["Sign-up","Join the list for 40% off everything, a day and a half before everyone else. Everything is made in limited runs, so first pick matters."],
+      ["Draw","Join by Sunday 22 November and you're in the draw to win a $500 Jelani wardrobe, chosen by you."],
+      ["Button","JOIN THE LIST"]
+    ]},
+    {t:"Homepage banners",m:"3 versions",lines:[
+      ["Hype","EARLY HOURS / Join by Sunday 22 November for 40% off everything, a day and a half early, and a chance to win a $500 Jelani wardrobe. / JOIN THE LIST"],
+      ["Sale live","UP TO 40% OFF / Our most loved pieces, made for the summer side quests. / SHOP THE SALE"],
+      ["Last call","CLOSING TONIGHT / Up to 40% off until midnight. / SHOP NOW"]
+    ]},
+    {t:"Hat note card",m:"handwritten",lines:[["Note","A small thing, made with care. Thank you for being here. x [name]"]]}
+  ],
+  web:[
+    {t:"Announcement bar",m:"3 versions",open:true,lines:[
+      ["Hype","EARLY HOURS: 40% OFF EVERYTHING, BEFORE EVERYONE · JOIN THE LIST"],
+      ["Sale live","BLACK FRIDAY · UP TO 40% OFF · SHOP NOW"],
+      ["Last day","BLACK FRIDAY CLOSES TONIGHT"]
+    ]},
+    {t:"Sign-up page FAQs",m:"5 questions",lines:[
+      ["When?","Early Hours open Wednesday 25 November at 7pm AEDT. Everyone else can shop from Friday 27 November at 7am. It all closes Monday 30 November at midnight."],
+      ["What's in it?","Early Hours: 40% off everything. Public sale: 40% off tracksuits, lounge, tees, accessories and archive swim, and 30% off our restocked bikinis and the Camo Hat."],
+      ["How do I get in?","Join the list on this page. Your code arrives by email just before the doors open."],
+      ["The draw?","Join the list by 11:59pm AEDT Sunday 22 November and you're in. Already on the list? You're already entered. No purchase needed. I'll draw one winner on Monday 23 November and announce them on Instagram the next day. [Full T&Cs]"],
+      ["Other codes?","Not this time. Sale prices can't be combined with other codes."]
+    ]},
+    {t:"Homepage banners",m:"same as Designer tab",lines:[
+      ["Hype","EARLY HOURS / Join by Sunday 22 November for 40% off everything, a day and a half early, and a chance to win a $500 Jelani wardrobe. / JOIN THE LIST"],
+      ["Sale live","UP TO 40% OFF / Our most loved pieces, made for the summer side quests. / SHOP THE SALE"],
+      ["Last call","CLOSING TONIGHT / Up to 40% off until midnight. / SHOP NOW"]
+    ]}
+  ],
+  edm:[
+    {t:"0 · Teaser",m:"Fri 20.11",lines:[
+      ["Subject","Early Hours are coming"],["Preview","40% off everything, a day and a half before everyone else."],["Headline","EARLY HOURS"],
+      ["Body","Before Black Friday opens to everyone, I want you to see it first. Early Hours open Wednesday 25 November at 7pm, with 40% off everything. Everyone else gets up to 40% from Friday. You're already on the list, so there's nothing to do. Your code arrives just before the doors open. And a small thank-you: you're also in the draw to win a $500 Jelani wardrobe, chosen by you. I'll draw the winner on Monday 23 November. Know someone who'd love it? Send them [sign-up page link], they have until Sunday."]
+    ]},
+    {t:"1 · Early Hours are open",m:"Wed 25.11 7pm",lines:[
+      ["Subject","Early Hours are open"],["Alt subject","You're in. First pick is yours"],["Preview","40% off everything, before everyone else."],["Headline","YOU'RE IN"],
+      ["Body","The early hours of Black Friday are yours. For the next day and a half, you get first pick at 40% off everything: Scout in its warm, earthy stripe, the Camo Hat with its cherries and 444, and [lounge hero]. These are limited runs, so some sizes won't make it to Friday. Your code is [CODE]. Thank you for being here."]
+    ]},
+    {t:"1b · Reminder",m:"Thu 26.11 7pm",lines:[
+      ["Subject","Early Hours close in the morning"],["Preview","First pick until 7am, then it opens to everyone."],["Headline","STILL EARLY HOURS"],
+      ["Body","A gentle reminder that Early Hours close at 7am tomorrow. 40% off everything with your code [CODE]. After that, it opens to everyone, at up to 40%."]
+    ]},
+    {t:"2 · Launch",m:"Fri 27.11 7am",lines:[
+      ["Subject","Black Friday: up to 40% off"],["Alt subject","Something for you, something for someone you love"],["Preview","Our most loved pieces, made for the summer side quests."],["Headline","A SMALL THING FOR YOU"],
+      ["Body","Black Friday is open. Up to 40% off everything: swim for open-water mornings, lounge for slow evenings, a cap for the long way home. Choose something for you, and maybe something for someone you love. Our swim is crafted from high-quality recycled materials and made in limited runs, so it's made to last well past this weekend."]
+    ]},
+    {t:"3 · Our most loved",m:"Sun 29.11 7pm",lines:[
+      ["Subject","Our most loved, while they last"],["Alt subject","The pieces you keep coming back to"],["Preview","Up to 40% off until Monday night, in limited numbers."],["Headline","OUR MOST LOVED"],
+      ["Body","These are the pieces you keep coming back to. Scout, a Jelani favourite from the start. The Camo Hat. [Lounge hero]. All up to 40% off until Monday night, in limited numbers."]
+    ]},
+    {t:"4 · Last call",m:"Mon 30.11 7pm",lines:[
+      ["Subject","Last call, angels"],["Alt subject","Black Friday closes tonight"],["Preview","Up to 40% off until midnight AEDT."],["Headline","LAST CALL"],
+      ["Body","Black Friday closes at midnight tonight, and then everything goes back to full price. If something's been sitting in your cart all weekend, take this as your sign. And to everyone who shopped this week: thank you. It means a lot to a small brand like mine."]
+    ]}
+  ],
+  meta:[
+    {t:"Sign-up",m:"16–22.11",open:true,lines:[
+      ["Primary text","40% off everything, a day and a half before Black Friday opens. Join the list by 22 November, and you're also in the draw to win a $500 Jelani wardrobe."],
+      ["Headline","Join the list"]
+    ]},
+    {t:"Sale: cold",m:"27–30.11",lines:[
+      ["Primary text","Swim crafted from high-quality recycled materials, now up to 40% off. Not everyone has it. The right people recognise it."],
+      ["Headline","UP TO 40% OFF"]
+    ]},
+    {t:"Sale: warm",m:"27–30.11",lines:[
+      ["Primary text","Still thinking about it? Our most loved pieces are up to 40% off until Monday."],
+      ["Headline","Our most loved, up to 40% off"]
+    ]},
+    {t:"Last call",m:"30.11",lines:[
+      ["Primary text","Black Friday closes tonight. Up to 40% off our most loved pieces."],
+      ["Headline","Closing tonight"]
+    ]}
+  ]
+};
 function esc(s){return s.replace(/&/g,"&amp;").replace(/</g,"&lt;")}
-function renderAssets(f){
-  const out=[]; let pending=null; let n=0;
-  for(const r of ASSETS){
-    if(r.length===1){pending=r[0];continue}
-    n++; if(f!=="all" && r[4]!==f) continue;
-    if(pending){out.push(`<tr class="phase-row"><td colspan="6">${esc(pending)}</td></tr>`);pending=null}
-    const w=WHO[r[4]];
-    out.push(`<tr><td class="id">${n}</td><td class="id">${r[0]}</td><td>${esc(r[1])}</td><td>${esc(r[2])}</td><td class="due">${r[3]}</td><td><span class="pill ${w[1]}">${w[0]}</span></td></tr>`);
-  }
-  document.getElementById("assets").innerHTML=out.join("");
-}
-document.querySelectorAll(".filters button").forEach(b=>b.addEventListener("click",()=>{
-  document.querySelectorAll(".filters button").forEach(x=>x.setAttribute("aria-pressed",x===b?"true":"false"));
-  renderAssets(b.dataset.f);
-  try{localStorage.setItem("bf-filter",b.dataset.f)}catch(e){}
-}));
-let saved="all"; try{saved=localStorage.getItem("bf-filter")||"all"}catch(e){}
-const sb=document.querySelector(`.filters button[data-f="${saved}"]`); if(sb) sb.click(); else renderAssets("all");
-
-const COPY = [
-  {t:"Hype page",m:"live 16 Nov · Designer 1",open:true,lines:[
-    ["Hero","FIRST PICK"],
-    ["Subline","Black Friday opens to you first, for the ones who've been here."],
-    ["Sign-up","Join the list for 40% off everything, a day and a half before everyone else. Everything is made in limited runs, so first pick matters."],
-    ["Draw","Join by Sunday 22 November and you're in the draw to win a $500 Jelani wardrobe, chosen by you."],
-    ["Button","JOIN THE LIST"],
-    ["FAQ · When?","First Pick opens Wednesday 25 November at 7pm AEDT. Everyone else can shop from Friday 27 November at 7am. It all closes Monday 30 November at midnight."],
-    ["FAQ · What's in it?","First Pick: 40% off everything in the sale. Public sale: up to 40% off. The newest swim ([names]) stays full price."],
-    ["FAQ · How do I get in?","Join the list on this page. Your code arrives by email just before the doors open."],
-    ["FAQ · The draw?","Join the list by 11:59pm AEDT Sunday 22 November and you're in. Already on the list? You're already entered. No purchase needed. I'll draw one winner on Monday 23 November and announce them on Instagram the next day. [Full T&Cs]"],
-    ["FAQ · Other codes?","Not this time. Sale prices can't be combined with other codes."]
-  ]},
-  {t:"Homepage banners + announcement bar",m:"3 versions · Designer 1",lines:[
-    ["Hype","FIRST PICK / Join by Sunday 22 November for 40% off everything, a day and a half early, and a chance to win a $500 Jelani wardrobe. / JOIN THE LIST"],
-    ["Sale live","UP TO 40% OFF / Our most loved pieces, made for the summer side quests. / SHOP THE SALE"],
-    ["Last call","CLOSING TONIGHT / Up to 40% off until midnight. The newest swim stays full price. / SHOP NOW"],
-    ["Bar · hype","FIRST PICK: 40% OFF EVERYTHING, BEFORE EVERYONE · JOIN THE LIST"],
-    ["Bar · live","BLACK FRIDAY · UP TO 40% OFF · SHOP NOW"],
-    ["Bar · last day","BLACK FRIDAY CLOSES TONIGHT"]
-  ]},
-  {t:"Email 0 · Teaser",m:"Fri 20 Nov · newsletter list",lines:[
-    ["Subject","First Pick is coming"],
-    ["Preview","40% off everything, a day and a half before everyone else."],
-    ["Headline","FIRST PICK"],
-    ["Body","Before Black Friday opens to everyone, I want you to see it first. First Pick opens Wednesday 25 November at 7pm, with 40% off everything in the sale. Everyone else gets up to 40% from Friday. You're already on the list, so there's nothing to do. Your code arrives just before the doors open. And a small thank-you: you're also in the draw to win a $500 Jelani wardrobe, chosen by you. I'll draw the winner on Monday 23 November. Know someone who'd love it? Send them [hype page link], they have until Sunday."]
-  ]},
-  {t:"Email 1 · First Pick is open",m:"Wed 25 Nov 7pm · newsletter list",lines:[
-    ["Subject","First Pick is open"],
-    ["Alt subject","You're in. First pick is yours"],
-    ["Preview","40% off everything, before everyone else."],
-    ["Headline","YOU'RE IN"],
-    ["Body","First Pick is open. For the next day and a half, you get first pick at 40% off everything in the sale: Scout in its warm, earthy stripe, the Camo Hat with its cherries and 444, and [lounge hero]. These are limited runs, so some sizes won't make it to Friday. Your code is [CODE]. The newest swim stays full price. Thank you for being here."]
-  ]},
-  {t:"Email 1b · VIP reminder",m:"Thu 26 Nov 7pm · VIPs who haven't bought",lines:[
-    ["Subject","First Pick closes in the morning"],
-    ["Preview","First pick until 7am, then it opens to everyone."],
-    ["Headline","STILL FIRST PICK"],
-    ["Body","A gentle reminder that First Pick closes at 7am tomorrow. 40% off everything with your code [CODE]. After that, it opens to everyone, at up to 40%."]
-  ]},
-  {t:"Email 2 · Launch",m:"Fri 27 Nov 7am · full list minus VIP buyers",lines:[
-    ["Subject","Black Friday: up to 40% off"],
-    ["Alt subject","Something for you, something for someone you love"],
-    ["Preview","Our most loved pieces, made for the summer side quests."],
-    ["Headline","A SMALL THING FOR YOU"],
-    ["Body","Black Friday is open. Up to 40% off almost everything: swim for open-water mornings, lounge for slow evenings, a cap for the long way home. Choose something for you, and maybe something for someone you love. Our swim is crafted from high-quality recycled materials and made in limited runs, so it's made to last well past this weekend. The newest swim stays full price."]
-  ]},
-  {t:"Email 3 · Our most loved",m:"Sun 29 Nov 7pm · minus sale buyers",lines:[
-    ["Subject","Our most loved, while they last"],
-    ["Alt subject","The pieces you keep coming back to"],
-    ["Preview","Up to 40% off until Monday night, in limited numbers."],
-    ["Headline","OUR MOST LOVED"],
-    ["Body","These are the pieces you keep coming back to. Scout, a Jelani favourite from the start. The Camo Hat. [Lounge hero]. All up to 40% off until Monday night, in limited numbers."]
-  ]},
-  {t:"Email 4 · Last call",m:"Mon 30 Nov 7pm · minus sale buyers",lines:[
-    ["Subject","Last call, angels"],
-    ["Alt subject","Black Friday closes tonight"],
-    ["Preview","Up to 40% off until midnight AEDT."],
-    ["Headline","LAST CALL"],
-    ["Body","Black Friday closes at midnight tonight, and then everything goes back to full price. If something's been sitting in your cart all weekend, take this as your sign. And to everyone who shopped this week: thank you. It means a lot to a small brand like mine."]
-  ]},
-  {t:"Meta ads",m:"4 sets · Designer 2",lines:[
-    ["Sign-up","40% off everything, a day and a half before Black Friday opens. Join the list by 22 November, and you're also in the draw to win a $500 Jelani wardrobe. — Headline: Join the list"],
-    ["Cold","Swim crafted from high-quality recycled materials, now up to 40% off. Not everyone has it. The right people recognise it. — Headline: UP TO 40% OFF"],
-    ["Warm","Still thinking about it? Our most loved pieces are up to 40% off until Monday. — Headline: Our most loved, up to 40% off"],
-    ["Last call","Black Friday closes tonight. Up to 40% off our most loved pieces. — Headline: Closing tonight"]
-  ]},
-  {t:"Instagram · \"Black Friday, gently\" carousel",m:"Jelani",lines:[
-    ["Slides","Black Friday, gently. / 1 Buy what you'll come back to. / 2 Choose something for someone you love. / 3 Take your time (but they're limited runs). / 4 Support small things made with care. / 5 Then go outside."]
-  ]}
-];
-document.getElementById("copyblocks").innerHTML = COPY.map(b=>`
+document.querySelectorAll("[data-copy]").forEach(el=>{
+  el.innerHTML=(COPY[el.dataset.copy]||[]).map(b=>`
   <details${b.open?" open":""}>
     <summary><span class="t">${esc(b.t)}</span><span class="m">${esc(b.m)}</span></summary>
     <div class="copy">${b.lines.map(l=>`<div class="line"><span class="k">${esc(l[0])}</span><span class="v">${esc(l[1])}</span><button class="cp" type="button">Copy</button></div>`).join("")}</div>
   </details>`).join("");
-
+});
 document.addEventListener("click",e=>{
   const btn=e.target.closest(".cp"); if(!btn) return;
-  const text=btn.parentElement.querySelector(".v").textContent;
+  const v=btn.parentElement.querySelector(".v");
   const done=()=>{btn.textContent="Copied";btn.classList.add("done");setTimeout(()=>{btn.textContent="Copy";btn.classList.remove("done")},1500)};
-  const fallback=()=>{const r=document.createRange();r.selectNodeContents(btn.parentElement.querySelector(".v"));const s=getSelection();s.removeAllRanges();s.addRange(r);btn.textContent="Selected";};
-  try{navigator.clipboard.writeText(text).then(done,fallback)}catch(err){fallback()}
+  const fallback=()=>{const r=document.createRange();r.selectNodeContents(v);const s=getSelection();s.removeAllRanges();s.addRange(r);btn.textContent="Selected";};
+  try{navigator.clipboard.writeText(v.textContent).then(done,fallback)}catch(err){fallback()}
+});
+const TABS=["overview","designer","web","edm","meta","todo"];
+function show(){
+  const h=location.hash.replace("#","");
+  const id=TABS.includes(h)?h:"overview";
+  document.querySelectorAll("[data-tab]").forEach(s=>s.hidden=s.id!==id);
+  document.querySelectorAll(".tabs a").forEach(a=>a.getAttribute("href")==="#"+id?a.setAttribute("aria-current","page"):a.removeAttribute("aria-current"));
+}
+window.addEventListener("hashchange",()=>{show();const n=document.querySelector(".tabs");if(n&&n.getBoundingClientRect().top<0)n.scrollIntoView();});
+show();
+let state={}; try{state=JSON.parse(localStorage.getItem("bf-checks")||"{}")}catch(e){}
+document.querySelectorAll(".checks input").forEach(i=>{
+  if(state[i.id]) i.checked=true;
+  i.addEventListener("change",()=>{state[i.id]=i.checked;try{localStorage.setItem("bf-checks",JSON.stringify(state))}catch(e){}});
 });
 </script>
