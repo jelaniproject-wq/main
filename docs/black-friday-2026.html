@@ -5,17 +5,17 @@
 <style>
 /* Layout: one calm scrolling brief. Key facts up top, sticky section nav, then who / when / copy / rules. */
 :root{
-  --bg:#f6f0ef; --surface:#fffafa; --fg:#251519; --muted:#76606a; --line:#e6d7da;
-  --accent:#6b1a2c; --accent-soft:#f1e1e4; --ok:#2f6b4a; --ok-soft:#e3efe8; --warn:#8a5a12; --warn-soft:#f6ecd9;
+  --bg:#f4efe8; --surface:#fbf8f3; --fg:#2b2228; --muted:#7a6b72; --line:#e4d9d6;
+  --accent:#6e3a5e; --accent-soft:#f0dde3; --ok:#4f6a3a; --ok-soft:#e5ead9; --warn:#9a5a2c; --warn-soft:#f6e3d3;
   --display:"Bodoni Moda", "Didot", Georgia, serif;
   --body:"Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#160c0f; --surface:#21141a; --fg:#f3e9eb; --muted:#b39ca4; --line:#3a2730;
-  --accent:#e4a0ae; --accent-soft:#3a1d26; --ok:#8fd0aa; --ok-soft:#183026; --warn:#e8c07a; --warn-soft:#33281a; color-scheme:dark}}
+  --bg:#1d181b; --surface:#262024; --fg:#efe7e4; --muted:#b2a3a8; --line:#3a3036;
+  --accent:#d9a9c6; --accent-soft:#3b2934; --ok:#b4cc94; --ok-soft:#28301f; --warn:#e8b48a; --warn-soft:#3a2a1e; color-scheme:dark}}
 :root[data-theme="dark"]{
-  --bg:#160c0f; --surface:#21141a; --fg:#f3e9eb; --muted:#b39ca4; --line:#3a2730;
-  --accent:#e4a0ae; --accent-soft:#3a1d26; --ok:#8fd0aa; --ok-soft:#183026; --warn:#e8c07a; --warn-soft:#33281a; color-scheme:dark}
+  --bg:#1d181b; --surface:#262024; --fg:#efe7e4; --muted:#b2a3a8; --line:#3a3036;
+  --accent:#d9a9c6; --accent-soft:#3b2934; --ok:#b4cc94; --ok-soft:#28301f; --warn:#e8b48a; --warn-soft:#3a2a1e; color-scheme:dark}
 *{box-sizing:border-box}
 body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.55;
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
@@ -151,7 +151,7 @@ html{scroll-behavior:smooth}
       <li><b>Hook</b><span>Join the list early for first pick at 40% off, plus a chance to win a $500 Jelani wardrobe.</span></li>
       <li><b>Surprise</b><span>The first 20 First Pick orders over $150 get a Camo Hat and a handwritten note. Never advertised.</span></li>
       <li><b>Tone</b><span>Generous, not urgent. A thank-you to the people who've been here. One urgent moment only: the last call.</span></li>
-      <li><b>Look</b><span>Burgundy-black, candid and lived-in. No girl-in-a-bikini-on-the-beach.</span></li>
+      <li><b>Look</b><span>A page from Jelani's scrapbook: soft paper, film grain, handwriting, taped-in photos and a First Pick ticket stub. No black, no shouty SALE type.</span></li>
       <li><b>Channels</b><span>Hype page, homepage, 6 emails, Instagram (feed, stories, reel), Meta ads. No SMS this year.</span></li>
     </ul>
 
@@ -240,11 +240,11 @@ html{scroll-behavior:smooth}
       <div class="box">
         <h3>How it looks</h3>
         <ul>
-          <li>Pieces in her life, not on a beach: records on a rug, chess, a flower market, a bike with groceries, a film camera on a doorstep, an open-water swim.</li>
+          <li>A page from her scrapbook: grainy, motion-blurred film, taped-in prints, vellum overlays, star stickers, a ticket stub.</li><li>Three type voices: handwriting for the name and notes, typewriter for the facts (dates, %, code), a small editorial serif for headlines.</li><li>Pieces in her life, not on a beach: windswept grass, flowers up close, real rooms, candid laughter.</li>
           <li>Candid over perfect. Mix campaign shots, grainy film and iPhone snaps.</li>
           <li>Break up product shots with text frames and close-ups (the 444 embroidery, print details).</li>
-          <li>Burgundy-black instead of the usual black-and-red.</li>
-          <li>Refs: Pinky and Kamal, BUCI, Mode Mischief Studios.</li>
+          <li>Soft paper off-white, dusty pink, plum, moss and apricot. One hand-drawn accent line in acid yellow or red. No black.</li>
+          <li>Signature ideas: the First Pick ticket stub (ADMIT ONE · WED 25.11 · 7PM), a typewriter data-sheet of the offer, the $500 wardrobe as a scrapbook spread, "Black Friday, gently" as a ring-bound zine.</li>
         </ul>
       </div>
       <div class="box never">
@@ -293,7 +293,7 @@ html{scroll-behavior:smooth}
 <script>
 const ASSETS = [
   ["Priority 1 · Must have. Without these, there's no launch"],
-  ["A1","Key visual and type lockups: UP TO 40% OFF, FIRST PICK, 40% OFF EVERYTHING. Burgundy-black palette. Everything else is built from this","PNG/SVG, light + dark","Mon 9 Nov","d1"],
+  ["A1","Key visual and type lockups: UP TO 40% OFF, FIRST PICK, 40% OFF EVERYTHING. Scrapbook/zine treatment, paper palette, ticket stub. Everything else is built from this","PNG/SVG, light + dark","Mon 9 Nov","d1"],
   ["A2","Photo picks: 8–12 lifestyle shots of in-stock pieces (Scout, Camo Hat, lounge)","Crop 4:5 + 9:16","Mon 9 Nov","j"],
   ["H1","Hype page: hero + countdown, sign-up line, $500 draw, form, FAQs","Desktop + mobile","Thu 12 Nov","d1"],
   ["H2","First Pick sign-up pop-up","Desktop + mobile","Thu 12 Nov","d1"],

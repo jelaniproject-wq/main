@@ -79,18 +79,44 @@ If you're happy with it, I'll save it to CLAUDE.md.
 
 ---
 
-## 4. Visual brief for designers (from the interview + rebrand deck)
+## 4. Visual brief for designers (from Jelani's moodboard, 4 Nov)
 
-- **No girl-in-a-bikini-on-the-beach.** Put the pieces in her life: records on a rug, a game of chess, a flower
-  market, a bike with groceries, a film camera on a doorstep, an open-water swim, a festival.
-- **Candid over perfect.** Mix clean campaign shots, grainy film and iPhone snaps in the same set.
-- **Break up product shots** with text frames and close-ups (quotes, snippets, the 444 embroidery, print details).
-- **Colour:** warm interiors with deep red and burgundy accents. Black Friday can be **burgundy-black instead of the usual black-and-red**, which marks us out from every other sale in the feed.
-- **Type:** editorial and understated on the site and in emails. The percentage can be big in ads.
-- **References:** Pinky and Kamal, BUCI, Mode Mischief Studios. Benchmark against Bersama, CMNTY GRDN and Casa La Sola, whose Black Friday is what ours sits next to.
-- **Organic hero idea, in the style of your manifesto post:** *Black Friday, gently.* 1 Buy what you'll come back to.
-  2 Choose something for someone you love. 3 Take your time (but they're limited runs). 4 Support small things
-  made with care. 5 Then go outside.
+**The idea: Black Friday as a page from Jelani's scrapbook.** It's analog, layered and handmade, like a ring-bound zine
+or a journal, not a sale banner. It should feel like someone made it slowly. No black backgrounds, no big blocky SALE type.
+
+**Colour:** soft paper off-white as the base. Dusty pink / blush, plum, moss / olive green and apricot, all with the
+faded tones of old film. One sharp accent used sparingly: a hand-drawn line in acid yellow or red. Leopard is allowed
+as a texture moment.
+
+**Type (three voices)**
+- **Handwritten / script:** the First Pick name, notes and scribbles, written as if by your own hand (you speak as "I").
+- **Typewriter / mono:** the facts (dates, %, code), set like a data sheet or receipt.
+  e.g. `OFFER ....... 40% OFF EVERYTHING` / `OPENS ....... WED 25.11, 7PM` / `CODE ........ [CODE]`
+- **Editorial serif:** headlines, used sparingly. Small, widely letter-spaced text for captions.
+
+**Textures and objects:** translucent rice-paper or vellum overlays on photos, tape, paperclips, ring binding, star
+stickers, torn-paper hearts, a ticket stub, hand-drawn outlines traced around product or flowers, spiral doodles.
+
+**Photography:** grainy and motion-blurred film. Windswept grass, misty hills, candid laughter, flowers up close,
+pieces worn in real rooms. Photos laid in like polaroids or prints taped onto paper. Still no
+girl-in-a-bikini-on-the-beach.
+
+**Words as design:** short handwritten lines over images, in the spirit of *"sometimes, the label is half the reason I
+love a piece"*. Pull from the gentle reminders and the copy in section 7.
+
+**Signature ideas for this campaign**
+| Idea | Where |
+|---|---|
+| **The First Pick ticket stub**: *ADMIT ONE · FIRST PICK · WED 25.11 · 7PM* | Key visual, hype page hero, sign-up ads, VIP email header |
+| **Data-sheet block** with the offer facts in typewriter (like the GARANCE spread) | Emails, hype page, FAQ, stories |
+| **Scrapbook spread of the $500 wardrobe**: pieces as taped-in prints with handwritten price tags | Draw graphic (H5) |
+| **"Black Friday, gently" as a ring-bound zine** flipped through on video or as a carousel | Instagram (S8), reel |
+| **Handwritten "40%"** scrawled over a grainy photo | Ads only (where bold is allowed) |
+
+**Avoid:** black backgrounds, red-and-black, countdown-clock clichés, glossy e-commerce banners, heavy drop shadows.
+
+**Note for designers:** paper texture packs (e.g. the Xuan paper overlays on the moodboard) are usually paid assets.
+Check the licence covers commercial use, or scan your own paper.
 
 ---
 
@@ -102,8 +128,8 @@ the live theme before briefing.**
 ### Foundation (do first, everything else uses it)
 | ID | Asset | Format / sizes | Due | Owner |
 |---|---|---|---|---|
-| A1 | **Key visual + type lockups**: "UP TO 40% OFF", "FIRST PICK" and "40% OFF EVERYTHING", burgundy-black palette, type treatment | Lockups as PNG/SVG, light and dark versions | **Mon 9 Nov** | |
-| A2 | Photo selection: 8–12 lifestyle images of in-stock hero products (Scout, Camo Hat, lounge) per the visual brief, mixing film, iPhone and campaign shots | Existing shoots, cropped 4:5 and 9:16. Gaps = a quick iPhone shoot | Mon 9 Nov | |
+| A1 | **Key visual + type lockups**: "UP TO 40% OFF", "FIRST PICK" and "40% OFF EVERYTHING", scrapbook/zine treatment, paper palette, ticket stub, handwritten + typewriter type | Lockups as PNG/SVG, light and dark versions | **Mon 9 Nov** | |
+| A2 | Photo selection: 8–12 lifestyle images of in-stock hero products (Scout, Camo Hat, lounge) per the visual brief, favouring grainy film and motion blur, mixed with iPhone snaps | Existing shoots, cropped 4:5 and 9:16. Gaps = a quick iPhone shoot | Mon 9 Nov | |
 
 ### Phase 1: Hype / list building (live Mon 16 Nov)
 | ID | Asset | Format / sizes | Due | Owner |
