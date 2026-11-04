@@ -99,6 +99,29 @@ details[open] summary::after{content:"–"}
 .words.no span{background:transparent;border:1px solid var(--line);color:var(--muted);text-decoration:line-through}
 .note{background:var(--warn-soft);color:var(--fg);border-radius:8px;padding:10px 14px;font-size:.88rem;max-width:76ch;margin-top:14px}
 .foot{margin-top:48px;color:var(--muted);font-size:.8rem}
+.st-bar{position:sticky;top:calc(env(safe-area-inset-top,0px) + 62px);z-index:4;background:var(--bg);display:flex;flex-wrap:wrap;gap:10px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line)}
+.st-bar .stat{font-family:var(--mono);font-size:.85rem}
+.st-bar button{font:inherit;font-size:.85rem;font-weight:500;padding:6px 14px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.st-bar button.primary{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.st-sec{margin-top:26px}
+.st-sec > p{color:var(--muted);font-size:.88rem;max-width:72ch;margin-bottom:10px}
+.prod{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:10px}
+.prod-h{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:baseline;justify-content:space-between}
+.prod-h b{font-size:.95rem}
+.prod-h .meta{font-size:.78rem;color:var(--muted)}
+.prod-h label{font-size:.82rem;display:flex;gap:6px;align-items:center;cursor:pointer}
+.prod .pn{font-size:.82rem;color:var(--warn);margin-top:4px}
+.sz{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:8px;margin-top:10px}
+.cell{border:1px solid var(--line);border-radius:8px;padding:8px;display:grid;gap:4px}
+.cell .s{font-size:.75rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);display:flex;justify-content:space-between}
+.cell .sh{font-family:var(--mono);font-size:.8rem;color:var(--muted)}
+.cell input{font:inherit;font-family:var(--mono);width:100%;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg)}
+.cell .df{font-family:var(--mono);font-size:.78rem;min-height:1em}
+.cell.neg{border-color:var(--warn);background:var(--warn-soft)}
+.cell.diff{border-color:var(--accent)}
+.cell.diff .df{color:var(--accent);font-weight:700}
+.cell.match .df{color:var(--ok)}
+.st-hide-done .prod.done{display:none}
 @media (max-width:560px){
   .list li{grid-template-columns:1fr;gap:2px}
   .line{grid-template-columns:1fr auto}
@@ -128,6 +151,7 @@ details[open] summary::after{content:"–"}
     <li><a href="#edm">Emails<small>design + Jas build</small></a></li>
     <li><a href="#meta">Meta ads<small>Jelani</small></a></li>
     <li><a href="#todo">My to-do<small>Jelani</small></a></li>
+    <li><a href="#stock">Stock take<small>Jelani</small></a></li>
   </ul></nav>
 
   <!-- OVERVIEW -->
@@ -369,6 +393,7 @@ CODE ........ [CODE]</div><p class="hint">Use in emails, on the sign-up page and
 
     <h3>Next week · 9–13 Nov</h3>
     <ul class="checks">
+      <li><label><input type="checkbox" id="t25"><span class="t">Finish the stock take (Stock take tab) and tick which drafts come back<span class="sub">Paste the results to Claude to fix Shopify, with your yes.</span></span><span class="due">09.11</span></label></li>
       <li><label><input type="checkbox" id="t9"><span class="t">Pick 8–12 photos (grainy film, in-stock pieces)</span><span class="due">09.11</span></label></li>
       <li><label><input type="checkbox" id="t10"><span class="t">Approve the key visual</span><span class="due">09.11</span></label></li>
       <li><label><input type="checkbox" id="t11"><span class="t">Make the sign-up Meta ads</span><span class="due">12.11</span></label></li>
@@ -400,6 +425,19 @@ CODE ........ [CODE]</div><p class="hint">Use in emails, on the sign-up page and
       <summary><span class="t">$500 Jelani wardrobe draw: terms</span><span class="m">for Jas to put on the site</span></summary>
       <div class="copy"><div class="line"><span class="k">Terms</span><span class="v">1. Promoter: JELANI THE LABEL, [ABN], Bondi NSW. Contact: info@jelani.com.au. 2. Entry period: 12:00am AEDT Monday 16 November 2026 to 11:59pm AEDT Sunday 22 November 2026. 3. Open to Australian residents aged 18 or over. The promoter's family and anyone helping run the promotion can't enter. 4. Enter by subscribing to the JELANI THE LABEL email list during the entry period via jelani.com.au. Existing subscribers are entered automatically. One entry per person. No purchase necessary. 5. Prize: one winner receives $500 (RRP) of JELANI THE LABEL products of their choice, delivered free within Australia, subject to stock. Not exchangeable for cash, and unused value is forfeited. 6. One winner drawn at random at 12:00pm AEDT Monday 23 November 2026 in Bondi NSW. 7. The winner is emailed by Tuesday 24 November 2026 and must reply within 7 days, or the prize is redrawn at 12:00pm AEDT Wednesday 2 December 2026. 8. With consent, the winner's first name and state are shared on Instagram. 9. Entrant details are used under the JELANI THE LABEL privacy policy [link]. Unsubscribing doesn't affect an entry already made. 10. The promoter may change or cancel the promotion if something outside its control affects it, subject to state rules.</span><button class="cp" type="button">Copy</button></div></div>
     </details>
+  </section>
+
+  <!-- STOCK TAKE -->
+  <section class="panel" id="stock" data-tab hidden>
+    <div class="panel-head"><span class="owner">Jelani</span><h2>Stock take</h2><p>Shopify stock as of 4 Nov 2026, every size of every product. Type what's on the shelf. Matches go green, differences are highlighted, and orange boxes are negative stock to recount. Counts save in this browser. When you're done, tap <b>Copy results</b> and paste them to Claude. Nothing changes in Shopify until you say yes.</p></div>
+    <div class="st-bar">
+      <span class="stat" id="st-stat">0 counted</span>
+      <button type="button" id="st-hide" aria-pressed="false">Hide finished products</button>
+      <button type="button" class="primary" id="st-copy">Copy results</button>
+      <button type="button" id="st-clear">Clear counts</button>
+    </div>
+    <div id="st-body"></div>
+    <p class="note">Not listed: the Black Dog donation product, two empty "Untitled" drafts, and drafts with no stock in any size (Ashton Top, Cherry On Top Bottoms – Sustainable, Pebbles In Blue – Sustainable).</p>
   </section>
 
   <p class="foot">Full working notes are in the JELANI repo at docs/black-friday-2026.md. Updated 4 Nov 2026.</p>
@@ -501,7 +539,152 @@ document.addEventListener("click",e=>{
   const fallback=()=>{const r=document.createRange();r.selectNodeContents(v);const s=getSelection();s.removeAllRanges();s.addRange(r);btn.textContent="Selected";};
   try{navigator.clipboard.writeText(v.textContent).then(done,fallback)}catch(err){fallback()}
 });
-const TABS=["overview","designer","web","edm","meta","todo"];
+const TABS=["overview","designer","web","edm","meta","todo","stock"];
+
+/* ---------- stock take ---------- */
+const ST=[
+ {k:"s30",h:"Restocked bikinis + Camo Hat",d:"30% in the public sale (40% in Early Hours).",items:[
+  ["Scout Top",[["XS",12],["S",28],["M",36],["L",15]]],
+  ["Scout Bottoms",[["XS",11],["S",20],["M",41],["L",33]]],
+  ["Hot Honey Top",[["S",16],["M",35],["L",19]]],
+  ["Hot Honey Bottoms",[["S",14],["M",37],["L",19]]],
+  ["Sav Top",[["S",8],["M",30],["L",19]]],
+  ["Sav Bottoms",[["S",18],["M",34],["L",7]]],
+  ["Tilly Top",[["S",0],["M",23],["L",13]]],
+  ["Tilly Bottoms",[["S",10],["M",31],["L",6]]],
+  ["Isla Top",[["S",35],["M",0],["L",0],["XL",0]]],
+  ["Isla Bottoms",[["S",32],["M",2],["L",2]]],
+  ["Darcy Top",[["S",11],["M",0],["L",-3],["XL",-1]],"L and XL are negative from an old miscount. Recount."],
+  ["Darcy Bottoms",[["S",11],["M",0],["L",1]]],
+  ["Romi Top",[["S",10],["M",0],["L",0],["XL",2]]],
+  ["Romi Bottoms",[["S",-1],["M",0],["L",2]]],
+  ["Flowers In The Jungle Top",[["XS",33],["S",0],["M",0],["L",12]],"3 paid orders are still waiting on Medium. Check what's actually here."],
+  ["Flowers In The Jungle Bottoms",[["XS",32],["S",0],["M",0],["L",0]]],
+  ["Camo Hat",[["One size",86]],"Count includes the 20 to set aside for surprise hats."]
+ ]},
+ {k:"s40",h:"Tracksuits, lounge, tees, accessories",d:"40% in both phases.",items:[
+  ["Stevie Hoodie – Unisex",[["S",35],["M",29],["L",2]]],
+  ["Stevie Tracksuit Pants – Unisex",[["S",23],["M",24],["L",2]]],
+  ["Georgia Hoodie – Unisex",[["S",8],["M",10],["L",4]]],
+  ["Kalani Oversized Red Wine Hoodie",[["S",5],["M",20],["L",32],["XL",0]]],
+  ["Kalani Wide Leg Red Wine Tracksuit Pants",[["S",21],["M",5],["L",0],["XL",0]]],
+  ["Billie Jersey – Unisex",[["S",8],["M",11],["L",10]]],
+  ["Heavy Faded Bone Tee",[["S",4],["M",14],["L",15],["XL",9],["XXL",4]]],
+  ["Heavy Weight Black Tee (mens listing)",[["S",0],["M",6],["L",6],["XL",9],["XXL",0]],"Two listings share this name. Count the shelf once, then split."],
+  ["Heavy Weight Black Tee (tops listing)",[["S",2],["M",5],["L",7]]],
+  ["Funnel Neck Bomber Jacket",[["S",5],["M",0],["L",10],["XL",8]],"A jacket. Assumed 40%, so confirm."],
+  ["Jelani Pilates Grip Socks",[["One size",9]]]
+ ]},
+ {k:"arc",h:"Archive swim (drafts)",d:"40% if they come back. Tick the ones to bring back. Check prices first: some drafts still carry old sale prices, so 40% off those could go below cost.",pick:true,items:[
+  ["Amalia Top",[["S",0],["M",30],["L",16]],"$80"],
+  ["Amalia Bottoms",[["S",0],["M",0],["L",18]],"$72"],
+  ["Simply Cherry – Adjustable Top",[["S",0],["M",18],["L",37]],"$71.70"],
+  ["Simply Cherry – Adjustable Bottoms",[["S",0],["M",21],["L",35]],"$65.93"],
+  ["Pebble In Blue – Adjustable Top",[["S",-1],["M",-1],["L",15]],"$69.95"],
+  ["Pebble In Blue – Bottoms",[["S",-1],["M",0],["L",25]],"$59.95"],
+  ["Pebble In Orange – Adjustable Top",[["S",0],["M",4],["L",19]],"$69.95"],
+  ["Pebble In Orange – Bottoms",[["S",-2],["M",0],["L",27]],"$59.95"],
+  ["Pebble In Pink – Adjustable Top",[["S",0],["M",0],["L",14]],"$69.95"],
+  ["Pebble In Pink – Bottoms",[["S",0],["M",0],["L",27]],"$59.95"],
+  ["Pebbles In Orange Top – Sustainable",[["S",0],["M",12],["L",0]],"$71.20"],
+  ["Pebbles In Orange Bottoms – Sustainable",[["S",-1],["M",9],["L",0]],"$62.94"],
+  ["Flowers In The Jungle – Top (old version)",[["S",-1],["M",0],["L",-1],["XL",0]],"$69.95"],
+  ["Flowers In The Jungle – Bottoms (old version)",[["S",-1],["M",-1],["L",23]],"$59.95"],
+  ["Cherry On Top – Sustainable Top",[["S",0],["M",4],["L",0]],"$71.20"],
+  ["Cherry On Top – Adjustable Top",[["S",-2],["M",0],["L",0]],"$30 (old sale price)"],
+  ["Cherry On Top – Adjustable Bottoms",[["S",-1],["M",0],["L",2]],"$30 (old sale price)"],
+  ["Ashton Bikini Bottoms",[["XS",0],["S",0],["M",0],["L",3]],"$11–24.95 (old sale price)"]
+ ]},
+ {k:"oth",h:"Other drafts (not swim)",d:"Old tracksuit pants, pants and dresses. Tick any you want in the sale. Most are already at old sale prices.",pick:true,items:[
+  ["Invest In Rest Trackpants",[["XS",17],["S",11],["M",4],["L",10]],"$45"],
+  ["Roll The Dice Trackpants",[["XS",1],["S",0],["M",1],["L",1]],"$30–45"],
+  ["Roll The Dice Trackpants – Berry Burst",[["XS",8],["S",2],["M",0],["L",4]],"$30"],
+  ["Roll The Dice Trackpants – Feeling Peachy",[["XS",10],["S",5],["M",1],["L",0]],"$30"],
+  ["Marley – Mid-Waist Linen Pant",[["S",1],["M",3],["L",11]],"$28"],
+  ["Nelly – Maxi Knit Dress",[["S",0],["M",20],["L",10]],"$40"],
+  ["Bowie – Maxi Sequin Knit Dress",[["XS",0],["S",0],["M",0],["L",12]],"$50"],
+  ["In My Dreams Dress",[["XS",0],["S",-1],["M",0],["L",6]],"$25–40"],
+  ["Jelani Land Rover Inspired Cap",[["One size",30]],"$60.27"]
+ ]}
+];
+let stc={},stp={};
+try{stc=JSON.parse(localStorage.getItem("bf-stock")||"{}");stp=JSON.parse(localStorage.getItem("bf-stock-pick")||"{}")}catch(e){}
+function stSave(){try{localStorage.setItem("bf-stock",JSON.stringify(stc));localStorage.setItem("bf-stock-pick",JSON.stringify(stp))}catch(e){}}
+function key(si,pi,zi){return si+"-"+pi+"-"+zi}
+function renderStock(){
+  const out=[];
+  ST.forEach((sec,si)=>{
+    out.push(`<div class="st-sec"><h3 style="margin-top:0">${esc(sec.h)}</h3><p>${esc(sec.d)}</p>`);
+    sec.items.forEach((it,pi)=>{
+      const [name,sizes,note]=it;
+      const pk=si+"-"+pi;
+      const meta = sec.pick ? `<span class="meta">${esc(note||"")}</span><label><input type="checkbox" class="st-pick" data-k="${pk}" ${stp[pk]?"checked":""}> In the sale</label>` : "";
+      out.push(`<div class="prod" data-p="${pk}"><div class="prod-h"><b>${esc(name)}</b>${meta}</div>${(!sec.pick&&note)?`<p class="pn">${esc(note)}</p>`:""}<div class="sz">`);
+      sizes.forEach(([s,q],zi)=>{
+        const k=key(si,pi,zi);
+        out.push(`<div class="cell ${q<0?"neg":""}" data-k="${k}" data-q="${q}"><span class="s">${esc(s)}${q<0?"<span>recount</span>":""}</span><span class="sh">Shopify: ${q}</span><input type="number" inputmode="numeric" min="0" id="st-${k}" aria-label="${esc(name)} ${esc(s)} count" placeholder="count" value="${stc[k]??""}"><span class="df"></span></div>`);
+      });
+      out.push(`</div></div>`);
+    });
+    out.push(`</div>`);
+  });
+  document.getElementById("st-body").innerHTML=out.join("");
+  document.querySelectorAll("#st-body .cell").forEach(updCell);
+  document.querySelectorAll("#st-body .prod").forEach(updProd);
+  updStat();
+}
+function updCell(c){
+  const v=c.querySelector("input").value, q=+c.dataset.q, df=c.querySelector(".df");
+  c.classList.remove("diff","match");
+  if(v===""){df.textContent="";return}
+  const d=+v-q;
+  if(d===0){c.classList.add("match");df.textContent="✓ matches"}
+  else{c.classList.add("diff");df.textContent=(d>0?"+":"")+d+" vs Shopify"}
+}
+function updProd(p){const ins=[...p.querySelectorAll("input[type=number]")];p.classList.toggle("done",ins.every(i=>i.value!==""))}
+function updStat(){
+  const cells=[...document.querySelectorAll("#st-body .cell")];
+  const done=cells.filter(c=>c.querySelector("input").value!=="").length;
+  const diffs=cells.filter(c=>c.classList.contains("diff")).length;
+  document.getElementById("st-stat").textContent=`${done} of ${cells.length} sizes counted · ${diffs} difference${diffs===1?"":"s"}`;
+}
+document.getElementById("st-body").addEventListener("input",e=>{
+  const i=e.target; if(i.type!=="number")return;
+  const c=i.closest(".cell"); stc[c.dataset.k]=i.value; if(i.value==="")delete stc[c.dataset.k];
+  updCell(c); updProd(c.closest(".prod")); updStat(); stSave();
+});
+document.getElementById("st-body").addEventListener("change",e=>{
+  const i=e.target; if(!i.classList.contains("st-pick"))return;
+  stp[i.dataset.k]=i.checked; if(!i.checked)delete stp[i.dataset.k]; stSave();
+});
+document.getElementById("st-hide").addEventListener("click",e=>{
+  const b=e.currentTarget, on=b.getAttribute("aria-pressed")!=="true";
+  b.setAttribute("aria-pressed",on?"true":"false"); b.textContent=on?"Show all products":"Hide finished products";
+  document.getElementById("st-body").classList.toggle("st-hide-done",on);
+});
+document.getElementById("st-clear").addEventListener("click",e=>{
+  const b=e.currentTarget;
+  if(b.dataset.armed!=="1"){b.dataset.armed="1";b.textContent="Tap again to clear";setTimeout(()=>{b.dataset.armed="";b.textContent="Clear counts"},3000);return}
+  stc={};stSave();renderStock();b.dataset.armed="";b.textContent="Clear counts";
+});
+document.getElementById("st-copy").addEventListener("click",e=>{
+  const b=e.currentTarget, lines=["STOCK TAKE RESULTS ("+new Date().toLocaleDateString("en-AU")+")",""];
+  const diffs=[],matched=[],missing=[];
+  ST.forEach((sec,si)=>sec.items.forEach((it,pi)=>it[1].forEach(([s,q],zi)=>{
+    const v=stc[key(si,pi,zi)];
+    if(v===undefined) missing.push(`${it[0]} ${s}`);
+    else if(+v!==q) diffs.push(`${it[0]} ${s}: Shopify ${q} → counted ${v}`);
+    else matched.push(1);
+  })));
+  lines.push("Differences:",...(diffs.length?diffs:["none"]),"",`Matched: ${matched.length}`,`Not counted: ${missing.length}`);
+  const picks=[];ST.forEach((sec,si)=>sec.items.forEach((it,pi)=>{if(stp[si+"-"+pi])picks.push(it[0])}));
+  lines.push("","Drafts to bring into the sale:",...(picks.length?picks:["none ticked"]));
+  const text=lines.join("\n");
+  const ok=()=>{b.textContent="Copied";setTimeout(()=>b.textContent="Copy results",1500)};
+  const fail=()=>{b.textContent="Copy failed. Screenshot instead";setTimeout(()=>b.textContent="Copy results",2500)};
+  try{navigator.clipboard.writeText(text).then(ok,fail)}catch(err){fail()}
+});
+renderStock();
 function show(){
   const h=location.hash.replace("#","");
   const id=TABS.includes(h)?h:"overview";
