@@ -102,6 +102,8 @@ About **$3,900 at cost** is sitting in slow stock.
 
 Debt priority is now: **Daniel (deadline) → Amex (highest interest) → Capital (fixed fee, pays itself).**
 
+**Futur MGMT (added 4 Nov):** showroom placement for June, July and August 2026 is unpaid (Jelani): 3 × €300 ≈ $1,458. Proposed to Futur as €300 instalments in Nov, Dec and Jan; on the cash page as bills.
+
 ## Phone (Optus)
 Covers Jelani's phone and her mum's. Jelani is keeping her mum's line on the business as a way of paying back the $10k her mum put in to start the business. Ask Ajaka & Co how to record it: only the business-use share of Jelani's own phone is a business expense. Mum's line could be recorded as repaying her start-up money.
 
