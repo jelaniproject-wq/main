@@ -86,7 +86,7 @@ Steps:
 1. Stop payments bouncing: only pay Amex when the money is in ANZ (e.g. set the payment for the day after a payout). Check the card's annual fee on page 1 of the statement.
 2. Stop new spending on it: freeze the card in the Amex app, remove it from Apple Pay and saved payments, and move any subscriptions to ANZ.
 3. Call the free **Small Business Debt Helpline (1800 413 828)** or **National Debt Helpline (1800 007 007)**. They can ask Amex for a hardship arrangement or lower rate, and compare a 0% balance transfer or a consolidation loan.
-4. From **Jan 2027** (after Daniel is repaid), put the $2,000/month that went to Daniel towards the Amex. From ~Apr 2027 (Capital done) add more.
+4. From **Jan 2027** (after Daniel's last $2,000 in December), put ~$2,000/month towards the Amex. From ~Apr 2027 (Capital done) add more.
 5. Sell slow stock and put the proceeds on the Amex. The Camo Hat sells well (106 in 12 months) and is **not** slow stock; the Land Rover hats are all gone. Slow stock in Shopify (28 Oct, Shopify counts, confirm on the shelf):
 
 | Item | In Shopify | Sold last 12 months | Cost each | Tied up at cost |
@@ -102,7 +102,7 @@ About **$3,900 at cost** is sitting in slow stock.
 
 Debt priority is now: **Daniel (deadline) → Amex (highest interest) → Capital (fixed fee, pays itself).**
 
-**Futur MGMT (added 4 Nov):** showroom placement for June, July and August 2026 is unpaid (Jelani): 3 × €300 ≈ $1,458. **Paid in full 8 Nov: €900 = $1,493.** Daniel's first $2,000 also paid 8 Nov; $2,000 left, due by 14 Dec. Main account $1,954 after both.
+**Futur MGMT (added 4 Nov):** showroom placement for June, July and August 2026 is unpaid (Jelani): 3 × €300 ≈ $1,458. **Paid in full 8 Nov: €900 = $1,493.** Daniel's loan was $6,000: payment 1 of 3 ($2,000) paid 8 Nov; **$4,000 left** (2 × $2,000, proposed ~7 Dec and ~21 Dec, dates to confirm with Daniel). Main account $1,954 after both.
 
 ## Phone (Optus)
 Covers Jelani's phone and her mum's. Jelani is keeping her mum's line on the business as a way of paying back the $10k her mum put in to start the business. Ask Ajaka & Co how to record it: only the business-use share of Jelani's own phone is a business expense. Mum's line could be recorded as repaying her start-up money.
