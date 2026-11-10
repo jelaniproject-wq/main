@@ -56,6 +56,7 @@ Money check: a 3–4 style collection (~600–800 pieces) is roughly $8–11k of
 ## Bali / Uluwatu rest (suggested 10 Nov)
 - **Late Feb – early Mar 2027, 5–7 days**: factories are shut or slow around Chinese New Year (6 Feb) and Collection 1 samples are in progress, so it's the quietest business window of the year. Bali's wet season, but usually short showers.
 - Budget ~$1,500–2,500, saved from the personal wage Dec–Feb (separate from the weddings fund). Arrange someone to pack orders, or add a 'dispatch delayed' notice.
+- **Jelani prefers October (10 Nov).** Works if: Europe ends by early Sep, Collection 2 launches **late September** instead of mid-October, Bali ~5–12 Oct (dry season), and Black Friday prep happens mid–late October on return. Someone covers order packing.
 - Alternative: a longer Bali trip in late Jan 2028, after summer and the November weddings.
 
 ## How to keep it real
