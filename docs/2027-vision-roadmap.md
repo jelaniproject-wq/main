@@ -59,6 +59,22 @@ Money check: a 3–4 style collection (~600–800 pieces) is roughly $8–11k of
 - **Jelani prefers October (10 Nov).** Works if: Europe ends by early Sep, Collection 2 launches **late September** instead of mid-October, Bali ~5–12 Oct (dry season), and Black Friday prep happens mid–late October on return. Someone covers order packing.
 - Alternative: a longer Bali trip in late Jan 2028, after summer and the November weddings.
 
+## Europe 2027 (personal budget, estimate 10 Nov)
+- 2026 trip actually cost ~$14,500 (flights ~$2,700, accommodation ~$2,900, car ~$950, cash ~$1,860, card spending ~$6,000), across ING and the ANZ business account.
+- 2027: 3–4 weeks, late Jul–Sep. Wish list: Albania, Greece, Croatia, Serbia, Ibiza, maybe London.
+- Estimate **~$8,500** (return flights ~$2,000–2,500 booked early; flights/ferries in Europe ~$500; ~25 nights at ~$110 avg; ~$120/day spending). Balkans are cheaper; Ibiza and London are the expensive stops, so keep them short.
+- Save **~$230/week from Dec 2026** to leave mid-Aug. Business pays only the genuine shoot/China costs, and only if it can afford them.
+
+## Personal savings plan 2027 (estimate)
+| Goal | Target | Per week |
+|---|---|---|
+| Europe | ~$8,500 | ~$230 (from Dec) |
+| Weddings | ~$3,500 | ~$80 (Jan–Oct) |
+| Bali | ~$2,000 | ~$50 |
+| Buffer | ~$1,000 | ~$40 |
+| **Total** | | **~$400** |
+Room in the budget: ~$160/week now, ~$310–335 with Depop to savings, fun money at $200, Beem paybacks saved and no business top-ups. Gap closes with a shorter Bali, Bali in early 2028, or the pay rise once the Amex is under control.
+
 ## How to keep it real
 - One "dream fund" savings account (personal) once the Amex is under control; trips come from it, never from the business account or a card.
 - Business trips (Europe shoot, China) planned with a budget and a goal (content, interviews, production), so they pay back.
