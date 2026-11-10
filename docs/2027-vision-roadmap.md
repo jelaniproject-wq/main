@@ -26,9 +26,10 @@ Jelani's plans for 2027, sequenced so each one is unlocked by the finances rathe
 | **Q1 (Jan–Mar)** | Indie top stage 1 (~$600–800); Siena on bikini fit/workmanship; HER series launch with features already in progress (Daisy); restock before/after CNY | Weddings as they come; bridesmaid fund starts |
 | **Q2 (Apr–Jun)** | Cafe Roma event + pop-up (should make money, not just cost); top sample → production; place the summer 2027–28 swim order | |
 | **Q3 (Jul–Sep)** | **China factory visit** on the way to/from Europe, timed with the summer production run; dress design | **Europe, late Jul–Sep**: friends + a JELANI shoot (summer content for the AU season) + HER interviews (business share claimable, check with Ajaka) |
-| **Q4 (Oct–Dec)** | Black Friday 2027 from a fully stocked position; overseas pop-up if the Sydney one worked | **Bali / Uluwatu** rest |
+| **Q4 (Oct–Dec)** | **Black Friday 2027 prepared by end of October** (offer, emails, ads, stock) because November is full; overseas pop-up if the Sydney one worked | **3 weddings in November 2027, incl. best friend's (bridesmaid)**; Bali / Uluwatu after Black Friday (Dec) or early 2028 |
 
 ## How to keep it real
 - One "dream fund" savings account (personal) once the Amex is under control; trips come from it, never from the business account or a card.
 - Business trips (Europe shoot, China) planned with a budget and a goal (content, interviews, production), so they pay back.
 - Review this roadmap at each quarter start alongside the cash page.
+- **Weddings fund (personal):** 3 weddings in Nov 2027 (one as bridesmaid). Rough guess $3,000–5,000 all-in (dress, hens, gifts, outfits, travel); save ~$300–450/month from Jan 2027. Refine once dates, locations and bridesmaid costs are known.
