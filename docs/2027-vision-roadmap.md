@@ -57,4 +57,10 @@ Money check: a 3–4 style collection (~600–800 pieces) is roughly $8–11k of
 - One "dream fund" savings account (personal) once the Amex is under control; trips come from it, never from the business account or a card.
 - Business trips (Europe shoot, China) planned with a budget and a goal (content, interviews, production), so they pay back.
 - Review this roadmap at each quarter start alongside the cash page.
-- **Weddings fund (personal):** 3 weddings in Nov 2027 (one as bridesmaid). Rough guess $3,000–5,000 all-in (dress, hens, gifts, outfits, travel); save ~$300–450/month from Jan 2027. Refine once dates, locations and bridesmaid costs are known.
+- **Weddings fund (personal), Nov 2027: target ~$3,500, ~$350/month Jan–Oct 2027.** Rough guesses:
+  | Wedding | Pays for | Estimate |
+  |---|---|---|
+  | Best friend (bridesmaid; accom + hair/makeup covered) | Dress, big present, hens (date unknown) | ~$850–1,700 |
+  | Gold Coast | Flights, accommodation, dress, makeup, gift | ~$1,100–1,850 |
+  | Cousin (Dad likely covers accom) | Dress, present | ~$300–500 |
+  Savings ideas: book Gold Coast flights early; rewear one dress across two weddings with different crowds.
