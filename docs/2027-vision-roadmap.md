@@ -32,6 +32,7 @@ Jelani's plans for 2027, sequenced so each one is unlocked by the finances rathe
 - Goal of the China trip: quality, seeing where the pieces come from, meeting the team.
 - **Ruby** (knows workmanship) checks every **pre-production sample** in Sydney and writes the fix list before each order; ask her rate per check.
 - Optional third-party inspection in China before shipping (get quotes).
+- **China stop budget (business cost, estimate):** ~$1,000–1,500 (extra flight leg or stopover ~$300–800, 3–4 nights ~$400, local transport/translator ~$300). Paid by the business only if cash allows in July. Check China visa rules for Australians nearer the time.
 - Jelani visits the factory solo with the Europe trip in 2027; a joint trip with Ruby during sampling once orders are bigger (2028).
 
 
