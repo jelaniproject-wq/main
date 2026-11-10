@@ -34,6 +34,25 @@ Jelani's plans for 2027, sequenced so each one is unlocked by the finances rathe
 - Optional third-party inspection in China before shipping (get quotes).
 - Jelani visits the factory solo with the Europe trip in 2027; a joint trip with Ruby during sampling once orders are bigger (2028).
 
+
+## Collections 2027 (draft 10 Nov)
+Typical timeline per collection: design + tech packs 4–6 weeks → samples 2 rounds, ~4–6 weeks (Ruby checks) → production 4–6 weeks (paid 100% upfront) → shipping 1–2 weeks (air) → shoot → launch. **~4–5 months**. Chinese New Year 2027 (6 Feb) closes factories for several weeks around it.
+
+**Collection 1: launch early May 2027** (before May–June, the two biggest months in 2026)
+| When | Step |
+|---|---|
+| Dec 2026 – mid Jan 2027 | Designs + tech packs (Siena/Indie); samples ordered before the CNY shutdown if possible |
+| Late Feb – Mar | Samples back, Ruby's fix list, final samples |
+| Mar | Pay production (100% upfront), funded by the Stock account + summer sales |
+| Mid–late Apr | Stock arrives; shoot |
+| Early May | Launch |
+
+**Second half: two options**
+- **A (suggested, because of the three November weddings):** Collection 2 launches **early October** (design May–Jun, samples Jun–Jul, production Aug, China visit could see it). Black Friday then sells a fresh collection plus restocked bestsellers, with November kept light.
+- **B:** restock bestsellers to land in October, Collection 2 launches straight after Black Friday (early Dec) for the Aussie summer and Christmas. More sales potential, but its prep lands in Oct–Nov with the weddings.
+
+Money check: a 3–4 style collection (~600–800 pieces) is roughly $8–11k of stock at ~$14/piece, plus samples and a shoot. Collection 1 may need to start smaller (2–3 styles) or use pre-orders, since it's paid in March just as Capital finishes.
+
 ## How to keep it real
 - One "dream fund" savings account (personal) once the Amex is under control; trips come from it, never from the business account or a card.
 - Business trips (Europe shoot, China) planned with a budget and a goal (content, interviews, production), so they pay back.
