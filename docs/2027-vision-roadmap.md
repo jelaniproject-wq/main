@@ -26,7 +26,7 @@ Jelani's plans for 2027, sequenced so each one is unlocked by the finances rathe
 | **Q1 (Jan–Mar)** | Indie top stage 1 (~$600–800); Siena on bikini fit/workmanship; HER series launch with features already in progress (Daisy); restock before/after CNY | Weddings as they come; bridesmaid fund starts |
 | **Q2 (Apr–Jun)** | Cafe Roma event + pop-up (should make money, not just cost); top sample → production; place the summer 2027–28 swim order | |
 | **Q3 (Jul–Sep)** | **China factory visit** on the way to/from Europe, timed with the summer production run, to meet the team and see where pieces are made; dress design | **Europe, late Jul–Sep**: friends + a JELANI shoot (summer content for the AU season) + HER interviews (business share claimable, check with Ajaka) |
-| **Q4 (Oct–Dec)** | **Black Friday 2027 prepared by end of October** (offer, emails, ads, stock) because November is full; overseas pop-up if the Sydney one worked | **3 weddings in November 2027, incl. best friend's (bridesmaid)**; Bali / Uluwatu after Black Friday (Dec) or early 2028 |
+| **Q4 (Oct–Dec)** | **Black Friday 2027 prepared by end of October** (offer, emails, ads, stock) because November is full; overseas pop-up if the Sydney one worked | **3 weddings in November 2027, incl. best friend's (bridesmaid)**; Bali moved: see below |
 
 ## Quality control (decided direction, 10 Nov)
 - Goal of the China trip: quality, seeing where the pieces come from, meeting the team.
@@ -52,6 +52,11 @@ Typical timeline per collection: design + tech packs 4–6 weeks → samples 2 r
 - **B:** restock bestsellers to land in October, Collection 2 launches straight after Black Friday (early Dec) for the Aussie summer and Christmas. More sales potential, but its prep lands in Oct–Nov with the weddings.
 
 Money check: a 3–4 style collection (~600–800 pieces) is roughly $8–11k of stock at ~$14/piece, plus samples and a shoot. Collection 1 may need to start smaller (2–3 styles) or use pre-orders, since it's paid in March just as Capital finishes.
+
+## Bali / Uluwatu rest (suggested 10 Nov)
+- **Late Feb – early Mar 2027, 5–7 days**: factories are shut or slow around Chinese New Year (6 Feb) and Collection 1 samples are in progress, so it's the quietest business window of the year. Bali's wet season, but usually short showers.
+- Budget ~$1,500–2,500, saved from the personal wage Dec–Feb (separate from the weddings fund). Arrange someone to pack orders, or add a 'dispatch delayed' notice.
+- Alternative: a longer Bali trip in late Jan 2028, after summer and the November weddings.
 
 ## How to keep it real
 - One "dream fund" savings account (personal) once the Amex is under control; trips come from it, never from the business account or a card.
