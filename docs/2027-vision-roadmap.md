@@ -93,5 +93,5 @@ Room in the budget: ~$160/week now, ~$310–335 with Depop to savings, fun money
 ## Looking ahead: travel ideas (10 Nov)
 - China + Vietnam (factory visit with Ruby if not done in 2027)
 - Later 2028: Korea and Japan
-- 2029: back to Europe
+- 2029: back to Europe, or South America
 Same approach as 2027: personal trips from savings goals, business parts only when a milestone is met.
