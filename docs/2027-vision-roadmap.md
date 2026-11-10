@@ -24,8 +24,8 @@ Jelani's plans for 2027, sequenced so each one is unlocked by the finances rathe
 | When | Business | Personal |
 |---|---|---|
 | **Q1 (Jan–Mar)** | Indie top stage 1 (~$600–800); Siena on bikini fit/workmanship; HER series launch with features already in progress (Daisy); restock before/after CNY | Weddings as they come; bridesmaid fund starts |
-| **Q2 (Apr–Jun)** | Cafe Roma event + pop-up (should make money, not just cost); top sample → production | **Europe**: friends + a JELANI shoot + HER interviews (business share of costs claimable, check with Ajaka) |
-| **Q3 (Jul–Sep)** | **China factory visit**, timed with a production order; dress design | |
+| **Q2 (Apr–Jun)** | Cafe Roma event + pop-up (should make money, not just cost); top sample → production; place the summer 2027–28 swim order | |
+| **Q3 (Jul–Sep)** | **China factory visit** on the way to/from Europe, timed with the summer production run; dress design | **Europe, late Jul–Sep**: friends + a JELANI shoot (summer content for the AU season) + HER interviews (business share claimable, check with Ajaka) |
 | **Q4 (Oct–Dec)** | Black Friday 2027 from a fully stocked position; overseas pop-up if the Sydney one worked | **Bali / Uluwatu** rest |
 
 ## How to keep it real
