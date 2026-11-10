@@ -112,3 +112,13 @@ Pay rise expected end of Nov (amount unknown). Boss offered to help start a shar
 1. Amex (~24% interest) first: the pay rise goes here, or to the ING consolidation loan once approved.
 2. Emergency buffer: about one month of expenses (~$5,000) in Savings Maximiser.
 3. Then shares (start small) and salary sacrifice to super. Super is locked until retirement age and lowers take-home pay, which lenders look at, so wait until after any ING loan application.
+
+## Stock fund goal: Collection 1 (agreed 10 Nov)
+Target **~$7,000 in the Stock account by mid-March 2027**, so Collection 1 (May launch) is paid 100% upfront with no loan.
+| Source | Est. by mid-March |
+|---|---|
+| Weekly transfer $150 (from 1 Dec), $200 from Jan if Main allows | ~$2,800 |
+| 10% top-ups after big weeks (Black Friday, blue bikini launch, Dec/Jan summer) | ~$1,200 |
+| Jan–Mar: split the ~$2,000/month freed after Daniel: $1,000 Amex, $1,000 Stock | ~$3,000 |
+| **Total** | **~$7,000** |
+Checkpoints: end Dec ~$1,500 · end Jan ~$3,000 · end Feb ~$5,000 · mid-Mar ~$7,000. If short, Collection 1 starts with 2 styles or uses pre-orders. Once Capital is repaid (~Mar–Apr), 17% more of sales goes to Stock, so Collection 2 is easier.
