@@ -89,3 +89,8 @@ Room in the budget: ~$160/week now, ~$310–335 with Depop to savings, fun money
   | Gold Coast | Flights, accommodation, dress, makeup, gift | ~$1,100–1,850 |
   | Cousin (Dad likely covers accom) | Dress, present | ~$300–500 |
   Savings ideas: book Gold Coast flights early; rewear one dress across two weddings with different crowds.
+
+## Looking ahead: 2028 travel ideas (10 Nov)
+- China + Vietnam (factory visit with Ruby if not done in 2027)
+- Later 2028: Korea and Japan
+Same approach as 2027: personal trips from savings goals, business parts only when a milestone is met.
