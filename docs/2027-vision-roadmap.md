@@ -48,7 +48,7 @@ Typical timeline per collection: design + tech packs 4–6 weeks → samples 2 r
 | Early May | Launch |
 
 **Second half: two options**
-- **A (suggested, because of the three November weddings):** Collection 2 launches **early October** (design May–Jun, samples Jun–Jul, production Aug, China visit could see it). Black Friday then sells a fresh collection plus restocked bestsellers, with November kept light.
+- **A (chosen direction, 10 Nov):** Collection 2 launches **mid-October, ~5–6 weeks before Black Friday, at full price and excluded from the BF discount**, so Black Friday shoppers find it while they're on the site (Jelani's idea). Also keeps November light for the weddings. Timeline: (design May–Jun, samples Jun–Jul, production Aug, China visit could see it). Black Friday then sells a fresh collection plus restocked bestsellers, with November kept light.
 - **B:** restock bestsellers to land in October, Collection 2 launches straight after Black Friday (early Dec) for the Aussie summer and Christmas. More sales potential, but its prep lands in Oct–Nov with the weddings.
 
 Money check: a 3–4 style collection (~600–800 pieces) is roughly $8–11k of stock at ~$14/piece, plus samples and a shoot. Collection 1 may need to start smaller (2–3 styles) or use pre-orders, since it's paid in March just as Capital finishes.
