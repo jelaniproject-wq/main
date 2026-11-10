@@ -75,3 +75,8 @@ From the ING statement, a weekend (Fri–Sun) of going out costs **~$290 typical
 This is more than the usual going-out spend (~$1,130/month), so savings pause until January and the self-care round ($500–800) has to fit too.
 
 Also coming: bridesmaid costs in 2027 (dress, hens, gift). Start a small monthly amount for it in the new year.
+
+## Health priority (added 10 Nov)
+- ADHD diagnosis appointment: **~$900** (personal). Health comes before trips and silly-season extras.
+- Book now (assessment waitlists are often long), pay when the appointment comes up. Ask the GP for a referral first; a referral may make part of the fee claimable on Medicare.
+- Funding: take it from the silly-season "pop-ups" line ($600) plus ~$300 from the buffer/Depop, or set aside ~$75/week for 12 weeks if the appointment is in the new year.
