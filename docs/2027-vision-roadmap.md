@@ -70,10 +70,12 @@ Money check: a 3–4 style collection (~600–800 pieces) is roughly $8–11k of
 |---|---|---|
 | Europe | ~$8,500 | ~$230 (from Dec) |
 | Weddings | ~$3,500 | ~$80 (Jan–Oct) |
-| Bali | ~$2,000 | ~$50 |
 | Buffer | ~$1,000 | ~$40 |
-| **Total** | | **~$400** |
-Room in the budget: ~$160/week now, ~$310–335 with Depop to savings, fun money at $200, Beem paybacks saved and no business top-ups. Gap closes with a shorter Bali, Bali in early 2028, or the pay rise once the Amex is under control.
+| **Total (locked in)** | | **~$350** |
+| Bali | ~$2,000 | **Milestone, not weekly saving** (see below) |
+Room in the budget: ~$160/week now, ~$310–335 with Depop to savings, fun money at $200, Beem paybacks saved and no business top-ups.
+
+**Bali is a reward milestone (agreed 10 Nov):** it's booked once any one of these happens by mid-2027: (1) the business pays Jelani a regular wage (even $500/month), (2) Collection 1 has a strong launch in May, or (3) the Amex is paid off or consolidated. Funded from that, not from weekly savings.
 
 ## How to keep it real
 - One "dream fund" savings account (personal) once the Amex is under control; trips come from it, never from the business account or a card.
