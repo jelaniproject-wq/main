@@ -4,7 +4,7 @@ Built 4 Nov 2026 from Jas's first draft ("Black Friday sale", Google Doc). This 
 a timeline and owners, and rewrites the copy against the founder interview (Brand section of CLAUDE.md on
 `claude/modest-bohr-xx7866`). Jas's structure and angles are kept.
 
-> **UPDATE 4 Nov (latest dates, these override anything below):** Early Hours **Mon 23 Nov 7pm → Wed 25 Nov 7am** (40% off everything). Public sale **Wed 25 Nov 7am → Cyber Monday 30 Nov 11:59pm**. Sign-ups 16–22 Nov (draw closes Sun 22 Nov). Sale creative due Tue 17 Nov, everything built by Fri 20 Nov. 7 emails (an extra "It's Black Friday" send on Fri 27 Nov). Tiers: 40% on tracksuits, lounge, tees, accessories and archive swim; 30% on restocked bikinis and the Camo Hat. **Two Broke Chicks cheat sheet (submitted 5 Nov):** exclusive code **TBC40**, 40% off everything, 23 Nov 7pm – 30 Nov 11:59pm, one use per customer, no stacking. The live team page is the source of truth: https://claude.ai/artifact/4DdPDrWpukLHL6nXoDER8Y
+> **UPDATE 4 Nov (latest dates, these override anything below):** Early Hours **Mon 23 Nov 7pm → Wed 25 Nov 7pm**, a full 48 hours (40% off everything). Public sale **Wed 25 Nov 7pm → Cyber Monday 30 Nov 11:59pm** (changed from 7am on 11 Nov). Sign-ups 16–22 Nov (draw closes Sun 22 Nov). Sale creative due Tue 17 Nov, everything built by Fri 20 Nov. 7 emails (an extra "It's Black Friday" send on Fri 27 Nov). Tiers: 40% on tracksuits, lounge, tees, accessories and archive swim; 30% on restocked bikinis and the Camo Hat. **Two Broke Chicks cheat sheet (submitted 5 Nov):** exclusive code **TBC40**, 40% off everything, 23 Nov 7pm – 30 Nov 11:59pm, one use per customer, no stacking. The live team page is the source of truth: https://claude.ai/artifact/4DdPDrWpukLHL6nXoDER8Y
 
 ---
 
