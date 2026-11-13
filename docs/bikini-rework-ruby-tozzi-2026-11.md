@@ -32,6 +32,27 @@
 - Any fabric claims from new fabric bases need to be confirmed before they go into copy (see CLAUDE.md > Claims).
 - Product names: keep the existing names (Scout, Isla/Romy, Sav). The Halter needs a new girl's name.
 
+## Engagement status (from texts, 13 Nov 2026)
+- Jelani loved the pitch and wants to go ahead. She asked Ruby for a freelance proposal.
+- Ruby asked how many hours. Jelani suggested pricing it in **stages**:
+  1. **Review + quality standards:** review current pieces and write up workmanship standards (one-off)
+  2. **Design + fit:** refine 2–3 styles for the next collection (one-off)
+  3. **Sourcing:** fabrics, trims and/or factories (one-off)
+  4. **Tech packs:** create and manage them for each style (ongoing)
+  5. **Production consulting:** check samples and guide each run (ongoing, priced per collection or per style)
+- **Ruby will send a few pricing options over the weekend (15–16 Nov).** She's open to feedback on her rates.
+- Once the pricing is agreed, the next step is a kickoff meeting covering goals, timelines and the other details Ruby wants to write down.
+- **Confidentiality:** Ruby flagged she needs to talk about confidentiality "because of BB" (likely a current or past employer or client; to confirm). She says it'll be fine.
+- **Ruby's ideas:**
+  - Do something during **fashion week**: a launch, a shoot, or a dinner at **Cafe Roma** (Jelani's favourite restaurant, owned by Ruby's family)
+  - Introduce a **new swimwear supplier** she knows: wide range of fabric bases and trims; techniques like burnout, embroidery, beading, knitting and macrame; also does cut and sew; works with lots of swim brands
+
+## Before signing (Claude's suggestions)
+- Put a short written agreement in place with Ruby: scope per stage, price, payment terms, deliverables, and **who owns the designs and tech packs (Jelani)**.
+- Ask Ruby to confirm her BB situation (any non-compete, or limits on working for another swim brand) and make sure nothing from BB is reused. A mutual NDA covers both sides.
+- Supplier questions: MOQs, sample cost and lead time, production lead time, recycled fabric options and certificates, payment terms.
+- Fashion week: if this means Australian Fashion Week (usually May in Sydney), samples would need to be ready around Feb–Mar 2027. Confirm the date.
+
 ## Open questions for Jelani
 1. What do you need from Claude on this? For example: feedback on the brief, sales data per style (Scout, Isla, Romy, Sav) to guide priorities, a size and returns analysis to inform the fit fixes, or a timeline.
 2. Timeline and budget for sampling, plus which manufacturer?
