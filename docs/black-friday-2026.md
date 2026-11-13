@@ -330,3 +330,27 @@ before launch (ACT and SA have their own rules).*
 - **Stock:** take the 20 hats out of Shopify stock (86 → 66) before VIP opens, so the sale can't oversell the hats
   left. Inventory change, so it needs your yes.
 - **If there are fewer than 20 qualifying orders:** keep the leftover hats for the sale. No need to change anything.
+
+---
+
+## Stock correction log
+
+**13 Nov 2026: archive swim stock corrected in Shopify (approved by Jelani).** Source: Jelani's physical count on 19 Sep 2026, minus every unit ordered since (incl. $0 `collab` gifting). Jelani confirmed no new stock arrived after 19 Sep. 35 sizes set as an inventory "correction".
+
+| Product | New stock |
+|---|---|
+| Hot Honey Top | S 9 · M 3 · L 0 |
+| Hot Honey Bottoms | S 11 · M 4 · L 5 |
+| Sav Top | S 4 · M 28 · L 0 |
+| Sav Bottoms | S 10 · M 28 · L 0 |
+| Tilly Top | S 0 · M 18 · L 0 |
+| Tilly Bottoms | S 7 · M 21 · L 2 |
+| Amalia Top | S 0 · M 17 · L 0 |
+| Amalia Bottoms | S 6 · M 0 · L 4 |
+| Pebble In Orange | Top L 7 (S/M 0) · Bottoms L 11 (S/M 0) |
+| Pebble In Pink | Top L 7 · Bottoms L 6 |
+| Pebble In Blue | Top L 1 (S/M 0) · Bottoms L 7 (S 0) |
+| Cherry On Top Adjustable Bottoms | S 0 · L 1 |
+| Jelani Land Rover Cap | 1 |
+
+Still to do: Mojito Splice (triangle top or boob tube?), Simply Cherry (white cherry), Ashton, Piña Colada; puffed terry totes (2) and Flowers In The Jungle boardies (2) aren't in Shopify.
