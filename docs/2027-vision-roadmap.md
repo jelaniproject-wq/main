@@ -28,6 +28,11 @@ Jelani's plans for 2027, sequenced so each one is unlocked by the finances rathe
 | **Q3 (Jul–Sep)** | **China factory visit** on the way to/from Europe, timed with the summer production run, to meet the team and see where pieces are made; dress design | **Europe, late Jul–Sep**: friends + a JELANI shoot (summer content for the AU season) + HER interviews (business share claimable, check with Ajaka) |
 | **Q4 (Oct–Dec)** | **Black Friday 2027 prepared by end of October** (offer, emails, ads, stock) because November is full; overseas pop-up if the Sydney one worked | **3 weddings in November 2027, incl. best friend's (bridesmaid)**; Bali moved: see below |
 
+## Ruby: design + production role (13 Nov)
+- Ruby sent a design pitch (Jelani: amazing). Asked her to price in stages: (1) review + quality standards, (2) design + fit for 2–3 Collection 1 styles, (3) sourcing, (4) tech packs, (5) production consulting. One-off stages priced each; ongoing parts per collection or monthly.
+- No start date committed until stage 1 price is known; likely stage 1 in January.
+- Sales-share/royalty: held back for now (risk of not being able to pay). If used later: % of net sales of her styles only, paid monthly from a set-aside pot, time limit and cap, in writing (check with Ajaka).
+
 ## Quality control (decided direction, 10 Nov)
 - Goal of the China trip: quality, seeing where the pieces come from, meeting the team.
 - **Ruby** (knows workmanship) checks every **pre-production sample** in Sydney and writes the fix list before each order; ask her rate per check.
