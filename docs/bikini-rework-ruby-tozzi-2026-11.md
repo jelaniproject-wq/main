@@ -53,6 +53,33 @@
 - Supplier questions: MOQs, sample cost and lead time, production lead time, recycled fabric options and certificates, payment terms.
 - Fashion week: if this means Australian Fashion Week (usually May in Sydney), samples would need to be ready around Feb–Mar 2027. Confirm the date.
 
+## Ruby's proposal (received 15 Nov 2026)
+*Ruby Tozzi: Scope of Work / Service Rates / Client Agreement, effective Nov 2026*
+- **Services:** A Design & collection development · B Product development & sourcing · C Fittings & samples · D Tech packs & production prep · E Production management & consulting
+- **Hourly rates, set by hours booked per week:** 1–3 hrs **$120/hr** · 3–6 hrs **$110/hr** · 6+ hrs **$100/hr** (Claude inferred the tier-to-rate pairing from the table: more hours gets a lower rate)
+- Brief WeChat/WhatsApp supplier messages are included free. Bigger supplier work is billable.
+- **Not included:** pattern making, grading, graded specs and garment engineering. These need a separate patternmaker or the factory, so they're an **extra cost** on top of Ruby's fee.
+- **Missing, despite "Client Agreement" in the title:** payment terms, IP ownership, confidentiality, cancellation, expenses and an hours cap. All rates are "subject to further discussion".
+
+## Affordability check (Shopify, live 15 Nov 2026)
+- Net sales over the last 12 months: **~$103.9k** (about **$8.7k a month**, ranging from $2k in Apr to $15.7k in Oct)
+- **Scout Top + Bottoms = $41.8k net, about 40% of all sales.** Next are Darcy ($18.5k), Romi ($12.5k), Flowers In The Jungle ($11.5k) and Isla ($9.0k). Sav isn't in the top 12.
+- Gross margin is not recorded yet, so profit can't be calculated. Ask Jelani for it.
+
+| If you booked… | Weekly | Monthly | Share of avg monthly net sales |
+|---|---|---|---|
+| 2 hrs/wk @ $120 | $240 | ~$1,040 | ~12% |
+| 4 hrs/wk @ $110 | $440 | ~$1,900 | ~22% |
+| 6 hrs/wk @ $100 | $600 | ~$2,600 | ~30% |
+
+**Rough hours estimate for the full 4-set rework (Claude, inferred and not measured):** 120–200 hrs, or **~$12k–$22k** in fees. That's before pattern making, samples, fabric minimums and production.
+
+**Recommendation:** her hourly rate is in a normal range for an experienced Sydney designer. The real risk is open-ended hours. Do it in phases with a fixed price or an hours cap per phase:
+1. **Phase 1, Scout only (~20–25 hrs, ~$2.5–3k cap):** workmanship standards, refine Scout's fit and fabric (no redesign), and the supplier intro. Scout is 40% of revenue, so this has the biggest payback.
+2. Use Scout's results to fund Phase 2 (one new set, probably the Halter or Bandeau), then Phase 3.
+- Agree in writing: an hours cap per phase, approval before going over, a monthly invoice with an hours log, and Jelani owning all designs and tech packs.
+- Optional to discuss: a smaller fee plus a small per-unit royalty on the styles she designs (only if both are comfortable with it).
+
 ## Open questions for Jelani
 1. What do you need from Claude on this? For example: feedback on the brief, sales data per style (Scout, Isla, Romy, Sav) to guide priorities, a size and returns analysis to inform the fit fixes, or a timeline.
 2. Timeline and budget for sampling, plus which manufacturer?
