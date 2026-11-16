@@ -80,6 +80,13 @@
 - Agree in writing: an hours cap per phase, approval before going over, a monthly invoice with an hours log, and Jelani owning all designs and tech packs.
 - Optional to discuss: a smaller fee plus a small per-unit royalty on the styles she designs (only if both are comfortable with it).
 
+## Revised plan (16 Nov 2026, after Jelani's feedback)
+Jelani's point: Scout already sells as is, so put Ruby's time into new designs. Agreed. Revised Phase 1, **capped at ~45–55 hrs (~$5–6k), spread over about 3 months (~4 hrs/wk)**:
+1. **Concepts for all four sets (~15 hrs):** sketches and CADs for Halter, Bandeau & Mini Short, Micro and Scout updates, so nothing is lost and later phases are ready to go.
+2. **Fully develop ONE new set (~30–35 hrs): the Halter** (Claude's pick: it's completely new, opens a new customer, and isn't held back by Sav's weak sales). This covers sourcing, fittings and the tech pack. Pattern making is extra.
+3. **Scout stays as is.** The only work is new colourways or prints on the existing pattern (chartreuse and plum), plus the workmanship standards doc (~5 hrs). This is the low-cost way to grow sales from the hero style.
+4. Phase 2 (Bandeau & Mini Short, or Micro) starts once the Halter is selling.
+
 ## Open questions for Jelani
 1. What do you need from Claude on this? For example: feedback on the brief, sales data per style (Scout, Isla, Romy, Sav) to guide priorities, a size and returns analysis to inform the fit fixes, or a timeline.
 2. Timeline and budget for sampling, plus which manufacturer?
