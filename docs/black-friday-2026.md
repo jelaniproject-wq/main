@@ -353,4 +353,19 @@ before launch (ACT and SA have their own rules).*
 | Cherry On Top Adjustable Bottoms | S 0 · L 1 |
 | Jelani Land Rover Cap | 1 |
 
-Still to do: Mojito Splice (triangle top or boob tube?), Simply Cherry (white cherry), Ashton, Piña Colada; puffed terry totes (2) and Flowers In The Jungle boardies (2) aren't in Shopify.
+**16 Nov 2026: second correction (approved by Jelani), stock only. Products left archived/draft on purpose (Jelani: "don't make any of them active yet").**
+
+| Product | New stock |
+|---|---|
+| Mojito Splice Triangle Top | S 8 · M 16 · L 7 |
+| Mojito Splice Bottoms | S 6 · M 18 · L 7 |
+| Simply Cherry Top (white cherry) | S 0 · M 7 · L 12 |
+| Simply Cherry Bottoms | S 0 · M 6 · L 11 |
+| Ashton Top | XS 3 · S 0 · M 2 · L 0 |
+| Ashton Bottoms | XS 1 · S 0 · M 0 · L 6 |
+| Piña Colada Top | S 3 · M 9 · L 1 |
+| Piña Colada Bottoms | S 1 · M 2 · L 0 |
+
+**Archive styles coming back for the sale (Jelani, 16 Nov):** Mojito Splice, Piña Colada, Simply Cherry, Ashton, Pebble (orange, pink, blue), Cherry On Top, Amalia, Hot Honey, Sav, Tilly, Land Rover cap, puffed terry totes, Flowers In The Jungle boardies. Don't activate any until Jelani says so.
+
+Still to do: Mojito Splice boob tube count; tracksuit count; totes (2) and FITJ boardies (2) aren't in Shopify.
