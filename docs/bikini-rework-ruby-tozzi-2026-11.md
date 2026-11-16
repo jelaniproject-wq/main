@@ -87,6 +87,13 @@ Jelani's point: Scout already sells as is, so put Ruby's time into new designs. 
 3. **Scout stays as is.** The only work is new colourways or prints on the existing pattern (chartreuse and plum), plus the workmanship standards doc (~5 hrs). This is the low-cost way to grow sales from the hero style.
 4. Phase 2 (Bandeau & Mini Short, or Micro) starts once the Halter is selling.
 
+## Lower rate + share of sales idea (16 Nov 2026)
+Jelani is considering offering Ruby a lower hourly rate plus a share of sales. Claude's view: fine to offer, **but only bounded:**
+- Applies only to the styles Ruby designs, never to all store sales. **No equity.**
+- A % of **net sales** (e.g. ~5%), for a fixed period (e.g. 18 months) or up to a dollar cap, paid quarterly from a Shopify report.
+- Example: $80/hr instead of $110/hr over ~50 hrs saves ~$1.5k now. At 5% of net sales: a Halter selling like Darcy (~$18.5k/yr) pays Ruby ~$925/yr, and one selling like Scout (~$42k/yr) pays ~$2.1k/yr. It's a shared bet on the design.
+- Put it in writing (in the freelance agreement). Ruby may prefer cash, so present it as an option, not the main ask.
+
 ## Open questions for Jelani
 1. What do you need from Claude on this? For example: feedback on the brief, sales data per style (Scout, Isla, Romy, Sav) to guide priorities, a size and returns analysis to inform the fit fixes, or a timeline.
 2. Timeline and budget for sampling, plus which manufacturer?
