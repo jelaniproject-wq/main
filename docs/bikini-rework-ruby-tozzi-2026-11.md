@@ -107,3 +107,8 @@ Source: docs/financial-plan-2026-10-28.md and docs/2027-vision-roadmap.md on bra
 1. What do you need from Claude on this? For example: feedback on the brief, sales data per style (Scout, Isla, Romy, Sav) to guide priorities, a size and returns analysis to inform the fit fixes, or a timeline.
 2. Timeline and budget for sampling, plus which manufacturer?
 3. Are Scout, Micro, Bandeau and Halter all launching together, or in stages?
+
+## Final message to Ruby (drafted 17 Nov 2026)
+- Block 1: **Nov–Mar, capped at 20 hrs**, work starts now, payments Jan–Mar (~$730/month at $110/hr). Covers concepts for all four sets, starting the Halter, samples before CNY (6 Feb) and sample checks in March.
+- Block 2: **from April, capped at 50 hrs**, for the collection launching before Black Friday.
+- Asks: book in blocks and work in bursts, check in before any week goes over 8 hrs, regular hours updates, whether rates include GST, how pattern making works, confidentiality (BB). Sales-share idea left out (on hold per Finance).
