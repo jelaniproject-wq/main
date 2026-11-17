@@ -94,6 +94,14 @@ Jelani is considering offering Ruby a lower hourly rate plus a share of sales. C
 - Example: $80/hr instead of $110/hr over ~50 hrs saves ~$1.5k now. At 5% of net sales: a Halter selling like Darcy (~$18.5k/yr) pays Ruby ~$925/yr, and one selling like Scout (~$42k/yr) pays ~$2.1k/yr. It's a shared bet on the design.
 - Put it in writing (in the freelance agreement). Ruby may prefer cash, so present it as an option, not the main ask.
 
+## Finance check (17 Nov 2026, from the Finance project's plan)
+Source: docs/financial-plan-2026-10-28.md and docs/2027-vision-roadmap.md on branch claude/modest-hamilton-9zs12i.
+- About **$2.2–2.7k a month is left after costs** (Finance estimate). Still owed: Daniel $4k (Dec), Amex ~$15k at ~24%, and Shopify Capital (17% of sales, about $1,600/month, until ~Mar–Apr 2027).
+- **Q1 design budget (Ruby + Indie combined): ~$1.5–2.5k in total.** Nothing is paid in December. The Stock fund target is $7k by mid-March for Collection 1 (May launch).
+- **$1,250/month for Ruby isn't affordable before April.** It would be 2–3x the whole Q1 design budget.
+- **Plan:** Q1 is a small block (~10–15 hrs, ~$1.1–1.7k) for concepts plus Collection 1 sample checks. **From April**, the ~$1,600/month freed when Capital is repaid funds the main 50-hr block (Halter first), aimed at **Collection 2 (design May–Jun, launch mid-Oct)**.
+- Sent to the Finance session on 17 Nov to record in the roadmap.
+
 ## Open questions for Jelani
 1. What do you need from Claude on this? For example: feedback on the brief, sales data per style (Scout, Isla, Romy, Sav) to guide priorities, a size and returns analysis to inform the fit fixes, or a timeline.
 2. Timeline and budget for sampling, plus which manufacturer?
