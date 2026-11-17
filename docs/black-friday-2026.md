@@ -369,3 +369,5 @@ before launch (ACT and SA have their own rules).*
 **Archive styles coming back for the sale (Jelani, 16 Nov):** Mojito Splice, Piña Colada, Simply Cherry, Ashton, Pebble (orange, pink, blue), Cherry On Top, Amalia, Hot Honey, Sav, Tilly, Land Rover cap, puffed terry totes, Flowers In The Jungle boardies. Don't activate any until Jelani says so.
 
 Still to do: Mojito Splice boob tube count; tracksuit count; totes (2) and FITJ boardies (2) aren't in Shopify.
+
+**17 Nov 2026:** Mojito Splice (triangle top, bottoms, boob tube) and Piña Colada (top, bottoms) moved from Archived to **Draft** (Jelani). Still hidden. Rule from Jelani: only products she has listed go live, nothing else. Boob tube stock still uncorrected (count pending). Price changes for Simply Cherry, Piña Colada, Land Rover cap and Ashton waiting on Jelani's yes.
