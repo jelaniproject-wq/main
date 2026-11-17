@@ -112,3 +112,4 @@ Source: docs/financial-plan-2026-10-28.md and docs/2027-vision-roadmap.md on bra
 - Block 1: **Nov–Mar, capped at 20 hrs**, work starts now, payments Jan–Mar (~$730/month at $110/hr). Covers concepts for all four sets, starting the Halter, samples before CNY (6 Feb) and sample checks in March.
 - Block 2: **from April, capped at 50 hrs**, for the collection launching before Black Friday.
 - Asks: book in blocks and work in bursts, check in before any week goes over 8 hrs, regular hours updates, whether rates include GST, how pattern making works, confidentiality (BB). Sales-share idea left out (on hold per Finance).
+- **Update 17 Nov:** Block 2 is no longer committed. Jelani will revisit it in March, after a finance review (Capital payoff, Collection 1 stock paid). The message now asks for $100/hr on Block 1, given the likely bigger block later.
