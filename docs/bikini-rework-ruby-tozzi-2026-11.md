@@ -101,6 +101,7 @@ Source: docs/financial-plan-2026-10-28.md and docs/2027-vision-roadmap.md on bra
 - **$1,250/month for Ruby isn't affordable before April.** It would be 2–3x the whole Q1 design budget.
 - **Plan:** Q1 is a small block (~10–15 hrs, ~$1.1–1.7k) for concepts plus Collection 1 sample checks. **From April**, the ~$1,600/month freed when Capital is repaid funds the main 50-hr block (Halter first), aimed at **Collection 2 (design May–Jun, launch mid-Oct)**.
 - Sent to the Finance session on 17 Nov to record in the roadmap.
+- **Update 17 Nov: Indie is out (Jelani).** The whole Q1 design budget (~$1.5–2.5k) now goes to Ruby, so Q1 becomes **~15–20 hrs (~$1.5–2k, ~$500–700/month)**. The main block still starts in April.
 
 ## Open questions for Jelani
 1. What do you need from Claude on this? For example: feedback on the brief, sales data per style (Scout, Isla, Romy, Sav) to guide priorities, a size and returns analysis to inform the fit fixes, or a timeline.
