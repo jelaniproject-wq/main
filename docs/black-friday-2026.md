@@ -310,8 +310,10 @@ before launch (ACT and SA have their own rules).*
 4. **How to enter:** subscribe to the JELANI THE LABEL email list during the entry period, via jelani.com.au. Anyone
    already subscribed at the start of the entry period is entered automatically. One entry per person. No purchase
    necessary.
-5. **Prize:** one winner gets $500 (RRP) of JELANI THE LABEL products of their choice, delivered free within
-   Australia. Subject to stock availability. The prize can't be exchanged for cash, and any unused value is forfeited.
+5. **Prize:** one Jelani wardrobe valued at over $500 RRP: one tracksuit set (hoodie and pants) of the winner's
+   choice, the Camo Hat, and two bikini sets (top and bottoms) of the winner's choice, in the winner's sizes and
+   subject to stock. Delivered free within Australia after the sale ends. Not redeemable as a voucher or for cash.
+   *(Changed 18 Nov: a set package valued at full price, not a voucher, so it can't be spent at sale prices. Value $518.75–$562.95 RRP. Send as a $0 `collab` order so it's left out of sales reporting.)*
 6. **Draw:** one winner drawn at random from all valid entries at 12:00pm AEDT on Monday 23 November 2026 in
    Bondi NSW.
 7. **Winner notification:** the winner is emailed by Tuesday 24 November 2026 and must reply within 7 days to claim.
