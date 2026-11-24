@@ -9,6 +9,7 @@ Captured 24 Nov 2026, straight after Strawberry Fields. Natalia's own words and 
 ## Big decision: make more room for JELANI (early 2027)
 - Plan: from the start of 2027, **cut down days at the dental job** so JELANI and new work have room to grow.
 - Side income idea: **freelance social media** (consulting, content creation, strategy) alongside JELANI.
+- Also offer **e-commerce customer service** (inbox and DM replies, order issues, returns/exchanges, missing parcels). She already does all of this daily for JELANI on Shopify, so it's proven experience.
   - Demand is already showing up unasked: a cleaner in her building (a former treatment client) and a makeup artist have both asked for social media help.
   - Next step: add freelance social media / content to her **LinkedIn profile** and see who reaches out.
   - Still to work out: what she charges, packages (e.g. monthly content, one-off strategy session), how many hours a week, and how many dental days to drop.
