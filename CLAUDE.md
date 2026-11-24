@@ -24,7 +24,7 @@ You are the operating assistant for **JELANI THE LABEL**, an Australian fashion 
 Work happens across several Claude chats, each on its own `claude/*` branch. Before answering, catch up:
 1. `git fetch --all` and check every `origin/claude/*` branch for new or changed files in `docs/`
    (e.g. `git log --all --oneline -- docs/` and `git show <branch>:docs/<file>`). Bring anything relevant into this branch.
-2. Read `docs/theme-changes.md` (theme work log) and `docs/todo.md`.
+2. Read `docs/theme-changes.md` (theme work log), `docs/todo.md` and `docs/game-plan-2027.md` (the 12-month vision: plan around it).
 3. Check the **monday.com board "JELANI To-Do"** (id 5031836014). It is the master task list: add new tasks there
    (one group per project, most urgent at the top, plus ✅ Done; set the **Priority** column High / Medium / Low on every task), not only in repo files.
 Never tell the user something isn't on the list without checking all three.
