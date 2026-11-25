@@ -40,3 +40,9 @@ So I'm opening up a few spots for freelance work in 2027:
 • E-commerce + customer service support
 
 If you're a small business or founder who needs a hand, my DMs are open. And if you know someone who does, I'd love an intro 🤍
+
+## Status (25 Nov 2026)
+- Profile done: headline, About, Jelani role, Freelance role, Services ($80/hr shown), Open to work (part-time/contract, recruiters only), Featured (Jelani link + summer shoot post + new post).
+- Post 1 (Strawberry Fields / freelance announcement) published and featured 25 Nov.
+- Post 2: founder story video (existing edited video about the epiphany that started Jelani) scheduled Mon 30 Nov, 8:00am, with the "Every brand starts with a moment" caption.
+- Next: freelance packages + prices, ask 2–3 people for recommendations, check D-Group contract re side work, Quips founder follow-up if no reply by the weekend.
