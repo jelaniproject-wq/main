@@ -44,7 +44,7 @@ Never tell the user something isn't on the list without checking all three.
 6. Never send anything to customers. Draft only.
 
 ## Brand (TODO: fill from interview)
-- Story / mission:
+- Story / mission: Natalia had the idea (her "epiphany") and started working on JELANI in 2020; it launched in June 2021. Say "six years ago it started" for the origin, "five years building/running" for the business. Built around connection, community and creativity.
 - Voice & tone (words we use / never use):
 - Target customer:
 - Visual style:
