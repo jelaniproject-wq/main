@@ -6,7 +6,7 @@ Captured from Jelani's voice notes. These are ideas only: nothing is costed, ord
 
 | # | Item | Notes |
 |---|---|---|
-| 1 | **Lighter + keyring lighter case** | A metal sleeve that a standard lighter (e.g. a Bic mini) slots into, with a keyring loop. Two versions: **"Jelani"** engraved, and **"Disco Doll"**. Visual reference: Maison Margiela's metal lighter case charm. |
+| 1 | **Lighter + keyring lighter case** | A metal sleeve that a standard lighter (e.g. a Bic mini) slots into, with the **keyring attached to the case**, so your lighter lives on your keys. Two versions: **"Jelani"** engraved, and **"Disco Doll"**. Visual reference: Maison Margiela's metal lighter case charm. Closest existing product: metal BIC lighter cases (https://youcustomizeit.com/p/Logo-Case-for-BIC-Lighters/734192), but those are printed, not engraved and have no keyring, so a metal engraver will need to make it. |
 | 2 | **Metal cigarette / trinket case** | A slim engraved metal case. Could be sold as a "trinket case" (earrings, hair clips, cards, lip balm) so it isn't only for smoking. |
 | 3 | **"Disco Tonguey" sticker** | A disco ball plus a tongue, with the words *Disco Tonguey*. |
 | 4 | **"Disco Tonguey" cards** | Little cards to hand out: *"I hope you get a disco tonguey tonight. Love, Jelani."* For festivals, Pitch, Strawberry Fields, and to drop into orders. |
