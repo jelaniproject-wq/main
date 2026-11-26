@@ -34,6 +34,19 @@ Captured 24 Nov 2026, straight after Strawberry Fields. Natalia's own words and 
 - New rule: **at every event, hand out branded keepsakes** (hats, branded lighters, other small things people keep) so people meet her, take something home and want to be part of the JELANI world.
 - To plan: a small giveaway stock to keep on hand (how many hats/lighters per event, cost per piece, budget per month), and a way to capture people (QR code to Instagram / email sign-up on the item or a card).
 
+## 2027 goals (set 27 Nov 2026, tracked on monday "🎯 2027 Goals" with milestone subitems)
+| Goal | Priority | Milestones |
+|---|---|---|
+| 2027 sales $150k (last 12 months: $113k net) | High | $29k end Mar · $63k end Jun · $95k end Sep · $150k end Dec (follows last year's seasonal pattern) |
+| All debts paid off | High | Milestones and details on the monday board · all cleared by Jun 2027 |
+| Cut back dental days | High | Check D-Group contract · decide days · give notice · first month on fewer days (Mar 2027) |
+| First 2–3 freelance clients | High | Packages + prices · LinkedIn recommendations · first client (Jan) · 3 clients (Mar) |
+| JELANI x Quips x Luca summer party | High | Meet Quips · pitch · lock in details · party (Feb 2027) |
+| JELANI events: 4+ in 2027 incl. a pop-up | High | Quips party · keepsakes + QR card · event 2 · pop-up test · event 4. Natalia is more excited about events than a pop-up store. |
+| Fashion Week with Ruby | High | Plan + budget · samples · lookbook · Fashion Week (May) |
+| Returning customers 16% → 25% | Medium | Thank-you flow · Icy check (17 Dec) · cross-sell + win-back flows · 20% · 25% |
+| New studio / office with lots of natural light | Medium | Rent budget · shortlist · lease · move in (Dec 2027) |
+
 ## Open questions to work through
 1. Freelance offer: pricing, packages, hours, and how many dental days to cut and from when.
 2. Cash flow: what JELANI + freelance need to bring in to replace the dental days.
