@@ -57,3 +57,9 @@ Main $4,283.23 funds ($4,706.77 balance). Tax saver $1,612.97, kept for the Oct�
 | **Left ~21 Dec** | **~$1,800–2,800** |
 
 Verdict: full priority restock + Daniel's $4,000 in December fits **if** Icy is already paid, the cost is ~$14/piece incl. shipping, bills are ~$1,000, and Dec sales hold at ~$2,000+/week. Check Main before Daniel's second payment; if it would drop below ~$1,500, ask him for early January.
+
+## Update: Icy paid, shoot added (26 Nov)
+- Icy is paid for and ready to sell (no cost left).
+- Shoot next week: **$1,000 photography (agreed)** + location and models (target ~$150: free location, models paid in product as `collab` orders).
+- New estimate left ~21 Dec: **~$650–1,650** (was ~$1,800–2,800), below the ~$1,500 buffer at the low end.
+- Plan: keep the full priority restock; pay Daniel $2,000 ~12–15 Dec; check Main before his second $2,000 and move it to early January if needed. Ask for the shoot balance on 14-day terms.
