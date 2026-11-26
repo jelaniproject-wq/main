@@ -14,6 +14,8 @@ Captured from Jelani's voice notes. These are ideas only: nothing is costed, ord
 | 6 | **Water bottle stuff** | Stickers or a branded bottle (details TBD). |
 | 7 | **More stickers** | General sticker sheet. |
 | 8 | **Hair clips** | Branded or patterned to match swim prints. |
+| 9 | **Jelani towels** | Beach towels (added 26 Nov). Pairs naturally with swim. |
+| 10 | **Beach bags** | Added 26 Nov. Could bundle with a towel and a bikini. |
 
 ## Draft card lines (for #4 and #5, in brand voice)
 For a "saying for the day" deck, shown here for a first gut check:
