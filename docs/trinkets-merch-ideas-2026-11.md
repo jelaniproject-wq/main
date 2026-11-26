@@ -15,7 +15,7 @@ Captured from Jelani's voice notes. These are ideas only: nothing is costed, ord
 | 7 | **More stickers** | General sticker sheet. |
 | 8 | **Hair clips** | Branded or patterned to match swim prints. |
 | 9 | **Jelani towels** | Beach towels (added 26 Nov). Pairs naturally with swim. |
-| 10 | **Beach bags** | Added 26 Nov. Could bundle with a towel and a bikini. **Reference:** a sheer yellow mesh shoulder bag in a soft teardrop shape, with contrast binding on the edges and one spiral of piping on the front (`refs/trinkets/beach-bag-mesh-spiral.png`). Mesh is right for the beach because sand falls straight through. A Jelani version could swap the spiral for a print motif or a disco ball, in burgundy binding. |
+| 10 | **Beach bags** | Added 26 Nov. Could bundle with a towel and a bikini. **Reference:** a sheer yellow mesh shoulder bag in a soft teardrop shape, with contrast binding on the edges and one spiral of piping on the front (`refs/trinkets/beach-bag-mesh-spiral.png`). Mesh is right for the beach because sand falls straight through. **Size: Jelani wants it BIGGER than the reference**, a proper beach tote that fits a towel, water bottle, book and change of clothes (roughly 50–60cm wide is a starting point to confirm with the maker). A Jelani version could swap the spiral for a print motif or a disco ball, in burgundy binding. |
 
 ## Draft card lines (for #4 and #5, in brand voice)
 For a "saying for the day" deck, shown here for a first gut check:
