@@ -46,6 +46,8 @@ Captured 24 Nov 2026, straight after Strawberry Fields. Natalia's own words and 
 | Fashion Week with Ruby | High | Plan + budget · samples · lookbook · Fashion Week (May) |
 | Returning customers 16% → 25% | Medium | Thank-you flow · Icy check (17 Dec) · cross-sell + win-back flows · 20% · 25% |
 | New studio / office with lots of natural light | Medium | Rent budget · shortlist · lease · move in (Dec 2027) |
+| Her. series up and running | High | Flo's template · intro post · Ep 1 Nina (Jan) · next 3 lined up · 6 episodes (Jun) · 12 episodes (Dec) |
+| Austria trips to see Will (x2) | High | Trip 1 early–mid Mar with a winter shoot (tracksuits/loungewear in snow) · Trip 2 Euro summer + other spots with a swim shoot for the AU-winter feed · JELANI set up to run while away |
 
 ## Open questions to work through
 1. Freelance offer: pricing, packages, hours, and how many dental days to cut and from when.
