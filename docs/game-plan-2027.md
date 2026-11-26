@@ -46,7 +46,7 @@ Captured 24 Nov 2026, straight after Strawberry Fields. Natalia's own words and 
 | Fashion Week with Ruby | High | Plan + budget · samples · lookbook · Fashion Week (May) |
 | Returning customers 16% → 25% | Medium | Thank-you flow · Icy check (17 Dec) · cross-sell + win-back flows · 20% · 25% |
 | New studio / office with lots of natural light | Medium | Rent budget · shortlist · lease · move in (Dec 2027) |
-| Her. series up and running | High | Flo's template · intro post · Ep 1 Nina (Jan) · next 3 lined up · 6 episodes (Jun) · 12 episodes (Dec) |
+| Her. series up and running | High | Redo designs with Flo (Feb) · interview 4–5 more women so 3–4 episodes are ready before launch (Mar) · intro post + launch event + Ep 1 Nina (Apr) · 4 episodes (Jul) · 9 episodes, one a month (Dec). Launch moved after the Austria trip so the designs can be redone. |
 | Austria trips to see Will (x2) | High | Trip 1 early–mid Mar with a winter shoot (tracksuits/loungewear in snow) · Trip 2 Euro summer + other spots with a swim shoot for the AU-winter feed · JELANI set up to run while away |
 
 ## Open questions to work through
