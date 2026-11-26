@@ -18,7 +18,7 @@ Based on Jelani's catch-up (26–27 Nov) and the restock brief `docs/bf-2026-res
 | Amex: minimum + interest-level payment | unknown (~$300 minimum guess) |
 | Monthly bills (Jas, Lily, Fletcher, Nadia, apps) | unknown |
 | Icy production (if not already paid) | unknown |
-| Daniel | $2,000, from Icy sales ~12–15 Dec |
+| Daniel | **$4,000 left** (Jelani, 26 Nov): $2,000 from Icy sales ~12–15 Dec; second $2,000 ideally mid–late Jan (ask Daniel), else before his holiday with a smaller restock |
 
 ## Recommendation
 - **New stock is already covered by Icy** (launching 9–10 Dec). Ruby's new shapes are samples only until Collection 1 (May), so this order should be ~85–90% restock, not 70/30.
@@ -35,7 +35,7 @@ Based on Jelani's catch-up (26–27 Nov) and the restock brief `docs/bf-2026-res
 3. Monthly bills total
 4. Amex balance + minimum
 5. Icy: how many sets, what they cost, and whether already paid
-6. Daniel's holiday date (and whether $2,000 or $4,000 is left)
+6. Daniel's holiday date, and whether the second $2,000 can wait until January
 
 ## Personal (not business money)
 Two Austria trips to see Will (early–mid March, European summer) replace or join the 2027 Europe plan; budget them in the personal savings plan.
