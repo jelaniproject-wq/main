@@ -39,3 +39,21 @@ Based on Jelani's catch-up (26–27 Nov) and the restock brief `docs/bf-2026-res
 
 ## Personal (not business money)
 Two Austria trips to see Will (early–mid March, European summer) replace or join the 2027 Europe plan; budget them in the personal savings plan.
+
+## Update 26 Nov: with the real bank balance
+Main $4,283.23 funds ($4,706.77 balance). Tax saver $1,612.97, kept for the Oct–Dec BAS (due ~28 Feb; likely bigger after Black Friday).
+
+| | Estimate |
+|---|---|
+| Main now | $4,283 |
+| + payouts ($1,764.79 + $2,751.90) | $8,800 |
+| + rest of Black Friday (after fees + Capital) | ~$13,300 by ~4 Dec |
+| − Meta to 4 Dec, Amex minimum, bills (to confirm) | ~−$2,000 |
+| **Available ~4 Dec** | **~$11,300** |
+| − Restock priority list (~560 pcs × ~$14 + shipping) | ~−$8,300 |
+| **Left ~4 Dec** | **~$3,000** |
+| + Dec sales 5–21 Dec (no Capital cut, Icy launch) | ~+$4,000–5,000 |
+| − Meta ~−$1,200, Daniel −$4,000 | |
+| **Left ~21 Dec** | **~$1,800–2,800** |
+
+Verdict: full priority restock + Daniel's $4,000 in December fits **if** Icy is already paid, the cost is ~$14/piece incl. shipping, bills are ~$1,000, and Dec sales hold at ~$2,000+/week. Check Main before Daniel's second payment; if it would drop below ~$1,500, ask him for early January.
