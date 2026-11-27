@@ -45,7 +45,21 @@ Sold = last 6 weeks (includes Black Friday, so weekly rates run high).
 - XS is strong (Scout XS 48 pieces, FITJ XS 89). Darcy, Isla and Romi have no XS: worth adding.
 - Mediums of core styles keep selling out (Darcy, Isla, Romi M at 0), but mediums of older styles are piling up (Sav M 28/28, Tilly M 18/21, Amalia Top M 17). Core styles need more M; new or one-off styles need fewer.
 
-## 🟢 FINAL suggested order (27 Nov 2026), sent to Jelani
+## 📨 ORDER REQUEST SENT TO FACTORY (27 Nov 2026), awaiting price, deposit terms and CNY ship date
+Cash-limited (Jelani can't spend ~$9k). 380 pieces, ~$5.3k at ~$14/piece, ~$2.7k today if a 50% deposit is accepted.
+
+| Style | XS | S | M |
+|---|---|---|---|
+| Scout Top | 25 | 50 | 20 |
+| Scout Bottoms | 25 | 50 | 15 |
+| Darcy Top | – | 40 | 25 |
+| Darcy Bottoms | – | 40 | 25 |
+| FITJ Top | – | 35 | – |
+| FITJ Bottoms | – | 30 | – |
+
+Decisions: **Isla is being phased out** (sells ~5/wk at full price, about half Scout/Darcy; overlaps Romi + Icy; Ruby's "Micro" set replaces it). Let the last stock sell, then move to drafts (needs a yes). Asked the factory to check the Darcy top pattern (runs small). Next order after CNY: FITJ M, Romi Bottoms S/M, Romi Top M, Darcy L, more Scout XS.
+
+## 🟢 FINAL suggested order (27 Nov 2026), sent to Jelani (superseded by the cash-limited order above)
 Full order ~780 pcs (~$10.9k at ~$14). Cash-tight version ~635 pcs (~$8.9k).
 
 | Style / size | Top full | Top tight | Bottoms full | Bottoms tight |
