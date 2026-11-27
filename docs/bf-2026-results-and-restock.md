@@ -45,7 +45,10 @@ Sold = last 6 weeks (includes Black Friday, so weekly rates run high).
 - XS is strong (Scout XS 48 pieces, FITJ XS 89). Darcy, Isla and Romi have no XS: worth adding.
 - Mediums of core styles keep selling out (Darcy, Isla, Romi M at 0), but mediums of older styles are piling up (Sav M 28/28, Tilly M 18/21, Amalia Top M 17). Core styles need more M; new or one-off styles need fewer.
 
-## 📨 ORDER REQUEST SENT TO FACTORY (27 Nov 2026), awaiting price, deposit terms and CNY ship date
+## ✅ ORDER CONFIRMED (27 Nov 2026, YE368)
+Quote: 207.5 sets = $2,627.50 + metal logos $228 (batch of 1,000) + logo sewing $62.25 = **$2,917.75 production, paid upfront** (no deposit split). **Shipping $446, paid before shipping.** Total $3,363.75 (assumed USD, ≈ A$5,200). Factory: "if you paid today, we can ship out before CNY holiday surely". Exact ship and arrival dates to confirm. FITJ raised to 50 sets (S 35 / M 15 each) to hit the $12.8/set price (under 50 sets = $18). Not in this order: Romi (Bottoms S at 8, ~1 week left; check the unopened box), Darcy L, Scout Top L, Isla (phasing out).
+
+## 📨 Order request sent to factory (27 Nov 2026)
 Cash-limited (Jelani can't spend ~$9k). 380 pieces, ~$5.3k at ~$14/piece, ~$2.7k today if a 50% deposit is accepted.
 
 | Style | XS | S | M |
