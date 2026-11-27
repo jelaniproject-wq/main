@@ -45,7 +45,14 @@ Sold = last 6 weeks (includes Black Friday, so weekly rates run high).
 - XS is strong (Scout XS 48 pieces, FITJ XS 89). Darcy, Isla and Romi have no XS: worth adding.
 - Mediums of core styles keep selling out (Darcy, Isla, Romi M at 0), but mediums of older styles are piling up (Sav M 28/28, Tilly M 18/21, Amalia Top M 17). Core styles need more M; new or one-off styles need fewer.
 
-## ✅ UPDATED restock list (27 Nov 2026) — use this one
+## ⚠️ Correction (27 Nov, later): the table below UNDERCOUNTS
+Almost all 28 Aug–22 Nov sales happened after the 13 Oct restock (Darcy S and Isla S were at 0 before it), so dividing by 12.4 weeks roughly halved real demand. **Use the finance chat's order in `docs/restock-vs-new-stock-2026-11-26.md` (branch claude/modest-hamilton-9zs12i) as the base**, with these changes:
+- In-stock sell rate 13 Oct–22 Nov (5.7 wks, pre-BF): Scout Bottoms S ~10/wk, Darcy S ~9/wk, Scout Top S ~8/wk, FITJ XS ~5.5/wk, Scout XS ~5.5/wk, Isla S ~5/wk (then 20+ each in the 4 BF days), Scout Top M ~4.4/wk.
+- **How fast we sell out:** XS/S of core styles sell out ~5–6 weeks after a restock (Darcy S +58 gone in ~5.5 wks; Scout S, Scout XS ~6 wks; Isla S 3 left after ~6.5 wks incl. BF). Mediums last ~2–3 months, Larges 3+.
+- Adjust: Scout Top S 45→70 (match bottoms), Scout XS 25/20→40/40 (don't drop it), Darcy S 45/45→60/60 if cash allows. If cash is short, trim FITJ M and Romi Bottoms M first (least evidence), not Scout/Darcy Smalls.
+- Count the unopened box and Dad's garage before ordering. Confirm with the factory whether the 25 Nov pre-CNY cutoff still allows an order paid ~1–4 Dec.
+
+## (Undercounted) restock list, 27 Nov
 Method: 12 weeks of **normal (pre-Black Friday) demand**, 28 Aug–22 Nov sales ÷ 12.4 weeks × 12, minus live stock, rounded to 5. Sizes that were sold out for part of that time (Darcy M, FITJ S/M, Romi M) and sizes with big back-in-stock lists (Scout Top XS: 52 sign-ups) get a bump. Confirm the box + garage counts before ordering.
 
 | Style | XS | S | M | L | Total |
