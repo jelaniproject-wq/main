@@ -50,6 +50,8 @@ Almost all 28 Aug–22 Nov sales happened after the 13 Oct restock (Darcy S and 
 - In-stock sell rate 13 Oct–22 Nov (5.7 wks, pre-BF): Scout Bottoms S ~10/wk, Darcy S ~9/wk, Scout Top S ~8/wk, FITJ XS ~5.5/wk, Scout XS ~5.5/wk, Isla S ~5/wk (then 20+ each in the 4 BF days), Scout Top M ~4.4/wk.
 - **How fast we sell out:** XS/S of core styles sell out ~5–6 weeks after a restock (Darcy S +58 gone in ~5.5 wks; Scout S, Scout XS ~6 wks; Isla S 3 left after ~6.5 wks incl. BF). Mediums last ~2–3 months, Larges 3+.
 - Adjust: Scout Top S 45→70 (match bottoms), Scout XS 25/20→40/40 (don't drop it), Darcy S 45/45→60/60 if cash allows. If cash is short, trim FITJ M and Romi Bottoms M first (least evidence), not Scout/Darcy Smalls.
+- **Darcy M (checked 27 Nov):** back-in-stock sign-ups since the 13 Oct restock: Top M 15, Bottoms M 9 (more than any size except FITJ S and Romi Bottoms S). Sold out since early Sept, so sales show ~0. Emails show Darcy runs small (M → L/XL exchange, S top too small, S → M exchange), so some S demand is really M. Order **Darcy M 30/30 and Darcy L 10/5**, ask the factory to check the Darcy top pattern, and add "runs small, size up" to the product page.
+- Back-in-stock sign-ups since 13 Oct (people waiting now): FITJ Top S 24 / Bottoms S 15 · Romi Bottoms S 16 · Darcy Top M 15 / Bottoms M 9 · Darcy S 9/9 · FITJ M 9/7 · Scout Top S 7 · Romi Bottoms M 6, Romi Top M 6 · Isla Top M 5. (Scout Top XS's 50 sign-ups were almost all before 13 Oct, so mostly covered by that restock.)
 - Count the unopened box and Dad's garage before ordering. Confirm with the factory whether the 25 Nov pre-CNY cutoff still allows an order paid ~1–4 Dec.
 
 ## (Undercounted) restock list, 27 Nov
