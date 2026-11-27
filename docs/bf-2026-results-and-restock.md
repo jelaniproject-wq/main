@@ -45,8 +45,32 @@ Sold = last 6 weeks (includes Black Friday, so weekly rates run high).
 - XS is strong (Scout XS 48 pieces, FITJ XS 89). Darcy, Isla and Romi have no XS: worth adding.
 - Mediums of core styles keep selling out (Darcy, Isla, Romi M at 0), but mediums of older styles are piling up (Sav M 28/28, Tilly M 18/21, Amalia Top M 17). Core styles need more M; new or one-off styles need fewer.
 
-## Suggested restock to cover Dec–Feb (~12 weeks), core styles only
-Rough quantities at ~80% of the Black Friday-inflated rate. Confirm the box and garage counts first.
+## ✅ UPDATED restock list (27 Nov 2026) — use this one
+Method: 12 weeks of **normal (pre-Black Friday) demand**, 28 Aug–22 Nov sales ÷ 12.4 weeks × 12, minus live stock, rounded to 5. Sizes that were sold out for part of that time (Darcy M, FITJ S/M, Romi M) and sizes with big back-in-stock lists (Scout Top XS: 52 sign-ups) get a bump. Confirm the box + garage counts before ordering.
+
+| Style | XS | S | M | L | Total |
+|---|---|---|---|---|---|
+| Scout Top | 40 | 50 | 20 | 5 | 115 |
+| Scout Bottoms | 35 | 50 | – | – | 85 |
+| Darcy Top | – | 50 | 20 | 5 | 75 |
+| Darcy Bottoms | – | 50 | 20 | 5 | 75 |
+| FITJ Top | 35 | 25 | 10 | – | 70 |
+| FITJ Bottoms | 35 | 25 | 10 | 5 | 75 |
+| Isla Top | – | 30 | 15 | 5 | 50 |
+| Isla Bottoms | – | 30 | 15 | 5 | 50 |
+| Romi Top | – | – | 10 | – (+3 XL) | 13 |
+| Romi Bottoms | – | 15 | 10 | 5 | 30 |
+| **Total** | | | | | **~640 pieces** |
+
+Tiers if cash is tight:
+- **Tier 1 (~345 pcs):** Scout Top XS/S, Scout Bottoms XS/S, Darcy S top + bottoms, FITJ XS top + bottoms. All sold out or nearly, highest demand.
+- **Tier 2 (~210 pcs):** Isla S/M, FITJ S/M, Darcy M.
+- **Tier 3 (~85 pcs):** Romi M/L/XL, Scout Top M/L, Darcy L, Isla L, FITJ Bottoms L.
+
+Don't restock: Scout Bottoms M/L (26/29 in stock), FITJ Top L (10), Camo Hat (~50), older styles (Sav, Tilly, Amalia, Hot Honey).
+
+## (Superseded) First-pass restock, 26 Nov
+Rough quantities at ~80% of the Black Friday-inflated rate. Replaced by the table above.
 
 | Style | XS | S | M | L |
 |---|---|---|---|---|
