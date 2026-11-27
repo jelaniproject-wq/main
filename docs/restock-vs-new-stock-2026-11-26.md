@@ -63,3 +63,27 @@ Verdict: full priority restock + Daniel's $4,000 in December fits **if** Icy is 
 - Shoot next week: **$1,000 photography (agreed)** + location and models (target ~$150: free location, models paid in product as `collab` orders).
 - New estimate left ~21 Dec: **~$650–1,650** (was ~$1,800–2,800), below the ~$1,500 buffer at the low end.
 - Plan: keep the full priority restock; pay Daniel $2,000 ~12–15 Dec; check Main before his second $2,000 and move it to early January if needed. Ask for the shoot balance on 14-day terms.
+
+## Restock order: final recommendation (27 Nov, with customer demand)
+Sources: live Shopify stock (27 Nov), 42-day sales, Klaviyo back-in-stock sign-ups (371 since 1 Sep; Nov weighted more, since the Oct restock covered most Sep sign-ups) and customer emails (no names kept here). Jelani has FITJ XS physically; Smalls are the gap.
+
+**Back-in-stock sign-ups since 1 Nov (people waiting now):** FITJ Top S 15, M 8 · FITJ Bottoms S 8, M 6 · Darcy S 8/8, M 7/7 · Romi Bottoms S 6, M 6 · Scout Top S 5 · Isla Top M 5 · Scout XS 3/3 · Romi Top M 2.
+
+**Emails:** about 5 of 7 exchanges were sizing *up* (Isla L→XL, Isla M→L, Darcy M→XL, FITJ S→M, Scout Bottoms XS→S ×2). One customer measured the FITJ top as smaller than the Scout top in the same size. Tops seem to run small, so keep M/L in the order and ask the factory to check the FITJ pattern.
+
+| Style | Top | Bottoms | Why |
+|---|---|---|---|
+| Scout S | 45 | 70 | Best seller; bottoms S at 5 |
+| Scout XS | 25 | 20 | Sold out; 45 sign-ups (mostly Sep–Oct) |
+| Scout Top M | 20 | – | 11 left, ~6/week |
+| Darcy S | 45 | 45 | Sold out, 8+8 waiting |
+| Darcy M | 25 | 25 | Sold out, 7+7 waiting |
+| Isla S | 40 | 40 | 3 left, sold 42 in 6 weeks |
+| Isla M | 20 | 15 | Sold out, 5 waiting |
+| FITJ S | 50 | 45 | Sold out, 23 waiting (top requests are highest) |
+| FITJ M | 30 | 25 | Sold out, 14 waiting |
+| Romi Bottoms S / M | – | 35 / 20 | S at 8, M at 0, 12 waiting |
+| **Total** | | | **~640 pcs, ~$9,000 at ~$14/piece** |
+
+If cash is tighter: drop Romi Bottoms and Scout XS (−100 pcs, −$1,400 → ~$7,600).
+Not in this order: FITJ XS (in stock), Romi Top S (19), Scout Bottoms M/L, Larges, XL; review after CNY.
