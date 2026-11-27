@@ -45,6 +45,27 @@ Sold = last 6 weeks (includes Black Friday, so weekly rates run high).
 - XS is strong (Scout XS 48 pieces, FITJ XS 89). Darcy, Isla and Romi have no XS: worth adding.
 - Mediums of core styles keep selling out (Darcy, Isla, Romi M at 0), but mediums of older styles are piling up (Sav M 28/28, Tilly M 18/21, Amalia Top M 17). Core styles need more M; new or one-off styles need fewer.
 
+## 🟢 FINAL suggested order (27 Nov 2026), sent to Jelani
+Full order ~780 pcs (~$10.9k at ~$14). Cash-tight version ~635 pcs (~$8.9k).
+
+| Style / size | Top full | Top tight | Bottoms full | Bottoms tight |
+|---|---|---|---|---|
+| Scout XS | 40 | 30 | 40 | 30 |
+| Scout S | 70 | 60 | 70 | 60 |
+| Scout M | 20 | 20 | – | – |
+| Darcy S | 60 | 50 | 60 | 50 |
+| Darcy M | 30 | 30 | 30 | 30 |
+| Darcy L | 10 | 5 | 5 | 5 |
+| Isla S | 40 | 35 | 40 | 35 |
+| Isla M | 20 | 20 | 15 | 15 |
+| Isla L | 5 | – | 5 | – |
+| FITJ S | 50 | 45 | 45 | 40 |
+| FITJ M | 30 | 15 | 25 | 10 |
+| Romi S | – | – | 35 | 30 |
+| Romi M | 15 | 10 | 20 | 10 |
+
+Not ordered: FITJ XS (Jelani has stock, confirm count), Romi Top S (19), Scout Bottoms M/L, Scout Top L, other Larges/XL, older styles. Before paying: CNY cutoff with factory, real cost per piece, box + garage count.
+
 ## ⚠️ Correction (27 Nov, later): the table below UNDERCOUNTS
 Almost all 28 Aug–22 Nov sales happened after the 13 Oct restock (Darcy S and Isla S were at 0 before it), so dividing by 12.4 weeks roughly halved real demand. **Use the finance chat's order in `docs/restock-vs-new-stock-2026-11-26.md` (branch claude/modest-hamilton-9zs12i) as the base**, with these changes:
 - In-stock sell rate 13 Oct–22 Nov (5.7 wks, pre-BF): Scout Bottoms S ~10/wk, Darcy S ~9/wk, Scout Top S ~8/wk, FITJ XS ~5.5/wk, Scout XS ~5.5/wk, Isla S ~5/wk (then 20+ each in the 4 BF days), Scout Top M ~4.4/wk.
